@@ -1,1 +1,8 @@
 Project Goals:
+1. Visualize and clean Brazil's case data: extract features and split data into train and test groups
+2. Project future case trends for Brazil's data only
+3. Overlay data from other countries (ex. US, Italy) using time since "Day 0" to predict Brazil's cases based on world's trends
+4. Categorize "level of response" of various countries (ex. South Korea v. US), apply the case growth and flattening rate from
+these countries to Brazil's data and compare - gives insight into the future prospects of Brazil's cases under varying government 
+prevention measures and responses
+5.
