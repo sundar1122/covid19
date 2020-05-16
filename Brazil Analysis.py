@@ -12,6 +12,6 @@ import pandas as pd
 
 
 ## loading and reading in csv dataset using pandas
-brazil_df = pd.read_csv('brazil_covid19.csv')
+brazil_df = pd.read_csv('brazil_covid19_revised.csv')
 brazil_df.head()
 
