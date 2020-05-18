@@ -1,0 +1,7 @@
+connected GitHub and downloaded data set into shared project
+visualized data in pandas dataframe
+calculated new cases in each region per day - excel formulas and updated data
+
+Next Steps:
+do a regression analysis on the basic cases and deaths data to show how many cases/deaths accumulated over time: use data
+up until May 6th as training data, and data points after May 6 as test predictive data
