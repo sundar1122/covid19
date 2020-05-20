@@ -1,0 +1,22 @@
+easier way to change dates to date-time format using df.to_datetime()
+moving avergaes are more accurate than rolling because moving averages take the mean of the values around a specified value 
+rather than the whole preceding data set
+
+error analysis: the most accurate model is the one that minimizes the sum of the square of errors
+
+continuing analysis
+-try the log transformation and carry out the whole prediction test + error analysis
+-also try the cuberoot transformation along with the sqrt one and compare
+-try the prediction for about 50 data points (majority of the data set)
+-also: try the autoregressive prediction on the original data (without transforming/correcting for stationarity) - just see 
+what happens
+
+Neural Networks:
+-coursera course: Stanford University: Andrew Ng
+  -intro to machine learning course that explains logistic regression and neural networks well
+  
+Preparation:
+-set up WhatsApp
+-install keras : tools for doing neural networks
+
+Next Meeting: Thursday 7-8 PM
