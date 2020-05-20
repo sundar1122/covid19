@@ -7,7 +7,7 @@ error analysis: the most accurate model is the one that minimizes the sum of the
 continuing analysis
 -try the log transformation and carry out the whole prediction test + error analysis
 -also try the cuberoot transformation along with the sqrt one and compare
--try the prediction for about 50 data points (majority of the data set)
+-try the prediction for majority of the data set (i used 40/65 data points as test)
 -also: try the autoregressive prediction on the original data (without transforming/correcting for stationarity) - just see 
 what happens
 
