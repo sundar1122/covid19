@@ -169,8 +169,8 @@ y = np.ravel(df.loc[:, df.columns == 'cases'])
 testDate = '2020-05-05'
 splitSize = X[(X['date'] <= testDate)].shape[0]
 
-# Drop the date field
-X = X.drop(['date'], axis=1)
+# Drop the date, new cases and deaths fields
+X = X.drop(['date', 'newCases', 'deaths'], axis=1)
 
 
 X_train_orig, X_test_orig = dataFrame[:splitSize], dataFrame[splitSize:]
