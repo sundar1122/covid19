@@ -1,1 +1,1681 @@
-ï»¿date,region,state,cases,newCases,deaths3/7/20,Centro-Oeste,Distrito Federal,1,1,03/8/20,Centro-Oeste,Distrito Federal,1,0,03/9/20,Centro-Oeste,Distrito Federal,1,0,03/10/20,Centro-Oeste,Distrito Federal,1,0,03/11/20,Centro-Oeste,Distrito Federal,2,1,03/12/20,Centro-Oeste,Distrito Federal,2,0,03/13/20,Centro-Oeste,Distrito Federal,2,0,03/14/20,Centro-Oeste,Distrito Federal,6,4,03/15/20,Centro-Oeste,Distrito Federal,8,2,03/16/20,Centro-Oeste,Distrito Federal,13,5,03/17/20,Centro-Oeste,Distrito Federal,22,9,03/18/20,Centro-Oeste,Distrito Federal,26,4,03/19/20,Centro-Oeste,Distrito Federal,42,16,03/20/20,Centro-Oeste,Distrito Federal,87,45,03/21/20,Centro-Oeste,Distrito Federal,100,13,03/22/20,Centro-Oeste,Distrito Federal,117,17,03/23/20,Centro-Oeste,Distrito Federal,133,16,03/24/20,Centro-Oeste,Distrito Federal,160,27,03/25/20,Centro-Oeste,Distrito Federal,160,0,03/26/20,Centro-Oeste,Distrito Federal,200,40,03/27/20,Centro-Oeste,Distrito Federal,230,30,03/28/20,Centro-Oeste,Distrito Federal,260,30,03/29/20,Centro-Oeste,Distrito Federal,289,29,13/30/20,Centro-Oeste,Distrito Federal,312,23,13/31/20,Centro-Oeste,Distrito Federal,332,20,34/1/20,Centro-Oeste,Distrito Federal,355,23,34/2/20,Centro-Oeste,Distrito Federal,370,15,44/3/20,Centro-Oeste,Distrito Federal,402,32,54/4/20,Centro-Oeste,Distrito Federal,454,52,74/5/20,Centro-Oeste,Distrito Federal,468,14,74/6/20,Centro-Oeste,Distrito Federal,473,5,104/7/20,Centro-Oeste,Distrito Federal,492,19,124/8/20,Centro-Oeste,Distrito Federal,509,17,124/9/20,Centro-Oeste,Distrito Federal,527,18,134/10/20,Centro-Oeste,Distrito Federal,555,28,144/11/20,Centro-Oeste,Distrito Federal,579,24,144/12/20,Centro-Oeste,Distrito Federal,614,35,144/13/20,Centro-Oeste,Distrito Federal,638,24,154/14/20,Centro-Oeste,Distrito Federal,651,13,174/15/20,Centro-Oeste,Distrito Federal,682,31,174/16/20,Centro-Oeste,Distrito Federal,716,34,204/17/20,Centro-Oeste,Distrito Federal,746,30,204/18/20,Centro-Oeste,Distrito Federal,762,16,244/19/20,Centro-Oeste,Distrito Federal,827,65,244/20/20,Centro-Oeste,Distrito Federal,872,45,244/21/20,Centro-Oeste,Distrito Federal,881,9,244/22/20,Centro-Oeste,Distrito Federal,946,65,254/23/20,Centro-Oeste,Distrito Federal,963,17,254/24/20,Centro-Oeste,Distrito Federal,989,26,264/25/20,Centro-Oeste,Distrito Federal,1013,24,264/26/20,Centro-Oeste,Distrito Federal,1066,53,274/27/20,Centro-Oeste,Distrito Federal,1146,80,274/28/20,Centro-Oeste,Distrito Federal,1213,67,284/29/20,Centro-Oeste,Distrito Federal,1275,62,284/30/20,Centro-Oeste,Distrito Federal,1356,81,305/1/20,Centro-Oeste,Distrito Federal,1466,110,305/2/20,Centro-Oeste,Distrito Federal,1566,100,315/3/20,Centro-Oeste,Distrito Federal,1649,83,335/4/20,Centro-Oeste,Distrito Federal,1768,119,335/5/20,Centro-Oeste,Distrito Federal,1818,50,335/6/20,Centro-Oeste,Distrito Federal,1906,88,345/7/20,Centro-Oeste,Distrito Federal,2258,352,355/8/20,Centro-Oeste,Distrito Federal,2442,184,375/9/20,Centro-Oeste,Distrito Federal,2576,134,395/10/20,Centro-Oeste,Distrito Federal,2682,106,425/11/20,Centro-Oeste,Distrito Federal,2783,101,445/12/20,Centro-Oeste,Distrito Federal,2979,196,465/13/20,Centro-Oeste,Distrito Federal,3192,213,485/14/20,Centro-Oeste,Distrito Federal,3416,224,513/13/20,Centro-Oeste,GoiÃŒÃs,3,3,03/14/20,Centro-Oeste,GoiÃŒÃs,3,0,03/15/20,Centro-Oeste,GoiÃŒÃs,3,0,03/16/20,Centro-Oeste,GoiÃŒÃs,3,0,03/17/20,Centro-Oeste,GoiÃŒÃs,6,3,03/18/20,Centro-Oeste,GoiÃŒÃs,8,2,03/19/20,Centro-Oeste,GoiÃŒÃs,12,4,03/20/20,Centro-Oeste,GoiÃŒÃs,15,3,03/21/20,Centro-Oeste,GoiÃŒÃs,20,5,03/22/20,Centro-Oeste,GoiÃŒÃs,21,1,03/23/20,Centro-Oeste,GoiÃŒÃs,23,2,03/24/20,Centro-Oeste,GoiÃŒÃs,27,4,03/25/20,Centro-Oeste,GoiÃŒÃs,29,2,03/26/20,Centro-Oeste,GoiÃŒÃs,39,10,13/27/20,Centro-Oeste,GoiÃŒÃs,49,10,13/28/20,Centro-Oeste,GoiÃŒÃs,56,7,13/29/20,Centro-Oeste,GoiÃŒÃs,58,2,13/30/20,Centro-Oeste,GoiÃŒÃs,61,3,13/31/20,Centro-Oeste,GoiÃŒÃs,65,4,14/1/20,Centro-Oeste,GoiÃŒÃs,71,6,14/2/20,Centro-Oeste,GoiÃŒÃs,73,2,14/3/20,Centro-Oeste,GoiÃŒÃs,88,15,24/4/20,Centro-Oeste,GoiÃŒÃs,103,15,24/5/20,Centro-Oeste,GoiÃŒÃs,115,12,34/6/20,Centro-Oeste,GoiÃŒÃs,119,4,54/7/20,Centro-Oeste,GoiÃŒÃs,133,14,54/8/20,Centro-Oeste,GoiÃŒÃs,158,25,74/9/20,Centro-Oeste,GoiÃŒÃs,179,21,74/10/20,Centro-Oeste,GoiÃŒÃs,191,12,84/11/20,Centro-Oeste,GoiÃŒÃs,209,18,104/12/20,Centro-Oeste,GoiÃŒÃs,229,20,144/13/20,Centro-Oeste,GoiÃŒÃs,233,4,154/14/20,Centro-Oeste,GoiÃŒÃs,284,51,154/15/20,Centro-Oeste,GoiÃŒÃs,304,20,154/16/20,Centro-Oeste,GoiÃŒÃs,318,14,164/17/20,Centro-Oeste,GoiÃŒÃs,335,17,164/18/20,Centro-Oeste,GoiÃŒÃs,378,43,184/19/20,Centro-Oeste,GoiÃŒÃs,393,15,184/20/20,Centro-Oeste,GoiÃŒÃs,403,10,194/21/20,Centro-Oeste,GoiÃŒÃs,421,18,194/22/20,Centro-Oeste,GoiÃŒÃs,438,17,214/23/20,Centro-Oeste,GoiÃŒÃs,453,15,234/24/20,Centro-Oeste,GoiÃŒÃs,486,33,244/25/20,Centro-Oeste,GoiÃŒÃs,506,20,254/26/20,Centro-Oeste,GoiÃŒÃs,573,67,254/27/20,Centro-Oeste,GoiÃŒÃs,616,43,264/28/20,Centro-Oeste,GoiÃŒÃs,661,45,274/29/20,Centro-Oeste,GoiÃŒÃs,705,44,274/30/20,Centro-Oeste,GoiÃŒÃs,781,76,295/1/20,Centro-Oeste,GoiÃŒÃs,808,27,295/2/20,Centro-Oeste,GoiÃŒÃs,825,17,305/3/20,Centro-Oeste,GoiÃŒÃs,850,25,305/4/20,Centro-Oeste,GoiÃŒÃs,861,11,305/5/20,Centro-Oeste,GoiÃŒÃs,922,61,385/6/20,Centro-Oeste,GoiÃŒÃs,1024,102,445/7/20,Centro-Oeste,GoiÃŒÃs,1027,3,445/8/20,Centro-Oeste,GoiÃŒÃs,1053,26,495/9/20,Centro-Oeste,GoiÃŒÃs,1069,16,475/10/20,Centro-Oeste,GoiÃŒÃs,1093,24,475/11/20,Centro-Oeste,GoiÃŒÃs,1100,7,495/12/20,Centro-Oeste,GoiÃŒÃs,1115,15,525/13/20,Centro-Oeste,GoiÃŒÃs,1134,19,615/14/20,Centro-Oeste,GoiÃŒÃs,1423,289,643/20/20,Centro-Oeste,Mato Grosso,1,1,03/21/20,Centro-Oeste,Mato Grosso,2,1,03/22/20,Centro-Oeste,Mato Grosso,2,0,03/23/20,Centro-Oeste,Mato Grosso,2,0,03/24/20,Centro-Oeste,Mato Grosso,7,5,03/25/20,Centro-Oeste,Mato Grosso,8,1,03/26/20,Centro-Oeste,Mato Grosso,11,3,03/27/20,Centro-Oeste,Mato Grosso,11,0,03/28/20,Centro-Oeste,Mato Grosso,13,2,03/29/20,Centro-Oeste,Mato Grosso,16,3,03/30/20,Centro-Oeste,Mato Grosso,18,2,03/31/20,Centro-Oeste,Mato Grosso,25,7,04/1/20,Centro-Oeste,Mato Grosso,27,2,04/2/20,Centro-Oeste,Mato Grosso,36,9,04/3/20,Centro-Oeste,Mato Grosso,44,8,14/4/20,Centro-Oeste,Mato Grosso,56,12,14/5/20,Centro-Oeste,Mato Grosso,60,4,14/6/20,Centro-Oeste,Mato Grosso,76,16,14/7/20,Centro-Oeste,Mato Grosso,78,2,14/8/20,Centro-Oeste,Mato Grosso,90,12,14/9/20,Centro-Oeste,Mato Grosso,108,18,24/10/20,Centro-Oeste,Mato Grosso,112,4,24/11/20,Centro-Oeste,Mato Grosso,121,9,34/12/20,Centro-Oeste,Mato Grosso,123,2,34/13/20,Centro-Oeste,Mato Grosso,134,11,44/14/20,Centro-Oeste,Mato Grosso,138,4,44/15/20,Centro-Oeste,Mato Grosso,151,13,44/16/20,Centro-Oeste,Mato Grosso,156,5,54/17/20,Centro-Oeste,Mato Grosso,162,6,54/18/20,Centro-Oeste,Mato Grosso,171,9,54/19/20,Centro-Oeste,Mato Grosso,174,3,54/20/20,Centro-Oeste,Mato Grosso,181,7,64/21/20,Centro-Oeste,Mato Grosso,181,0,64/22/20,Centro-Oeste,Mato Grosso,183,2,64/23/20,Centro-Oeste,Mato Grosso,221,38,74/24/20,Centro-Oeste,Mato Grosso,240,19,84/25/20,Centro-Oeste,Mato Grosso,247,7,94/26/20,Centro-Oeste,Mato Grosso,250,3,94/27/20,Centro-Oeste,Mato Grosso,257,7,104/28/20,Centro-Oeste,Mato Grosso,261,4,114/29/20,Centro-Oeste,Mato Grosso,292,31,114/30/20,Centro-Oeste,Mato Grosso,297,5,115/1/20,Centro-Oeste,Mato Grosso,320,23,115/2/20,Centro-Oeste,Mato Grosso,331,11,125/3/20,Centro-Oeste,Mato Grosso,337,6,125/4/20,Centro-Oeste,Mato Grosso,344,7,135/5/20,Centro-Oeste,Mato Grosso,365,21,135/6/20,Centro-Oeste,Mato Grosso,379,14,135/7/20,Centro-Oeste,Mato Grosso,417,38,135/8/20,Centro-Oeste,Mato Grosso,457,40,145/9/20,Centro-Oeste,Mato Grosso,502,45,165/10/20,Centro-Oeste,Mato Grosso,519,17,185/11/20,Centro-Oeste,Mato Grosso,541,22,195/12/20,Centro-Oeste,Mato Grosso,591,50,195/13/20,Centro-Oeste,Mato Grosso,661,70,205/14/20,Centro-Oeste,Mato Grosso,719,58,233/16/20,Centro-Oeste,Mato Grosso do Sul,2,2,03/17/20,Centro-Oeste,Mato Grosso do Sul,4,2,03/18/20,Centro-Oeste,Mato Grosso do Sul,7,3,03/19/20,Centro-Oeste,Mato Grosso do Sul,7,0,03/20/20,Centro-Oeste,Mato Grosso do Sul,9,2,03/21/20,Centro-Oeste,Mato Grosso do Sul,16,7,03/22/20,Centro-Oeste,Mato Grosso do Sul,21,5,03/23/20,Centro-Oeste,Mato Grosso do Sul,21,0,03/24/20,Centro-Oeste,Mato Grosso do Sul,23,2,03/25/20,Centro-Oeste,Mato Grosso do Sul,24,1,03/26/20,Centro-Oeste,Mato Grosso do Sul,25,1,03/27/20,Centro-Oeste,Mato Grosso do Sul,28,3,03/28/20,Centro-Oeste,Mato Grosso do Sul,31,3,03/29/20,Centro-Oeste,Mato Grosso do Sul,36,5,03/30/20,Centro-Oeste,Mato Grosso do Sul,44,8,03/31/20,Centro-Oeste,Mato Grosso do Sul,48,4,14/1/20,Centro-Oeste,Mato Grosso do Sul,51,3,14/2/20,Centro-Oeste,Mato Grosso do Sul,53,2,14/3/20,Centro-Oeste,Mato Grosso do Sul,60,7,14/4/20,Centro-Oeste,Mato Grosso do Sul,62,2,14/5/20,Centro-Oeste,Mato Grosso do Sul,65,3,14/6/20,Centro-Oeste,Mato Grosso do Sul,66,1,14/7/20,Centro-Oeste,Mato Grosso do Sul,80,14,24/8/20,Centro-Oeste,Mato Grosso do Sul,85,5,24/9/20,Centro-Oeste,Mato Grosso do Sul,89,4,24/10/20,Centro-Oeste,Mato Grosso do Sul,97,8,24/11/20,Centro-Oeste,Mato Grosso do Sul,100,3,24/12/20,Centro-Oeste,Mato Grosso do Sul,101,1,24/13/20,Centro-Oeste,Mato Grosso do Sul,113,12,44/14/20,Centro-Oeste,Mato Grosso do Sul,115,2,44/15/20,Centro-Oeste,Mato Grosso do Sul,121,6,44/16/20,Centro-Oeste,Mato Grosso do Sul,131,10,54/17/20,Centro-Oeste,Mato Grosso do Sul,143,12,54/18/20,Centro-Oeste,Mato Grosso do Sul,161,18,54/19/20,Centro-Oeste,Mato Grosso do Sul,168,7,54/20/20,Centro-Oeste,Mato Grosso do Sul,171,3,54/21/20,Centro-Oeste,Mato Grosso do Sul,173,2,64/22/20,Centro-Oeste,Mato Grosso do Sul,175,2,64/23/20,Centro-Oeste,Mato Grosso do Sul,186,11,74/24/20,Centro-Oeste,Mato Grosso do Sul,213,27,74/25/20,Centro-Oeste,Mato Grosso do Sul,217,4,74/26/20,Centro-Oeste,Mato Grosso do Sul,234,17,74/27/20,Centro-Oeste,Mato Grosso do Sul,238,4,94/28/20,Centro-Oeste,Mato Grosso do Sul,240,2,94/29/20,Centro-Oeste,Mato Grosso do Sul,249,9,94/30/20,Centro-Oeste,Mato Grosso do Sul,255,6,95/1/20,Centro-Oeste,Mato Grosso do Sul,261,6,95/2/20,Centro-Oeste,Mato Grosso do Sul,266,5,95/3/20,Centro-Oeste,Mato Grosso do Sul,272,6,105/4/20,Centro-Oeste,Mato Grosso do Sul,274,2,105/5/20,Centro-Oeste,Mato Grosso do Sul,283,9,105/6/20,Centro-Oeste,Mato Grosso do Sul,288,5,105/7/20,Centro-Oeste,Mato Grosso do Sul,311,23,105/8/20,Centro-Oeste,Mato Grosso do Sul,326,15,115/9/20,Centro-Oeste,Mato Grosso do Sul,346,20,115/10/20,Centro-Oeste,Mato Grosso do Sul,362,16,115/11/20,Centro-Oeste,Mato Grosso do Sul,385,23,115/12/20,Centro-Oeste,Mato Grosso do Sul,405,20,125/13/20,Centro-Oeste,Mato Grosso do Sul,430,25,135/14/20,Centro-Oeste,Mato Grosso do Sul,452,22,143/8/20,Nordeste,Alagoas,1,1,03/9/20,Nordeste,Alagoas,1,0,03/10/20,Nordeste,Alagoas,1,0,03/11/20,Nordeste,Alagoas,1,0,03/12/20,Nordeste,Alagoas,1,0,03/13/20,Nordeste,Alagoas,1,0,03/14/20,Nordeste,Alagoas,1,0,03/15/20,Nordeste,Alagoas,1,0,03/16/20,Nordeste,Alagoas,1,0,03/17/20,Nordeste,Alagoas,1,0,03/18/20,Nordeste,Alagoas,1,0,03/19/20,Nordeste,Alagoas,4,3,03/20/20,Nordeste,Alagoas,5,1,03/21/20,Nordeste,Alagoas,7,2,03/22/20,Nordeste,Alagoas,7,0,03/23/20,Nordeste,Alagoas,7,0,03/24/20,Nordeste,Alagoas,9,2,03/25/20,Nordeste,Alagoas,11,2,03/26/20,Nordeste,Alagoas,11,0,03/27/20,Nordeste,Alagoas,11,0,03/28/20,Nordeste,Alagoas,14,3,03/29/20,Nordeste,Alagoas,17,3,03/30/20,Nordeste,Alagoas,17,0,03/31/20,Nordeste,Alagoas,18,1,14/1/20,Nordeste,Alagoas,18,0,14/2/20,Nordeste,Alagoas,18,0,14/3/20,Nordeste,Alagoas,22,4,24/4/20,Nordeste,Alagoas,23,1,24/5/20,Nordeste,Alagoas,28,5,24/6/20,Nordeste,Alagoas,31,3,24/7/20,Nordeste,Alagoas,32,1,24/8/20,Nordeste,Alagoas,37,5,24/9/20,Nordeste,Alagoas,37,0,34/10/20,Nordeste,Alagoas,45,8,34/11/20,Nordeste,Alagoas,48,3,34/12/20,Nordeste,Alagoas,48,0,34/13/20,Nordeste,Alagoas,50,2,34/14/20,Nordeste,Alagoas,72,22,44/15/20,Nordeste,Alagoas,82,10,54/16/20,Nordeste,Alagoas,89,7,54/17/20,Nordeste,Alagoas,110,21,74/18/20,Nordeste,Alagoas,132,22,74/19/20,Nordeste,Alagoas,159,27,154/20/20,Nordeste,Alagoas,171,12,184/21/20,Nordeste,Alagoas,210,39,194/22/20,Nordeste,Alagoas,243,33,204/23/20,Nordeste,Alagoas,324,81,224/24/20,Nordeste,Alagoas,413,89,274/25/20,Nordeste,Alagoas,501,88,294/26/20,Nordeste,Alagoas,554,53,324/27/20,Nordeste,Alagoas,643,89,344/28/20,Nordeste,Alagoas,777,134,364/29/20,Nordeste,Alagoas,957,180,414/30/20,Nordeste,Alagoas,1044,87,475/1/20,Nordeste,Alagoas,1226,182,535/2/20,Nordeste,Alagoas,1372,146,585/3/20,Nordeste,Alagoas,1441,69,645/4/20,Nordeste,Alagoas,1538,97,725/5/20,Nordeste,Alagoas,1606,68,805/6/20,Nordeste,Alagoas,1703,97,895/7/20,Nordeste,Alagoas,1867,164,985/8/20,Nordeste,Alagoas,2033,166,1085/9/20,Nordeste,Alagoas,2172,139,1145/10/20,Nordeste,Alagoas,2258,86,1265/11/20,Nordeste,Alagoas,2343,85,1385/12/20,Nordeste,Alagoas,2580,237,1505/13/20,Nordeste,Alagoas,2761,181,1645/14/20,Nordeste,Alagoas,2972,211,1773/6/20,Nordeste,Bahia,1,1,03/7/20,Nordeste,Bahia,2,1,03/8/20,Nordeste,Bahia,2,0,03/9/20,Nordeste,Bahia,2,0,03/10/20,Nordeste,Bahia,2,0,03/11/20,Nordeste,Bahia,2,0,03/12/20,Nordeste,Bahia,2,0,03/13/20,Nordeste,Bahia,2,0,03/14/20,Nordeste,Bahia,2,0,03/15/20,Nordeste,Bahia,2,0,03/16/20,Nordeste,Bahia,2,0,03/17/20,Nordeste,Bahia,3,1,03/18/20,Nordeste,Bahia,3,0,03/19/20,Nordeste,Bahia,30,27,03/20/20,Nordeste,Bahia,33,3,03/21/20,Nordeste,Bahia,41,8,03/22/20,Nordeste,Bahia,49,8,03/23/20,Nordeste,Bahia,63,14,03/24/20,Nordeste,Bahia,76,13,03/25/20,Nordeste,Bahia,84,8,03/26/20,Nordeste,Bahia,104,20,03/27/20,Nordeste,Bahia,115,11,03/28/20,Nordeste,Bahia,127,12,03/29/20,Nordeste,Bahia,154,27,13/30/20,Nordeste,Bahia,176,22,13/31/20,Nordeste,Bahia,213,37,24/1/20,Nordeste,Bahia,246,33,24/2/20,Nordeste,Bahia,267,21,34/3/20,Nordeste,Bahia,282,15,54/4/20,Nordeste,Bahia,332,50,74/5/20,Nordeste,Bahia,401,69,94/6/20,Nordeste,Bahia,431,30,104/7/20,Nordeste,Bahia,456,25,124/8/20,Nordeste,Bahia,497,41,154/9/20,Nordeste,Bahia,559,62,194/10/20,Nordeste,Bahia,604,45,194/11/20,Nordeste,Bahia,635,31,214/12/20,Nordeste,Bahia,673,38,214/13/20,Nordeste,Bahia,723,50,224/14/20,Nordeste,Bahia,759,36,224/15/20,Nordeste,Bahia,807,48,274/16/20,Nordeste,Bahia,951,144,304/17/20,Nordeste,Bahia,1059,108,364/18/20,Nordeste,Bahia,1193,134,374/19/20,Nordeste,Bahia,1230,37,454/20/20,Nordeste,Bahia,1341,111,464/21/20,Nordeste,Bahia,1489,148,474/22/20,Nordeste,Bahia,1644,155,504/23/20,Nordeste,Bahia,1789,145,594/24/20,Nordeste,Bahia,1962,173,644/25/20,Nordeste,Bahia,2081,119,704/26/20,Nordeste,Bahia,2209,128,734/27/20,Nordeste,Bahia,2354,145,764/28/20,Nordeste,Bahia,2540,186,864/29/20,Nordeste,Bahia,2646,106,964/30/20,Nordeste,Bahia,2851,205,1045/1/20,Nordeste,Bahia,3085,234,1175/2/20,Nordeste,Bahia,3267,182,1235/3/20,Nordeste,Bahia,3495,228,1235/4/20,Nordeste,Bahia,3734,239,1415/5/20,Nordeste,Bahia,4040,306,1465/6/20,Nordeste,Bahia,4301,261,1605/7/20,Nordeste,Bahia,4528,227,1655/8/20,Nordeste,Bahia,4818,290,1835/9/20,Nordeste,Bahia,5174,356,1965/10/20,Nordeste,Bahia,5558,384,2025/11/20,Nordeste,Bahia,5808,250,2115/12/20,Nordeste,Bahia,6204,396,2255/13/20,Nordeste,Bahia,6547,343,2365/14/20,Nordeste,Bahia,6955,408,2623/17/20,Nordeste,CearÃŒÃ,5,5,03/18/20,Nordeste,CearÃŒÃ,9,4,03/19/20,Nordeste,CearÃŒÃ,20,11,03/20/20,Nordeste,CearÃŒÃ,55,35,03/21/20,Nordeste,CearÃŒÃ,68,13,03/22/20,Nordeste,CearÃŒÃ,112,44,03/23/20,Nordeste,CearÃŒÃ,163,51,03/24/20,Nordeste,CearÃŒÃ,182,19,03/25/20,Nordeste,CearÃŒÃ,200,18,03/26/20,Nordeste,CearÃŒÃ,235,35,33/27/20,Nordeste,CearÃŒÃ,282,47,33/28/20,Nordeste,CearÃŒÃ,314,32,43/29/20,Nordeste,CearÃŒÃ,348,34,53/30/20,Nordeste,CearÃŒÃ,372,24,53/31/20,Nordeste,CearÃŒÃ,390,18,74/1/20,Nordeste,CearÃŒÃ,444,54,84/2/20,Nordeste,CearÃŒÃ,550,106,204/3/20,Nordeste,CearÃŒÃ,627,77,224/4/20,Nordeste,CearÃŒÃ,730,103,224/5/20,Nordeste,CearÃŒÃ,823,93,264/6/20,Nordeste,CearÃŒÃ,1013,190,294/7/20,Nordeste,CearÃŒÃ,1051,38,314/8/20,Nordeste,CearÃŒÃ,1291,240,434/9/20,Nordeste,CearÃŒÃ,1425,134,554/10/20,Nordeste,CearÃŒÃ,1478,53,584/11/20,Nordeste,CearÃŒÃ,1582,104,674/12/20,Nordeste,CearÃŒÃ,1676,94,744/13/20,Nordeste,CearÃŒÃ,1800,124,914/14/20,Nordeste,CearÃŒÃ,2005,205,1074/15/20,Nordeste,CearÃŒÃ,2157,152,1164/16/20,Nordeste,CearÃŒÃ,2386,229,1244/17/20,Nordeste,CearÃŒÃ,2684,298,1494/18/20,Nordeste,CearÃŒÃ,3034,350,1764/19/20,Nordeste,CearÃŒÃ,3252,218,1864/20/20,Nordeste,CearÃŒÃ,3482,230,1984/21/20,Nordeste,CearÃŒÃ,3716,234,2154/22/20,Nordeste,CearÃŒÃ,3910,194,2334/23/20,Nordeste,CearÃŒÃ,4598,688,2664/24/20,Nordeste,CearÃŒÃ,4800,202,2844/25/20,Nordeste,CearÃŒÃ,5421,621,3104/26/20,Nordeste,CearÃŒÃ,5833,412,3274/27/20,Nordeste,CearÃŒÃ,6726,893,3904/28/20,Nordeste,CearÃŒÃ,6918,192,4034/29/20,Nordeste,CearÃŒÃ,7267,349,4414/30/20,Nordeste,CearÃŒÃ,7606,339,4825/1/20,Nordeste,CearÃŒÃ,7879,273,5055/2/20,Nordeste,CearÃŒÃ,8231,352,6145/3/20,Nordeste,CearÃŒÃ,8370,139,6635/4/20,Nordeste,CearÃŒÃ,11040,2670,7125/5/20,Nordeste,CearÃŒÃ,11470,430,7955/6/20,Nordeste,CearÃŒÃ,12304,834,8485/7/20,Nordeste,CearÃŒÃ,13888,1584,9035/8/20,Nordeste,CearÃŒÃ,14956,1068,9665/9/20,Nordeste,CearÃŒÃ,15879,923,10625/10/20,Nordeste,CearÃŒÃ,16692,813,11145/11/20,Nordeste,CearÃŒÃ,17599,907,11895/12/20,Nordeste,CearÃŒÃ,18412,813,12805/13/20,Nordeste,CearÃŒÃ,19156,744,13895/14/20,Nordeste,CearÃŒÃ,21077,1921,14133/21/20,Nordeste,MaranhÃŒÂ£o,1,1,03/22/20,Nordeste,MaranhÃŒÂ£o,2,1,03/23/20,Nordeste,MaranhÃŒÂ£o,2,0,03/24/20,Nordeste,MaranhÃŒÂ£o,8,6,03/25/20,Nordeste,MaranhÃŒÂ£o,8,0,03/26/20,Nordeste,MaranhÃŒÂ£o,10,2,03/27/20,Nordeste,MaranhÃŒÂ£o,13,3,03/28/20,Nordeste,MaranhÃŒÂ£o,14,1,03/29/20,Nordeste,MaranhÃŒÂ£o,16,2,03/30/20,Nordeste,MaranhÃŒÂ£o,23,7,13/31/20,Nordeste,MaranhÃŒÂ£o,31,8,14/1/20,Nordeste,MaranhÃŒÂ£o,52,21,14/2/20,Nordeste,MaranhÃŒÂ£o,71,19,14/3/20,Nordeste,MaranhÃŒÂ£o,81,10,14/4/20,Nordeste,MaranhÃŒÂ£o,88,7,14/5/20,Nordeste,MaranhÃŒÂ£o,96,8,24/6/20,Nordeste,MaranhÃŒÂ£o,133,37,24/7/20,Nordeste,MaranhÃŒÂ£o,172,39,44/8/20,Nordeste,MaranhÃŒÂ£o,230,58,114/9/20,Nordeste,MaranhÃŒÂ£o,273,43,124/10/20,Nordeste,MaranhÃŒÂ£o,293,20,164/11/20,Nordeste,MaranhÃŒÂ£o,344,51,214/12/20,Nordeste,MaranhÃŒÂ£o,398,54,244/13/20,Nordeste,MaranhÃŒÂ£o,445,47,274/14/20,Nordeste,MaranhÃŒÂ£o,478,33,324/15/20,Nordeste,MaranhÃŒÂ£o,630,152,344/16/20,Nordeste,MaranhÃŒÂ£o,695,65,374/17/20,Nordeste,MaranhÃŒÂ£o,797,102,404/18/20,Nordeste,MaranhÃŒÂ£o,1040,243,444/19/20,Nordeste,MaranhÃŒÂ£o,1205,165,484/20/20,Nordeste,MaranhÃŒÂ£o,1320,115,544/21/20,Nordeste,MaranhÃŒÂ£o,1396,76,604/22/20,Nordeste,MaranhÃŒÂ£o,1604,208,664/23/20,Nordeste,MaranhÃŒÂ£o,1757,153,764/24/20,Nordeste,MaranhÃŒÂ£o,1951,194,884/25/20,Nordeste,MaranhÃŒÂ£o,2105,154,1004/26/20,Nordeste,MaranhÃŒÂ£o,2223,118,1124/27/20,Nordeste,MaranhÃŒÂ£o,2410,187,1254/28/20,Nordeste,MaranhÃŒÂ£o,2528,118,1454/29/20,Nordeste,MaranhÃŒÂ£o,2804,276,1664/30/20,Nordeste,MaranhÃŒÂ£o,3190,386,1845/1/20,Nordeste,MaranhÃŒÂ£o,3506,316,2045/2/20,Nordeste,MaranhÃŒÂ£o,3805,299,2245/3/20,Nordeste,MaranhÃŒÂ£o,4040,235,2375/4/20,Nordeste,MaranhÃŒÂ£o,4227,187,2495/5/20,Nordeste,MaranhÃŒÂ£o,4530,303,2715/6/20,Nordeste,MaranhÃŒÂ£o,5028,498,2915/7/20,Nordeste,MaranhÃŒÂ£o,5389,361,3055/8/20,Nordeste,MaranhÃŒÂ£o,5909,520,3305/9/20,Nordeste,MaranhÃŒÂ£o,6765,856,3555/10/20,Nordeste,MaranhÃŒÂ£o,7599,834,3795/11/20,Nordeste,MaranhÃŒÂ£o,8144,545,3995/12/20,Nordeste,MaranhÃŒÂ£o,8526,382,4235/13/20,Nordeste,MaranhÃŒÂ£o,9112,586,4445/14/20,Nordeste,MaranhÃŒÂ£o,9801,689,4703/19/20,Nordeste,ParaÃŒ_ba,1,1,03/20/20,Nordeste,ParaÃŒ_ba,1,0,03/21/20,Nordeste,ParaÃŒ_ba,1,0,03/22/20,Nordeste,ParaÃŒ_ba,1,0,03/23/20,Nordeste,ParaÃŒ_ba,2,1,03/24/20,Nordeste,ParaÃŒ_ba,3,1,03/25/20,Nordeste,ParaÃŒ_ba,3,0,03/26/20,Nordeste,ParaÃŒ_ba,5,2,03/27/20,Nordeste,ParaÃŒ_ba,9,4,03/28/20,Nordeste,ParaÃŒ_ba,14,5,03/29/20,Nordeste,ParaÃŒ_ba,14,0,03/30/20,Nordeste,ParaÃŒ_ba,15,1,03/31/20,Nordeste,ParaÃŒ_ba,17,2,04/1/20,Nordeste,ParaÃŒ_ba,20,3,14/2/20,Nordeste,ParaÃŒ_ba,21,1,14/3/20,Nordeste,ParaÃŒ_ba,29,8,14/4/20,Nordeste,ParaÃŒ_ba,32,3,24/5/20,Nordeste,ParaÃŒ_ba,34,2,44/6/20,Nordeste,ParaÃŒ_ba,35,1,44/7/20,Nordeste,ParaÃŒ_ba,36,1,44/8/20,Nordeste,ParaÃŒ_ba,41,5,44/9/20,Nordeste,ParaÃŒ_ba,55,14,74/10/20,Nordeste,ParaÃŒ_ba,79,24,114/11/20,Nordeste,ParaÃŒ_ba,85,6,114/12/20,Nordeste,ParaÃŒ_ba,101,16,134/13/20,Nordeste,ParaÃŒ_ba,111,10,134/14/20,Nordeste,ParaÃŒ_ba,136,25,164/15/20,Nordeste,ParaÃŒ_ba,151,15,214/16/20,Nordeste,ParaÃŒ_ba,165,14,244/17/20,Nordeste,ParaÃŒ_ba,195,30,264/18/20,Nordeste,ParaÃŒ_ba,205,10,264/19/20,Nordeste,ParaÃŒ_ba,236,31,294/20/20,Nordeste,ParaÃŒ_ba,245,9,324/21/20,Nordeste,ParaÃŒ_ba,263,18,334/22/20,Nordeste,ParaÃŒ_ba,301,38,394/23/20,Nordeste,ParaÃŒ_ba,345,44,404/24/20,Nordeste,ParaÃŒ_ba,386,41,444/25/20,Nordeste,ParaÃŒ_ba,447,61,464/26/20,Nordeste,ParaÃŒ_ba,499,52,494/27/20,Nordeste,ParaÃŒ_ba,543,44,504/28/20,Nordeste,ParaÃŒ_ba,633,90,534/29/20,Nordeste,ParaÃŒ_ba,699,66,584/30/20,Nordeste,ParaÃŒ_ba,814,115,625/1/20,Nordeste,ParaÃŒ_ba,926,112,675/2/20,Nordeste,ParaÃŒ_ba,1034,108,745/3/20,Nordeste,ParaÃŒ_ba,1169,135,765/4/20,Nordeste,ParaÃŒ_ba,1219,50,795/5/20,Nordeste,ParaÃŒ_ba,1361,142,855/6/20,Nordeste,ParaÃŒ_ba,1493,132,925/7/20,Nordeste,ParaÃŒ_ba,1657,164,1015/8/20,Nordeste,ParaÃŒ_ba,2031,374,1145/9/20,Nordeste,ParaÃŒ_ba,2156,125,1245/10/20,Nordeste,ParaÃŒ_ba,2341,185,1355/11/20,Nordeste,ParaÃŒ_ba,2525,184,1395/12/20,Nordeste,ParaÃŒ_ba,2777,252,1545/13/20,Nordeste,ParaÃŒ_ba,3045,268,1575/14/20,Nordeste,ParaÃŒ_ba,3361,316,1603/12/20,Nordeste,Pernambuco,2,2,03/13/20,Nordeste,Pernambuco,2,0,03/14/20,Nordeste,Pernambuco,2,0,03/15/20,Nordeste,Pernambuco,2,0,03/16/20,Nordeste,Pernambuco,2,0,03/17/20,Nordeste,Pernambuco,16,14,03/18/20,Nordeste,Pernambuco,16,0,03/19/20,Nordeste,Pernambuco,28,12,03/20/20,Nordeste,Pernambuco,30,2,03/21/20,Nordeste,Pernambuco,30,0,03/22/20,Nordeste,Pernambuco,37,7,03/23/20,Nordeste,Pernambuco,42,5,03/24/20,Nordeste,Pernambuco,42,0,03/25/20,Nordeste,Pernambuco,46,4,13/26/20,Nordeste,Pernambuco,48,2,33/27/20,Nordeste,Pernambuco,56,8,43/28/20,Nordeste,Pernambuco,68,12,53/29/20,Nordeste,Pernambuco,73,5,53/30/20,Nordeste,Pernambuco,78,5,63/31/20,Nordeste,Pernambuco,87,9,64/1/20,Nordeste,Pernambuco,95,8,84/2/20,Nordeste,Pernambuco,106,11,94/3/20,Nordeste,Pernambuco,136,30,104/4/20,Nordeste,Pernambuco,176,40,144/5/20,Nordeste,Pernambuco,201,25,214/6/20,Nordeste,Pernambuco,223,22,304/7/20,Nordeste,Pernambuco,352,129,344/8/20,Nordeste,Pernambuco,401,49,464/9/20,Nordeste,Pernambuco,555,154,564/10/20,Nordeste,Pernambuco,684,129,654/11/20,Nordeste,Pernambuco,816,132,724/12/20,Nordeste,Pernambuco,960,144,854/13/20,Nordeste,Pernambuco,1154,194,1024/14/20,Nordeste,Pernambuco,1284,130,1154/15/20,Nordeste,Pernambuco,1484,200,1434/16/20,Nordeste,Pernambuco,1683,199,1604/17/20,Nordeste,Pernambuco,2006,323,1864/18/20,Nordeste,Pernambuco,2193,187,2054/19/20,Nordeste,Pernambuco,2459,266,2164/20/20,Nordeste,Pernambuco,2690,231,2344/21/20,Nordeste,Pernambuco,2908,218,2604/22/20,Nordeste,Pernambuco,3298,390,2824/23/20,Nordeste,Pernambuco,3519,221,3124/24/20,Nordeste,Pernambuco,3999,480,3524/25/20,Nordeste,Pernambuco,4507,508,3814/26/20,Nordeste,Pernambuco,4898,391,4154/27/20,Nordeste,Pernambuco,5358,460,4504/28/20,Nordeste,Pernambuco,5724,366,5084/29/20,Nordeste,Pernambuco,6194,470,5384/30/20,Nordeste,Pernambuco,6876,682,5655/1/20,Nordeste,Pernambuco,7334,458,6035/2/20,Nordeste,Pernambuco,8145,811,6285/3/20,Nordeste,Pernambuco,8643,498,6525/4/20,Nordeste,Pernambuco,8863,220,6915/5/20,Nordeste,Pernambuco,9325,462,7495/6/20,Nordeste,Pernambuco,9881,556,8035/7/20,Nordeste,Pernambuco,10824,943,8455/8/20,Nordeste,Pernambuco,11587,763,9275/9/20,Nordeste,Pernambuco,12470,883,9725/10/20,Nordeste,Pernambuco,13275,805,10475/11/20,Nordeste,Pernambuco,13768,493,10875/12/20,Nordeste,Pernambuco,14309,541,11575/13/20,Nordeste,Pernambuco,14901,592,12245/14/20,Nordeste,Pernambuco,15588,687,12983/20/20,Nordeste,PiauÃŒ_,3,3,03/21/20,Nordeste,PiauÃŒ_,4,1,03/22/20,Nordeste,PiauÃŒ_,4,0,03/23/20,Nordeste,PiauÃŒ_,6,2,03/24/20,Nordeste,PiauÃŒ_,6,0,03/25/20,Nordeste,PiauÃŒ_,8,2,03/26/20,Nordeste,PiauÃŒ_,9,1,03/27/20,Nordeste,PiauÃŒ_,9,0,03/28/20,Nordeste,PiauÃŒ_,11,2,13/29/20,Nordeste,PiauÃŒ_,14,3,13/30/20,Nordeste,PiauÃŒ_,16,2,33/31/20,Nordeste,PiauÃŒ_,18,2,44/1/20,Nordeste,PiauÃŒ_,18,0,44/2/20,Nordeste,PiauÃŒ_,19,1,44/3/20,Nordeste,PiauÃŒ_,21,2,44/4/20,Nordeste,PiauÃŒ_,22,1,44/5/20,Nordeste,PiauÃŒ_,23,1,44/6/20,Nordeste,PiauÃŒ_,23,0,44/7/20,Nordeste,PiauÃŒ_,28,5,44/8/20,Nordeste,PiauÃŒ_,31,3,54/9/20,Nordeste,PiauÃŒ_,38,7,64/10/20,Nordeste,PiauÃŒ_,40,2,74/11/20,Nordeste,PiauÃŒ_,41,1,74/12/20,Nordeste,PiauÃŒ_,44,3,74/13/20,Nordeste,PiauÃŒ_,50,6,84/14/20,Nordeste,PiauÃŒ_,58,8,84/15/20,Nordeste,PiauÃŒ_,75,17,84/16/20,Nordeste,PiauÃŒ_,91,16,84/17/20,Nordeste,PiauÃŒ_,102,11,84/18/20,Nordeste,PiauÃŒ_,123,21,94/19/20,Nordeste,PiauÃŒ_,145,22,104/20/20,Nordeste,PiauÃŒ_,158,13,124/21/20,Nordeste,PiauÃŒ_,186,28,144/22/20,Nordeste,PiauÃŒ_,206,20,154/23/20,Nordeste,PiauÃŒ_,217,11,154/24/20,Nordeste,PiauÃŒ_,256,39,164/25/20,Nordeste,PiauÃŒ_,297,41,174/26/20,Nordeste,PiauÃŒ_,331,34,184/27/20,Nordeste,PiauÃŒ_,364,33,204/28/20,Nordeste,PiauÃŒ_,408,44,214/29/20,Nordeste,PiauÃŒ_,454,46,244/30/20,Nordeste,PiauÃŒ_,513,59,245/1/20,Nordeste,PiauÃŒ_,600,87,245/2/20,Nordeste,PiauÃŒ_,665,65,265/3/20,Nordeste,PiauÃŒ_,742,77,285/4/20,Nordeste,PiauÃŒ_,784,42,285/5/20,Nordeste,PiauÃŒ_,875,91,295/6/20,Nordeste,PiauÃŒ_,949,74,305/7/20,Nordeste,PiauÃŒ_,1051,102,355/8/20,Nordeste,PiauÃŒ_,1131,80,375/9/20,Nordeste,PiauÃŒ_,1233,102,385/10/20,Nordeste,PiauÃŒ_,1278,45,425/11/20,Nordeste,PiauÃŒ_,1332,54,455/12/20,Nordeste,PiauÃŒ_,1443,111,495/13/20,Nordeste,PiauÃŒ_,1612,169,575/14/20,Nordeste,PiauÃŒ_,1784,172,603/13/20,Nordeste,Rio Grande do Norte,1,1,03/14/20,Nordeste,Rio Grande do Norte,1,0,03/15/20,Nordeste,Rio Grande do Norte,1,0,03/16/20,Nordeste,Rio Grande do Norte,1,0,03/17/20,Nordeste,Rio Grande do Norte,1,0,03/18/20,Nordeste,Rio Grande do Norte,1,0,03/19/20,Nordeste,Rio Grande do Norte,1,0,03/20/20,Nordeste,Rio Grande do Norte,1,0,03/21/20,Nordeste,Rio Grande do Norte,6,5,03/22/20,Nordeste,Rio Grande do Norte,9,3,03/23/20,Nordeste,Rio Grande do Norte,13,4,03/24/20,Nordeste,Rio Grande do Norte,13,0,03/25/20,Nordeste,Rio Grande do Norte,14,1,03/26/20,Nordeste,Rio Grande do Norte,19,5,03/27/20,Nordeste,Rio Grande do Norte,28,9,03/28/20,Nordeste,Rio Grande do Norte,45,17,03/29/20,Nordeste,Rio Grande do Norte,68,23,13/30/20,Nordeste,Rio Grande do Norte,77,9,13/31/20,Nordeste,Rio Grande do Norte,82,5,14/1/20,Nordeste,Rio Grande do Norte,92,10,24/2/20,Nordeste,Rio Grande do Norte,105,13,24/3/20,Nordeste,Rio Grande do Norte,176,71,44/4/20,Nordeste,Rio Grande do Norte,212,36,54/5/20,Nordeste,Rio Grande do Norte,242,30,74/6/20,Nordeste,Rio Grande do Norte,246,4,74/7/20,Nordeste,Rio Grande do Norte,254,8,84/8/20,Nordeste,Rio Grande do Norte,261,7,114/9/20,Nordeste,Rio Grande do Norte,261,0,114/10/20,Nordeste,Rio Grande do Norte,263,2,114/11/20,Nordeste,Rio Grande do Norte,289,26,134/12/20,Nordeste,Rio Grande do Norte,302,13,154/13/20,Nordeste,Rio Grande do Norte,339,37,174/14/20,Nordeste,Rio Grande do Norte,376,37,184/15/20,Nordeste,Rio Grande do Norte,399,23,194/16/20,Nordeste,Rio Grande do Norte,400,1,204/17/20,Nordeste,Rio Grande do Norte,463,63,234/18/20,Nordeste,Rio Grande do Norte,516,53,244/19/20,Nordeste,Rio Grande do Norte,531,15,254/20/20,Nordeste,Rio Grande do Norte,595,64,274/21/20,Nordeste,Rio Grande do Norte,608,13,284/22/20,Nordeste,Rio Grande do Norte,646,38,294/23/20,Nordeste,Rio Grande do Norte,708,62,344/24/20,Nordeste,Rio Grande do Norte,754,46,384/25/20,Nordeste,Rio Grande do Norte,781,27,404/26/20,Nordeste,Rio Grande do Norte,825,44,444/27/20,Nordeste,Rio Grande do Norte,832,7,454/28/20,Nordeste,Rio Grande do Norte,857,25,484/29/20,Nordeste,Rio Grande do Norte,1086,229,534/30/20,Nordeste,Rio Grande do Norte,1177,91,565/1/20,Nordeste,Rio Grande do Norte,1297,120,565/2/20,Nordeste,Rio Grande do Norte,1366,69,595/3/20,Nordeste,Rio Grande do Norte,1392,26,615/4/20,Nordeste,Rio Grande do Norte,1421,29,625/5/20,Nordeste,Rio Grande do Norte,1536,115,685/6/20,Nordeste,Rio Grande do Norte,1574,38,725/7/20,Nordeste,Rio Grande do Norte,1739,165,765/8/20,Nordeste,Rio Grande do Norte,1821,82,815/9/20,Nordeste,Rio Grande do Norte,1919,98,875/10/20,Nordeste,Rio Grande do Norte,1928,9,885/11/20,Nordeste,Rio Grande do Norte,1989,61,925/12/20,Nordeste,Rio Grande do Norte,2033,44,935/13/20,Nordeste,Rio Grande do Norte,2367,334,1055/14/20,Nordeste,Rio Grande do Norte,2537,170,1173/15/20,Nordeste,Sergipe,1,1,03/16/20,Nordeste,Sergipe,1,0,03/17/20,Nordeste,Sergipe,4,3,03/18/20,Nordeste,Sergipe,5,1,03/19/20,Nordeste,Sergipe,6,1,03/20/20,Nordeste,Sergipe,6,0,03/21/20,Nordeste,Sergipe,10,4,03/22/20,Nordeste,Sergipe,10,0,03/23/20,Nordeste,Sergipe,10,0,03/24/20,Nordeste,Sergipe,15,5,03/25/20,Nordeste,Sergipe,16,1,03/26/20,Nordeste,Sergipe,16,0,03/27/20,Nordeste,Sergipe,16,0,03/28/20,Nordeste,Sergipe,16,0,03/29/20,Nordeste,Sergipe,16,0,03/30/20,Nordeste,Sergipe,16,0,03/31/20,Nordeste,Sergipe,19,3,04/1/20,Nordeste,Sergipe,20,1,04/2/20,Nordeste,Sergipe,23,3,24/3/20,Nordeste,Sergipe,25,2,24/4/20,Nordeste,Sergipe,27,2,24/5/20,Nordeste,Sergipe,32,5,34/6/20,Nordeste,Sergipe,32,0,44/7/20,Nordeste,Sergipe,36,4,44/8/20,Nordeste,Sergipe,36,0,44/9/20,Nordeste,Sergipe,39,3,44/10/20,Nordeste,Sergipe,42,3,44/11/20,Nordeste,Sergipe,42,0,44/12/20,Nordeste,Sergipe,44,2,44/13/20,Nordeste,Sergipe,44,0,44/14/20,Nordeste,Sergipe,45,1,44/15/20,Nordeste,Sergipe,46,1,44/16/20,Nordeste,Sergipe,48,2,44/17/20,Nordeste,Sergipe,53,5,44/18/20,Nordeste,Sergipe,71,18,54/19/20,Nordeste,Sergipe,83,12,54/20/20,Nordeste,Sergipe,86,3,54/21/20,Nordeste,Sergipe,92,6,54/22/20,Nordeste,Sergipe,117,25,74/23/20,Nordeste,Sergipe,124,7,84/24/20,Nordeste,Sergipe,144,20,84/25/20,Nordeste,Sergipe,153,9,94/26/20,Nordeste,Sergipe,159,6,94/27/20,Nordeste,Sergipe,197,38,104/28/20,Nordeste,Sergipe,280,83,114/29/20,Nordeste,Sergipe,337,57,124/30/20,Nordeste,Sergipe,447,110,125/1/20,Nordeste,Sergipe,517,70,145/2/20,Nordeste,Sergipe,601,84,145/3/20,Nordeste,Sergipe,730,129,145/4/20,Nordeste,Sergipe,772,42,175/5/20,Nordeste,Sergipe,898,126,215/6/20,Nordeste,Sergipe,998,100,235/7/20,Nordeste,Sergipe,1214,216,255/8/20,Nordeste,Sergipe,1438,224,285/9/20,Nordeste,Sergipe,1588,150,335/10/20,Nordeste,Sergipe,1771,183,345/11/20,Nordeste,Sergipe,1800,29,375/12/20,Nordeste,Sergipe,2032,232,375/13/20,Nordeste,Sergipe,2268,236,425/14/20,Nordeste,Sergipe,2494,226,473/19/20,Norte,Acre,3,3,03/20/20,Norte,Acre,7,4,03/21/20,Norte,Acre,9,2,03/22/20,Norte,Acre,11,2,03/23/20,Norte,Acre,11,0,03/24/20,Norte,Acre,17,6,03/25/20,Norte,Acre,23,6,03/26/20,Norte,Acre,24,1,03/27/20,Norte,Acre,25,1,03/28/20,Norte,Acre,25,0,03/29/20,Norte,Acre,34,9,03/30/20,Norte,Acre,42,8,03/31/20,Norte,Acre,42,0,04/1/20,Norte,Acre,43,1,04/2/20,Norte,Acre,43,0,04/3/20,Norte,Acre,46,3,04/4/20,Norte,Acre,46,0,04/5/20,Norte,Acre,48,2,04/6/20,Norte,Acre,50,2,04/7/20,Norte,Acre,50,0,14/8/20,Norte,Acre,54,4,24/9/20,Norte,Acre,62,8,24/10/20,Norte,Acre,70,8,24/11/20,Norte,Acre,72,2,24/12/20,Norte,Acre,77,5,24/13/20,Norte,Acre,90,13,34/14/20,Norte,Acre,99,9,34/15/20,Norte,Acre,101,2,34/16/20,Norte,Acre,110,9,54/17/20,Norte,Acre,135,25,54/18/20,Norte,Acre,142,7,54/19/20,Norte,Acre,163,21,64/20/20,Norte,Acre,176,13,84/21/20,Norte,Acre,195,19,84/22/20,Norte,Acre,214,19,84/23/20,Norte,Acre,227,13,104/24/20,Norte,Acre,234,7,114/25/20,Norte,Acre,258,24,114/26/20,Norte,Acre,279,21,114/27/20,Norte,Acre,279,0,144/28/20,Norte,Acre,311,32,164/29/20,Norte,Acre,354,43,174/30/20,Norte,Acre,404,50,195/1/20,Norte,Acre,486,82,195/2/20,Norte,Acre,553,67,215/3/20,Norte,Acre,657,104,245/4/20,Norte,Acre,733,76,285/5/20,Norte,Acre,817,84,295/6/20,Norte,Acre,943,126,335/7/20,Norte,Acre,1014,71,365/8/20,Norte,Acre,1177,163,385/9/20,Norte,Acre,1335,158,395/10/20,Norte,Acre,1447,112,415/11/20,Norte,Acre,1460,13,455/12/20,Norte,Acre,1590,130,515/13/20,Norte,Acre,1694,104,525/14/20,Norte,Acre,1740,46,553/20/20,Norte,AmapÃŒÃ,1,1,03/21/20,Norte,AmapÃŒÃ,1,0,03/22/20,Norte,AmapÃŒÃ,1,0,03/23/20,Norte,AmapÃŒÃ,1,0,03/24/20,Norte,AmapÃŒÃ,1,0,03/25/20,Norte,AmapÃŒÃ,1,0,03/26/20,Norte,AmapÃŒÃ,2,1,03/27/20,Norte,AmapÃŒÃ,2,0,03/28/20,Norte,AmapÃŒÃ,4,2,03/29/20,Norte,AmapÃŒÃ,4,0,03/30/20,Norte,AmapÃŒÃ,8,4,03/31/20,Norte,AmapÃŒÃ,10,2,04/1/20,Norte,AmapÃŒÃ,11,1,04/2/20,Norte,AmapÃŒÃ,11,0,04/3/20,Norte,AmapÃŒÃ,19,8,04/4/20,Norte,AmapÃŒÃ,28,9,14/5/20,Norte,AmapÃŒÃ,29,1,24/6/20,Norte,AmapÃŒÃ,34,5,24/7/20,Norte,AmapÃŒÃ,48,14,24/8/20,Norte,AmapÃŒÃ,107,59,24/9/20,Norte,AmapÃŒÃ,128,21,24/10/20,Norte,AmapÃŒÃ,166,38,24/11/20,Norte,AmapÃŒÃ,193,27,34/12/20,Norte,AmapÃŒÃ,230,37,54/13/20,Norte,AmapÃŒÃ,242,12,54/14/20,Norte,AmapÃŒÃ,307,65,64/15/20,Norte,AmapÃŒÃ,334,27,74/16/20,Norte,AmapÃŒÃ,362,28,94/17/20,Norte,AmapÃŒÃ,370,8,104/18/20,Norte,AmapÃŒÃ,393,23,104/19/20,Norte,AmapÃŒÃ,416,23,114/20/20,Norte,AmapÃŒÃ,433,17,134/21/20,Norte,AmapÃŒÃ,457,24,134/22/20,Norte,AmapÃŒÃ,479,22,144/23/20,Norte,AmapÃŒÃ,548,69,164/24/20,Norte,AmapÃŒÃ,633,85,184/25/20,Norte,AmapÃŒÃ,685,52,194/26/20,Norte,AmapÃŒÃ,798,113,214/27/20,Norte,AmapÃŒÃ,842,44,264/28/20,Norte,AmapÃŒÃ,918,76,284/29/20,Norte,AmapÃŒÃ,1016,98,314/30/20,Norte,AmapÃŒÃ,1080,64,345/1/20,Norte,AmapÃŒÃ,1121,41,375/2/20,Norte,AmapÃŒÃ,1187,66,405/3/20,Norte,AmapÃŒÃ,1482,295,435/4/20,Norte,AmapÃŒÃ,1733,251,495/5/20,Norte,AmapÃŒÃ,1931,198,555/6/20,Norte,AmapÃŒÃ,2046,115,565/7/20,Norte,AmapÃŒÃ,2199,153,615/8/20,Norte,AmapÃŒÃ,2322,123,665/9/20,Norte,AmapÃŒÃ,2493,171,695/10/20,Norte,AmapÃŒÃ,2613,120,725/11/20,Norte,AmapÃŒÃ,2671,58,735/12/20,Norte,AmapÃŒÃ,2910,239,865/13/20,Norte,AmapÃŒÃ,3005,95,945/14/20,Norte,AmapÃŒÃ,3428,423,1013/15/20,Norte,Amazonas,1,1,03/16/20,Norte,Amazonas,1,0,03/17/20,Norte,Amazonas,1,0,03/18/20,Norte,Amazonas,1,0,03/19/20,Norte,Amazonas,3,2,03/20/20,Norte,Amazonas,3,0,03/21/20,Norte,Amazonas,11,8,03/22/20,Norte,Amazonas,26,15,03/23/20,Norte,Amazonas,32,6,03/24/20,Norte,Amazonas,47,15,03/25/20,Norte,Amazonas,54,7,13/26/20,Norte,Amazonas,67,13,13/27/20,Norte,Amazonas,81,14,13/28/20,Norte,Amazonas,111,30,13/29/20,Norte,Amazonas,140,29,13/30/20,Norte,Amazonas,151,11,13/31/20,Norte,Amazonas,175,24,34/1/20,Norte,Amazonas,200,25,34/2/20,Norte,Amazonas,229,29,34/3/20,Norte,Amazonas,260,31,74/4/20,Norte,Amazonas,311,51,124/5/20,Norte,Amazonas,417,106,144/6/20,Norte,Amazonas,532,115,194/7/20,Norte,Amazonas,636,104,234/8/20,Norte,Amazonas,804,168,304/9/20,Norte,Amazonas,899,95,404/10/20,Norte,Amazonas,981,82,504/11/20,Norte,Amazonas,1050,69,534/12/20,Norte,Amazonas,1206,156,624/13/20,Norte,Amazonas,1275,69,714/14/20,Norte,Amazonas,1484,209,904/15/20,Norte,Amazonas,1554,70,1064/16/20,Norte,Amazonas,1719,165,1244/17/20,Norte,Amazonas,1809,90,1454/18/20,Norte,Amazonas,1897,88,1614/19/20,Norte,Amazonas,2044,147,1824/20/20,Norte,Amazonas,2160,116,1854/21/20,Norte,Amazonas,2270,110,1934/22/20,Norte,Amazonas,2479,209,2074/23/20,Norte,Amazonas,2888,409,2344/24/20,Norte,Amazonas,3194,306,2554/25/20,Norte,Amazonas,3635,441,2874/26/20,Norte,Amazonas,3833,198,3044/27/20,Norte,Amazonas,3928,95,3204/28/20,Norte,Amazonas,4337,409,3514/29/20,Norte,Amazonas,4801,464,3804/30/20,Norte,Amazonas,5254,453,4255/1/20,Norte,Amazonas,5723,469,4765/2/20,Norte,Amazonas,6062,339,5015/3/20,Norte,Amazonas,6683,621,5485/4/20,Norte,Amazonas,7242,559,5845/5/20,Norte,Amazonas,8109,867,6495/6/20,Norte,Amazonas,9243,1134,7515/7/20,Norte,Amazonas,10099,856,8065/8/20,Norte,Amazonas,10727,628,8745/9/20,Norte,Amazonas,11925,1198,9625/10/20,Norte,Amazonas,12599,674,10045/11/20,Norte,Amazonas,12919,320,10355/12/20,Norte,Amazonas,14168,1249,10985/13/20,Norte,Amazonas,15816,1648,11605/14/20,Norte,Amazonas,17181,1365,12353/19/20,Norte,ParÃŒÃ,1,1,03/20/20,Norte,ParÃŒÃ,2,1,03/21/20,Norte,ParÃŒÃ,2,0,03/22/20,Norte,ParÃŒÃ,4,2,03/23/20,Norte,ParÃŒÃ,5,1,03/24/20,Norte,ParÃŒÃ,5,0,03/25/20,Norte,ParÃŒÃ,7,2,03/26/20,Norte,ParÃŒÃ,13,6,03/27/20,Norte,ParÃŒÃ,13,0,03/28/20,Norte,ParÃŒÃ,17,4,03/29/20,Norte,ParÃŒÃ,18,1,03/30/20,Norte,ParÃŒÃ,21,3,03/31/20,Norte,ParÃŒÃ,32,11,04/1/20,Norte,ParÃŒÃ,40,8,14/2/20,Norte,ParÃŒÃ,46,6,14/3/20,Norte,ParÃŒÃ,50,4,14/4/20,Norte,ParÃŒÃ,80,30,14/5/20,Norte,ParÃŒÃ,86,6,14/6/20,Norte,ParÃŒÃ,102,16,34/7/20,Norte,ParÃŒÃ,138,36,54/8/20,Norte,ParÃŒÃ,167,29,64/9/20,Norte,ParÃŒÃ,168,1,74/10/20,Norte,ParÃŒÃ,170,2,94/11/20,Norte,ParÃŒÃ,217,47,104/12/20,Norte,ParÃŒÃ,246,29,134/13/20,Norte,ParÃŒÃ,270,24,154/14/20,Norte,ParÃŒÃ,323,53,194/15/20,Norte,ParÃŒÃ,384,61,214/16/20,Norte,ParÃŒÃ,438,54,244/17/20,Norte,ParÃŒÃ,557,119,264/18/20,Norte,ParÃŒÃ,640,83,334/19/20,Norte,ParÃŒÃ,685,45,344/20/20,Norte,ParÃŒÃ,902,217,354/21/20,Norte,ParÃŒÃ,1026,124,384/22/20,Norte,ParÃŒÃ,1195,169,434/23/20,Norte,ParÃŒÃ,1267,72,534/24/20,Norte,ParÃŒÃ,1446,179,754/25/20,Norte,ParÃŒÃ,1579,133,864/26/20,Norte,ParÃŒÃ,1867,288,1004/27/20,Norte,ParÃŒÃ,2128,261,1144/28/20,Norte,ParÃŒÃ,2262,134,1294/29/20,Norte,ParÃŒÃ,2422,160,1374/30/20,Norte,ParÃŒÃ,2876,454,2085/1/20,Norte,ParÃŒÃ,3176,300,2355/2/20,Norte,ParÃŒÃ,3460,284,2735/3/20,Norte,ParÃŒÃ,3863,403,3095/4/20,Norte,ParÃŒÃ,4125,262,3305/5/20,Norte,ParÃŒÃ,4472,347,3695/6/20,Norte,ParÃŒÃ,5017,545,3925/7/20,Norte,ParÃŒÃ,5524,507,4105/8/20,Norte,ParÃŒÃ,6141,617,5155/9/20,Norte,ParÃŒÃ,6775,634,5785/10/20,Norte,ParÃŒÃ,7256,481,6525/11/20,Norte,ParÃŒÃ,7563,307,7085/12/20,Norte,ParÃŒÃ,8616,1053,8645/13/20,Norte,ParÃŒÃ,9618,1002,9465/14/20,Norte,ParÃŒÃ,10867,1249,10633/20/20,Norte,RondÃŒÂ«nia,1,1,03/21/20,Norte,RondÃŒÂ«nia,1,0,03/22/20,Norte,RondÃŒÂ«nia,3,2,03/23/20,Norte,RondÃŒÂ«nia,3,0,03/24/20,Norte,RondÃŒÂ«nia,3,0,03/25/20,Norte,RondÃŒÂ«nia,5,2,03/26/20,Norte,RondÃŒÂ«nia,5,0,03/27/20,Norte,RondÃŒÂ«nia,6,1,03/28/20,Norte,RondÃŒÂ«nia,6,0,03/29/20,Norte,RondÃŒÂ«nia,6,0,03/30/20,Norte,RondÃŒÂ«nia,6,0,03/31/20,Norte,RondÃŒÂ«nia,8,2,14/1/20,Norte,RondÃŒÂ«nia,9,1,14/2/20,Norte,RondÃŒÂ«nia,10,1,14/3/20,Norte,RondÃŒÂ«nia,10,0,14/4/20,Norte,RondÃŒÂ«nia,11,1,14/5/20,Norte,RondÃŒÂ«nia,12,1,14/6/20,Norte,RondÃŒÂ«nia,14,2,14/7/20,Norte,RondÃŒÂ«nia,18,4,14/8/20,Norte,RondÃŒÂ«nia,18,0,14/9/20,Norte,RondÃŒÂ«nia,28,10,24/10/20,Norte,RondÃŒÂ«nia,32,4,24/11/20,Norte,RondÃŒÂ«nia,33,1,24/12/20,Norte,RondÃŒÂ«nia,35,2,24/13/20,Norte,RondÃŒÂ«nia,42,7,24/14/20,Norte,RondÃŒÂ«nia,64,22,24/15/20,Norte,RondÃŒÂ«nia,69,5,24/16/20,Norte,RondÃŒÂ«nia,76,7,34/17/20,Norte,RondÃŒÂ«nia,92,16,34/18/20,Norte,RondÃŒÂ«nia,110,18,34/19/20,Norte,RondÃŒÂ«nia,128,18,44/20/20,Norte,RondÃŒÂ«nia,160,32,44/21/20,Norte,RondÃŒÂ«nia,199,39,44/22/20,Norte,RondÃŒÂ«nia,223,24,54/23/20,Norte,RondÃŒÂ«nia,250,27,54/24/20,Norte,RondÃŒÂ«nia,290,40,54/25/20,Norte,RondÃŒÂ«nia,328,38,74/26/20,Norte,RondÃŒÂ«nia,364,36,104/27/20,Norte,RondÃŒÂ«nia,393,29,104/28/20,Norte,RondÃŒÂ«nia,413,20,114/29/20,Norte,RondÃŒÂ«nia,433,20,154/30/20,Norte,RondÃŒÂ«nia,502,69,165/1/20,Norte,RondÃŒÂ«nia,585,83,185/2/20,Norte,RondÃŒÂ«nia,653,68,235/3/20,Norte,RondÃŒÂ«nia,705,52,245/4/20,Norte,RondÃŒÂ«nia,756,51,255/5/20,Norte,RondÃŒÂ«nia,861,105,295/6/20,Norte,RondÃŒÂ«nia,943,82,335/7/20,Norte,RondÃŒÂ«nia,1098,155,375/8/20,Norte,RondÃŒÂ«nia,1222,124,395/9/20,Norte,RondÃŒÂ«nia,1263,41,415/10/20,Norte,RondÃŒÂ«nia,1302,39,435/11/20,Norte,RondÃŒÂ«nia,1396,94,475/12/20,Norte,RondÃŒÂ«nia,1460,64,505/13/20,Norte,RondÃŒÂ«nia,1612,152,505/14/20,Norte,RondÃŒÂ«nia,1686,74,563/22/20,Norte,Roraima,2,2,03/23/20,Norte,Roraima,2,0,03/24/20,Norte,Roraima,2,0,03/25/20,Norte,Roraima,8,6,03/26/20,Norte,Roraima,8,0,03/27/20,Norte,Roraima,10,2,03/28/20,Norte,Roraima,12,2,03/29/20,Norte,Roraima,16,4,03/30/20,Norte,Roraima,16,0,03/31/20,Norte,Roraima,16,0,04/1/20,Norte,Roraima,22,6,04/2/20,Norte,Roraima,26,4,04/3/20,Norte,Roraima,30,4,04/4/20,Norte,Roraima,37,7,14/5/20,Norte,Roraima,42,5,14/6/20,Norte,Roraima,42,0,14/7/20,Norte,Roraima,42,0,14/8/20,Norte,Roraima,49,7,14/9/20,Norte,Roraima,52,3,14/10/20,Norte,Roraima,63,11,34/11/20,Norte,Roraima,75,12,34/12/20,Norte,Roraima,79,4,34/13/20,Norte,Roraima,83,4,34/14/20,Norte,Roraima,113,30,34/15/20,Norte,Roraima,114,1,34/16/20,Norte,Roraima,142,28,34/17/20,Norte,Roraima,164,22,34/18/20,Norte,Roraima,201,37,34/19/20,Norte,Roraima,222,21,34/20/20,Norte,Roraima,244,22,34/21/20,Norte,Roraima,247,3,34/22/20,Norte,Roraima,280,33,34/23/20,Norte,Roraima,297,17,34/24/20,Norte,Roraima,304,7,34/25/20,Norte,Roraima,345,41,34/26/20,Norte,Roraima,401,56,44/27/20,Norte,Roraima,407,6,44/28/20,Norte,Roraima,425,18,64/29/20,Norte,Roraima,452,27,64/30/20,Norte,Roraima,519,67,75/1/20,Norte,Roraima,602,83,85/2/20,Norte,Roraima,668,66,95/3/20,Norte,Roraima,740,72,115/4/20,Norte,Roraima,806,66,115/5/20,Norte,Roraima,869,63,115/6/20,Norte,Roraima,932,63,135/7/20,Norte,Roraima,1020,88,145/8/20,Norte,Roraima,1124,104,165/9/20,Norte,Roraima,1202,78,185/10/20,Norte,Roraima,1290,88,215/11/20,Norte,Roraima,1295,5,245/12/20,Norte,Roraima,1328,33,275/13/20,Norte,Roraima,1411,83,295/14/20,Norte,Roraima,1500,89,373/19/20,Norte,Tocantins,1,1,03/20/20,Norte,Tocantins,1,0,03/21/20,Norte,Tocantins,2,1,03/22/20,Norte,Tocantins,2,0,03/23/20,Norte,Tocantins,5,3,03/24/20,Norte,Tocantins,7,2,03/25/20,Norte,Tocantins,7,0,03/26/20,Norte,Tocantins,7,0,03/27/20,Norte,Tocantins,8,1,03/28/20,Norte,Tocantins,9,1,03/29/20,Norte,Tocantins,9,0,03/30/20,Norte,Tocantins,10,1,03/31/20,Norte,Tocantins,11,1,04/1/20,Norte,Tocantins,12,1,04/2/20,Norte,Tocantins,12,0,04/3/20,Norte,Tocantins,12,0,04/4/20,Norte,Tocantins,14,2,04/5/20,Norte,Tocantins,17,3,04/6/20,Norte,Tocantins,17,0,04/7/20,Norte,Tocantins,19,2,04/8/20,Norte,Tocantins,23,4,04/9/20,Norte,Tocantins,23,0,04/10/20,Norte,Tocantins,23,0,04/11/20,Norte,Tocantins,23,0,04/12/20,Norte,Tocantins,25,2,04/13/20,Norte,Tocantins,26,1,04/14/20,Norte,Tocantins,26,0,04/15/20,Norte,Tocantins,26,0,14/16/20,Norte,Tocantins,29,3,14/17/20,Norte,Tocantins,31,2,14/18/20,Norte,Tocantins,33,2,14/19/20,Norte,Tocantins,33,0,14/20/20,Norte,Tocantins,34,1,14/21/20,Norte,Tocantins,37,3,14/22/20,Norte,Tocantins,37,0,14/23/20,Norte,Tocantins,37,0,24/24/20,Norte,Tocantins,43,6,24/25/20,Norte,Tocantins,50,7,24/26/20,Norte,Tocantins,58,8,24/27/20,Norte,Tocantins,67,9,24/28/20,Norte,Tocantins,79,12,24/29/20,Norte,Tocantins,116,37,34/30/20,Norte,Tocantins,137,21,35/1/20,Norte,Tocantins,164,27,35/2/20,Norte,Tocantins,191,27,45/3/20,Norte,Tocantins,246,55,45/4/20,Norte,Tocantins,267,21,65/5/20,Norte,Tocantins,303,36,75/6/20,Norte,Tocantins,351,48,95/7/20,Norte,Tocantins,423,72,95/8/20,Norte,Tocantins,494,71,95/9/20,Norte,Tocantins,572,78,95/10/20,Norte,Tocantins,688,116,115/11/20,Norte,Tocantins,747,59,125/12/20,Norte,Tocantins,828,81,145/13/20,Norte,Tocantins,932,104,215/14/20,Norte,Tocantins,1029,97,233/6/20,Sudeste,EspÃŒ_rito Santo,1,1,03/7/20,Sudeste,EspÃŒ_rito Santo,1,0,03/8/20,Sudeste,EspÃŒ_rito Santo,1,0,03/9/20,Sudeste,EspÃŒ_rito Santo,1,0,03/10/20,Sudeste,EspÃŒ_rito Santo,1,0,03/11/20,Sudeste,EspÃŒ_rito Santo,1,0,03/12/20,Sudeste,EspÃŒ_rito Santo,1,0,03/13/20,Sudeste,EspÃŒ_rito Santo,1,0,03/14/20,Sudeste,EspÃŒ_rito Santo,1,0,03/15/20,Sudeste,EspÃŒ_rito Santo,1,0,03/16/20,Sudeste,EspÃŒ_rito Santo,1,0,03/17/20,Sudeste,EspÃŒ_rito Santo,1,0,03/18/20,Sudeste,EspÃŒ_rito Santo,9,8,03/19/20,Sudeste,EspÃŒ_rito Santo,11,2,03/20/20,Sudeste,EspÃŒ_rito Santo,13,2,03/21/20,Sudeste,EspÃŒ_rito Santo,26,13,03/22/20,Sudeste,EspÃŒ_rito Santo,26,0,03/23/20,Sudeste,EspÃŒ_rito Santo,29,3,03/24/20,Sudeste,EspÃŒ_rito Santo,33,4,03/25/20,Sudeste,EspÃŒ_rito Santo,39,6,03/26/20,Sudeste,EspÃŒ_rito Santo,39,0,03/27/20,Sudeste,EspÃŒ_rito Santo,47,8,03/28/20,Sudeste,EspÃŒ_rito Santo,53,6,03/29/20,Sudeste,EspÃŒ_rito Santo,60,7,03/30/20,Sudeste,EspÃŒ_rito Santo,72,12,03/31/20,Sudeste,EspÃŒ_rito Santo,84,12,04/1/20,Sudeste,EspÃŒ_rito Santo,96,12,04/2/20,Sudeste,EspÃŒ_rito Santo,120,24,14/3/20,Sudeste,EspÃŒ_rito Santo,139,19,44/4/20,Sudeste,EspÃŒ_rito Santo,153,14,54/5/20,Sudeste,EspÃŒ_rito Santo,166,13,64/6/20,Sudeste,EspÃŒ_rito Santo,194,28,64/7/20,Sudeste,EspÃŒ_rito Santo,209,15,64/8/20,Sudeste,EspÃŒ_rito Santo,227,18,64/9/20,Sudeste,EspÃŒ_rito Santo,273,46,64/10/20,Sudeste,EspÃŒ_rito Santo,300,27,74/11/20,Sudeste,EspÃŒ_rito Santo,349,49,94/12/20,Sudeste,EspÃŒ_rito Santo,383,34,94/13/20,Sudeste,EspÃŒ_rito Santo,430,47,144/14/20,Sudeste,EspÃŒ_rito Santo,463,33,174/15/20,Sudeste,EspÃŒ_rito Santo,557,94,184/16/20,Sudeste,EspÃŒ_rito Santo,754,197,224/17/20,Sudeste,EspÃŒ_rito Santo,856,102,254/18/20,Sudeste,EspÃŒ_rito Santo,952,96,284/19/20,Sudeste,EspÃŒ_rito Santo,1099,147,304/20/20,Sudeste,EspÃŒ_rito Santo,1168,69,334/21/20,Sudeste,EspÃŒ_rito Santo,1212,44,344/22/20,Sudeste,EspÃŒ_rito Santo,1313,101,344/23/20,Sudeste,EspÃŒ_rito Santo,1363,50,424/24/20,Sudeste,EspÃŒ_rito Santo,1381,18,424/25/20,Sudeste,EspÃŒ_rito Santo,1595,214,474/26/20,Sudeste,EspÃŒ_rito Santo,1703,108,514/27/20,Sudeste,EspÃŒ_rito Santo,1796,93,574/28/20,Sudeste,EspÃŒ_rito Santo,1874,78,644/29/20,Sudeste,EspÃŒ_rito Santo,2107,233,764/30/20,Sudeste,EspÃŒ_rito Santo,2465,358,835/1/20,Sudeste,EspÃŒ_rito Santo,2662,197,965/2/20,Sudeste,EspÃŒ_rito Santo,2948,286,1025/3/20,Sudeste,EspÃŒ_rito Santo,3086,138,1145/4/20,Sudeste,EspÃŒ_rito Santo,3226,140,1225/5/20,Sudeste,EspÃŒ_rito Santo,3402,176,1335/6/20,Sudeste,EspÃŒ_rito Santo,3568,166,1455/7/20,Sudeste,EspÃŒ_rito Santo,3838,270,1555/8/20,Sudeste,EspÃŒ_rito Santo,4242,404,1655/9/20,Sudeste,EspÃŒ_rito Santo,4412,170,1725/10/20,Sudeste,EspÃŒ_rito Santo,4599,187,1815/11/20,Sudeste,EspÃŒ_rito Santo,4819,220,1965/12/20,Sudeste,EspÃŒ_rito Santo,5087,268,2125/13/20,Sudeste,EspÃŒ_rito Santo,5401,314,2335/14/20,Sudeste,EspÃŒ_rito Santo,5813,412,2493/8/20,Sudeste,Minas Gerais,1,1,03/9/20,Sudeste,Minas Gerais,1,0,03/10/20,Sudeste,Minas Gerais,1,0,03/11/20,Sudeste,Minas Gerais,1,0,03/12/20,Sudeste,Minas Gerais,1,0,03/13/20,Sudeste,Minas Gerais,2,1,03/14/20,Sudeste,Minas Gerais,2,0,03/15/20,Sudeste,Minas Gerais,2,0,03/16/20,Sudeste,Minas Gerais,5,3,03/17/20,Sudeste,Minas Gerais,7,2,03/18/20,Sudeste,Minas Gerais,15,8,03/19/20,Sudeste,Minas Gerais,29,14,03/20/20,Sudeste,Minas Gerais,35,6,03/21/20,Sudeste,Minas Gerais,38,3,03/22/20,Sudeste,Minas Gerais,83,45,03/23/20,Sudeste,Minas Gerais,128,45,03/24/20,Sudeste,Minas Gerais,130,2,03/25/20,Sudeste,Minas Gerais,133,3,03/26/20,Sudeste,Minas Gerais,153,20,03/27/20,Sudeste,Minas Gerais,189,36,03/28/20,Sudeste,Minas Gerais,205,16,03/29/20,Sudeste,Minas Gerais,231,26,03/30/20,Sudeste,Minas Gerais,261,30,13/31/20,Sudeste,Minas Gerais,275,14,24/1/20,Sudeste,Minas Gerais,314,39,34/2/20,Sudeste,Minas Gerais,370,56,44/3/20,Sudeste,Minas Gerais,397,27,64/4/20,Sudeste,Minas Gerais,430,33,64/5/20,Sudeste,Minas Gerais,498,68,64/6/20,Sudeste,Minas Gerais,525,27,94/7/20,Sudeste,Minas Gerais,559,34,114/8/20,Sudeste,Minas Gerais,614,55,144/9/20,Sudeste,Minas Gerais,655,41,154/10/20,Sudeste,Minas Gerais,698,43,174/11/20,Sudeste,Minas Gerais,750,52,174/12/20,Sudeste,Minas Gerais,806,56,204/13/20,Sudeste,Minas Gerais,815,9,234/14/20,Sudeste,Minas Gerais,884,69,274/15/20,Sudeste,Minas Gerais,903,19,304/16/20,Sudeste,Minas Gerais,958,55,334/17/20,Sudeste,Minas Gerais,1021,63,354/18/20,Sudeste,Minas Gerais,1077,56,394/19/20,Sudeste,Minas Gerais,1154,77,394/20/20,Sudeste,Minas Gerais,1189,35,414/21/20,Sudeste,Minas Gerais,1230,41,444/22/20,Sudeste,Minas Gerais,1283,53,474/23/20,Sudeste,Minas Gerais,1308,25,514/24/20,Sudeste,Minas Gerais,1419,111,544/25/20,Sudeste,Minas Gerais,1481,62,584/26/20,Sudeste,Minas Gerais,1548,67,614/27/20,Sudeste,Minas Gerais,1586,38,624/28/20,Sudeste,Minas Gerais,1649,63,714/29/20,Sudeste,Minas Gerais,1758,109,804/30/20,Sudeste,Minas Gerais,1827,69,825/1/20,Sudeste,Minas Gerais,1935,108,885/2/20,Sudeste,Minas Gerais,2023,88,885/3/20,Sudeste,Minas Gerais,2118,95,895/4/20,Sudeste,Minas Gerais,2347,229,905/5/20,Sudeste,Minas Gerais,2452,105,945/6/20,Sudeste,Minas Gerais,2605,153,975/7/20,Sudeste,Minas Gerais,2770,165,1065/8/20,Sudeste,Minas Gerais,2943,173,1115/9/20,Sudeste,Minas Gerais,3123,180,1185/10/20,Sudeste,Minas Gerais,3237,114,1195/11/20,Sudeste,Minas Gerais,3320,83,1215/12/20,Sudeste,Minas Gerais,3435,115,1275/13/20,Sudeste,Minas Gerais,3733,298,1355/14/20,Sudeste,Minas Gerais,3950,217,1393/5/20,Sudeste,Rio de Janeiro,1,1,03/6/20,Sudeste,Rio de Janeiro,1,0,03/7/20,Sudeste,Rio de Janeiro,2,1,03/8/20,Sudeste,Rio de Janeiro,3,1,03/9/20,Sudeste,Rio de Janeiro,3,0,03/10/20,Sudeste,Rio de Janeiro,8,5,03/11/20,Sudeste,Rio de Janeiro,13,5,03/12/20,Sudeste,Rio de Janeiro,16,3,03/13/20,Sudeste,Rio de Janeiro,16,0,03/14/20,Sudeste,Rio de Janeiro,22,6,03/15/20,Sudeste,Rio de Janeiro,24,2,03/16/20,Sudeste,Rio de Janeiro,31,7,03/17/20,Sudeste,Rio de Janeiro,33,2,03/18/20,Sudeste,Rio de Janeiro,45,12,03/19/20,Sudeste,Rio de Janeiro,65,20,23/20/20,Sudeste,Rio de Janeiro,109,44,23/21/20,Sudeste,Rio de Janeiro,119,10,33/22/20,Sudeste,Rio de Janeiro,186,67,33/23/20,Sudeste,Rio de Janeiro,233,47,43/24/20,Sudeste,Rio de Janeiro,305,72,63/25/20,Sudeste,Rio de Janeiro,370,65,63/26/20,Sudeste,Rio de Janeiro,421,51,93/27/20,Sudeste,Rio de Janeiro,493,72,103/28/20,Sudeste,Rio de Janeiro,558,65,133/29/20,Sudeste,Rio de Janeiro,600,42,173/30/20,Sudeste,Rio de Janeiro,657,57,183/31/20,Sudeste,Rio de Janeiro,708,51,234/1/20,Sudeste,Rio de Janeiro,832,124,284/2/20,Sudeste,Rio de Janeiro,992,160,414/3/20,Sudeste,Rio de Janeiro,1074,82,474/4/20,Sudeste,Rio de Janeiro,1246,172,584/5/20,Sudeste,Rio de Janeiro,1394,148,644/6/20,Sudeste,Rio de Janeiro,1461,67,714/7/20,Sudeste,Rio de Janeiro,1688,227,894/8/20,Sudeste,Rio de Janeiro,1938,250,1064/9/20,Sudeste,Rio de Janeiro,2216,278,1224/10/20,Sudeste,Rio de Janeiro,2464,248,1474/11/20,Sudeste,Rio de Janeiro,2607,143,1554/12/20,Sudeste,Rio de Janeiro,2855,248,1704/13/20,Sudeste,Rio de Janeiro,3231,376,1884/14/20,Sudeste,Rio de Janeiro,3410,179,2244/15/20,Sudeste,Rio de Janeiro,3743,333,2654/16/20,Sudeste,Rio de Janeiro,3944,201,3004/17/20,Sudeste,Rio de Janeiro,4349,405,3414/18/20,Sudeste,Rio de Janeiro,4543,194,3874/19/20,Sudeste,Rio de Janeiro,4765,222,4024/20/20,Sudeste,Rio de Janeiro,4899,134,4224/21/20,Sudeste,Rio de Janeiro,5306,407,4614/22/20,Sudeste,Rio de Janeiro,5552,246,4904/23/20,Sudeste,Rio de Janeiro,6172,620,5304/24/20,Sudeste,Rio de Janeiro,6282,110,5704/25/20,Sudeste,Rio de Janeiro,6828,546,6154/26/20,Sudeste,Rio de Janeiro,7111,283,6454/27/20,Sudeste,Rio de Janeiro,7944,833,6774/28/20,Sudeste,Rio de Janeiro,8504,560,7384/29/20,Sudeste,Rio de Janeiro,8869,365,7944/30/20,Sudeste,Rio de Janeiro,9453,584,8545/1/20,Sudeste,Rio de Janeiro,10166,713,9215/2/20,Sudeste,Rio de Janeiro,10546,380,9715/3/20,Sudeste,Rio de Janeiro,11139,593,10195/4/20,Sudeste,Rio de Janeiro,11721,582,10655/5/20,Sudeste,Rio de Janeiro,12391,670,11235/6/20,Sudeste,Rio de Janeiro,13295,904,12055/7/20,Sudeste,Rio de Janeiro,14156,861,13945/8/20,Sudeste,Rio de Janeiro,15741,1585,15035/9/20,Sudeste,Rio de Janeiro,16929,1188,16535/10/20,Sudeste,Rio de Janeiro,17062,133,17145/11/20,Sudeste,Rio de Janeiro,17939,877,17705/12/20,Sudeste,Rio de Janeiro,18486,547,19285/13/20,Sudeste,Rio de Janeiro,18728,242,20505/14/20,Sudeste,Rio de Janeiro,19467,739,22472/26/20,Sudeste,SÃŒÂ£o Paulo,1,1,02/27/20,Sudeste,SÃŒÂ£o Paulo,1,0,02/28/20,Sudeste,SÃŒÂ£o Paulo,1,0,02/29/20,Sudeste,SÃŒÂ£o Paulo,2,1,03/1/20,Sudeste,SÃŒÂ£o Paulo,2,0,03/2/20,Sudeste,SÃŒÂ£o Paulo,2,0,03/3/20,Sudeste,SÃŒÂ£o Paulo,2,0,03/4/20,Sudeste,SÃŒÂ£o Paulo,3,1,03/5/20,Sudeste,SÃŒÂ£o Paulo,6,3,03/6/20,Sudeste,SÃŒÂ£o Paulo,10,4,03/7/20,Sudeste,SÃŒÂ£o Paulo,13,3,03/8/20,Sudeste,SÃŒÂ£o Paulo,16,3,03/9/20,Sudeste,SÃŒÂ£o Paulo,16,0,03/10/20,Sudeste,SÃŒÂ£o Paulo,19,3,03/11/20,Sudeste,SÃŒÂ£o Paulo,30,11,03/12/20,Sudeste,SÃŒÂ£o Paulo,42,12,03/13/20,Sudeste,SÃŒÂ£o Paulo,56,14,03/14/20,Sudeste,SÃŒÂ£o Paulo,65,9,03/15/20,Sudeste,SÃŒÂ£o Paulo,136,71,03/16/20,Sudeste,SÃŒÂ£o Paulo,152,16,03/17/20,Sudeste,SÃŒÂ£o Paulo,164,12,13/18/20,Sudeste,SÃŒÂ£o Paulo,240,76,43/19/20,Sudeste,SÃŒÂ£o Paulo,286,46,43/20/20,Sudeste,SÃŒÂ£o Paulo,396,110,93/21/20,Sudeste,SÃŒÂ£o Paulo,459,63,153/22/20,Sudeste,SÃŒÂ£o Paulo,631,172,223/23/20,Sudeste,SÃŒÂ£o Paulo,745,114,303/24/20,Sudeste,SÃŒÂ£o Paulo,810,65,403/25/20,Sudeste,SÃŒÂ£o Paulo,862,52,483/26/20,Sudeste,SÃŒÂ£o Paulo,1052,190,583/27/20,Sudeste,SÃŒÂ£o Paulo,1223,171,683/28/20,Sudeste,SÃŒÂ£o Paulo,1406,183,843/29/20,Sudeste,SÃŒÂ£o Paulo,1451,45,983/30/20,Sudeste,SÃŒÂ£o Paulo,1517,66,1133/31/20,Sudeste,SÃŒÂ£o Paulo,2339,822,1364/1/20,Sudeste,SÃŒÂ£o Paulo,2981,642,1644/2/20,Sudeste,SÃŒÂ£o Paulo,3506,525,1884/3/20,Sudeste,SÃŒÂ£o Paulo,4048,542,2194/4/20,Sudeste,SÃŒÂ£o Paulo,4466,418,2604/5/20,Sudeste,SÃŒÂ£o Paulo,4620,154,2754/6/20,Sudeste,SÃŒÂ£o Paulo,4866,246,3044/7/20,Sudeste,SÃŒÂ£o Paulo,5682,816,3714/8/20,Sudeste,SÃŒÂ£o Paulo,6708,1026,4284/9/20,Sudeste,SÃŒÂ£o Paulo,7480,772,4964/10/20,Sudeste,SÃŒÂ£o Paulo,8216,736,5404/11/20,Sudeste,SÃŒÂ£o Paulo,8419,203,5604/12/20,Sudeste,SÃŒÂ£o Paulo,8755,336,5884/13/20,Sudeste,SÃŒÂ£o Paulo,8895,140,6084/14/20,Sudeste,SÃŒÂ£o Paulo,9371,476,6954/15/20,Sudeste,SÃŒÂ£o Paulo,11043,1672,7784/16/20,Sudeste,SÃŒÂ£o Paulo,11568,525,8534/17/20,Sudeste,SÃŒÂ£o Paulo,12841,1273,9284/18/20,Sudeste,SÃŒÂ£o Paulo,13894,1053,9914/19/20,Sudeste,SÃŒÂ£o Paulo,14267,373,10154/20/20,Sudeste,SÃŒÂ£o Paulo,14580,313,10374/21/20,Sudeste,SÃŒÂ£o Paulo,15385,805,10934/22/20,Sudeste,SÃŒÂ£o Paulo,15914,529,11344/23/20,Sudeste,SÃŒÂ£o Paulo,16740,826,13454/24/20,Sudeste,SÃŒÂ£o Paulo,17826,1086,15124/25/20,Sudeste,SÃŒÂ£o Paulo,20004,2178,16674/26/20,Sudeste,SÃŒÂ£o Paulo,20715,711,17004/27/20,Sudeste,SÃŒÂ£o Paulo,21696,981,18254/28/20,Sudeste,SÃŒÂ£o Paulo,24041,2345,20494/29/20,Sudeste,SÃŒÂ£o Paulo,26158,2117,22474/30/20,Sudeste,SÃŒÂ£o Paulo,28698,2540,23755/1/20,Sudeste,SÃŒÂ£o Paulo,30374,1676,25115/2/20,Sudeste,SÃŒÂ£o Paulo,31174,800,25865/3/20,Sudeste,SÃŒÂ£o Paulo,31772,598,26275/4/20,Sudeste,SÃŒÂ£o Paulo,32187,415,26545/5/20,Sudeste,SÃŒÂ£o Paulo,34053,1866,28515/6/20,Sudeste,SÃŒÂ£o Paulo,37853,3800,30455/7/20,Sudeste,SÃŒÂ£o Paulo,39928,2075,32065/8/20,Sudeste,SÃŒÂ£o Paulo,41830,1902,34165/9/20,Sudeste,SÃŒÂ£o Paulo,44411,2581,36085/10/20,Sudeste,SÃŒÂ£o Paulo,45444,1033,37095/11/20,Sudeste,SÃŒÂ£o Paulo,46131,687,37435/12/20,Sudeste,SÃŒÂ£o Paulo,47719,1588,39495/13/20,Sudeste,SÃŒÂ£o Paulo,51097,3378,41185/14/20,Sudeste,SÃŒÂ£o Paulo,54286,3189,43153/12/20,Sul,ParanÃŒÃ,6,6,03/13/20,Sul,ParanÃŒÃ,6,0,03/14/20,Sul,ParanÃŒÃ,6,0,03/15/20,Sul,ParanÃŒÃ,6,0,03/16/20,Sul,ParanÃŒÃ,6,0,03/17/20,Sul,ParanÃŒÃ,6,0,03/18/20,Sul,ParanÃŒÃ,13,7,03/19/20,Sul,ParanÃŒÃ,23,10,03/20/20,Sul,ParanÃŒÃ,32,9,03/21/20,Sul,ParanÃŒÃ,43,11,03/22/20,Sul,ParanÃŒÃ,50,7,03/23/20,Sul,ParanÃŒÃ,56,6,03/24/20,Sul,ParanÃŒÃ,65,9,03/25/20,Sul,ParanÃŒÃ,81,16,03/26/20,Sul,ParanÃŒÃ,102,21,03/27/20,Sul,ParanÃŒÃ,119,17,23/28/20,Sul,ParanÃŒÃ,133,14,23/29/20,Sul,ParanÃŒÃ,148,15,23/30/20,Sul,ParanÃŒÃ,155,7,33/31/20,Sul,ParanÃŒÃ,179,24,34/1/20,Sul,ParanÃŒÃ,224,45,34/2/20,Sul,ParanÃŒÃ,252,28,44/3/20,Sul,ParanÃŒÃ,301,49,44/4/20,Sul,ParanÃŒÃ,395,94,64/5/20,Sul,ParanÃŒÃ,438,43,94/6/20,Sul,ParanÃŒÃ,458,20,114/7/20,Sul,ParanÃŒÃ,503,45,154/8/20,Sul,ParanÃŒÃ,539,36,174/9/20,Sul,ParanÃŒÃ,609,70,224/10/20,Sul,ParanÃŒÃ,643,34,254/11/20,Sul,ParanÃŒÃ,676,33,264/12/20,Sul,ParanÃŒÃ,738,62,304/13/20,Sul,ParanÃŒÃ,756,18,314/14/20,Sul,ParanÃŒÃ,791,35,364/15/20,Sul,ParanÃŒÃ,803,12,384/16/20,Sul,ParanÃŒÃ,832,29,414/17/20,Sul,ParanÃŒÃ,874,42,424/18/20,Sul,ParanÃŒÃ,945,71,464/19/20,Sul,ParanÃŒÃ,987,42,484/20/20,Sul,ParanÃŒÃ,1007,20,514/21/20,Sul,ParanÃŒÃ,1024,17,514/22/20,Sul,ParanÃŒÃ,1063,39,574/23/20,Sul,ParanÃŒÃ,1082,19,604/24/20,Sul,ParanÃŒÃ,1119,37,644/25/20,Sul,ParanÃŒÃ,1140,21,694/26/20,Sul,ParanÃŒÃ,1156,16,724/27/20,Sul,ParanÃŒÃ,1186,30,754/28/20,Sul,ParanÃŒÃ,1271,85,774/29/20,Sul,ParanÃŒÃ,1348,77,824/30/20,Sul,ParanÃŒÃ,1407,59,835/1/20,Sul,ParanÃŒÃ,1447,40,895/2/20,Sul,ParanÃŒÃ,1492,45,905/3/20,Sul,ParanÃŒÃ,1514,22,935/4/20,Sul,ParanÃŒÃ,1562,48,945/5/20,Sul,ParanÃŒÃ,1588,26,995/6/20,Sul,ParanÃŒÃ,1627,39,1015/7/20,Sul,ParanÃŒÃ,1656,29,1045/8/20,Sul,ParanÃŒÃ,1711,55,1065/9/20,Sul,ParanÃŒÃ,1785,74,1075/10/20,Sul,ParanÃŒÃ,1835,50,1095/11/20,Sul,ParanÃŒÃ,1849,14,1115/12/20,Sul,ParanÃŒÃ,1906,57,1135/13/20,Sul,ParanÃŒÃ,1996,90,1175/14/20,Sul,ParanÃŒÃ,2063,67,1193/10/20,Sul,Rio Grande do Sul,1,1,03/11/20,Sul,Rio Grande do Sul,2,1,03/12/20,Sul,Rio Grande do Sul,4,2,03/13/20,Sul,Rio Grande do Sul,4,0,03/14/20,Sul,Rio Grande do Sul,6,2,03/15/20,Sul,Rio Grande do Sul,6,0,03/16/20,Sul,Rio Grande do Sul,6,0,03/17/20,Sul,Rio Grande do Sul,10,4,03/18/20,Sul,Rio Grande do Sul,19,9,03/19/20,Sul,Rio Grande do Sul,28,9,03/20/20,Sul,Rio Grande do Sul,37,9,03/21/20,Sul,Rio Grande do Sul,60,23,03/22/20,Sul,Rio Grande do Sul,72,12,03/23/20,Sul,Rio Grande do Sul,86,14,03/24/20,Sul,Rio Grande do Sul,98,12,03/25/20,Sul,Rio Grande do Sul,123,25,13/26/20,Sul,Rio Grande do Sul,168,45,13/27/20,Sul,Rio Grande do Sul,195,27,23/28/20,Sul,Rio Grande do Sul,197,2,23/29/20,Sul,Rio Grande do Sul,226,29,23/30/20,Sul,Rio Grande do Sul,241,15,33/31/20,Sul,Rio Grande do Sul,274,33,44/1/20,Sul,Rio Grande do Sul,306,32,44/2/20,Sul,Rio Grande do Sul,334,28,54/3/20,Sul,Rio Grande do Sul,396,62,54/4/20,Sul,Rio Grande do Sul,410,14,64/5/20,Sul,Rio Grande do Sul,418,8,74/6/20,Sul,Rio Grande do Sul,481,63,74/7/20,Sul,Rio Grande do Sul,508,27,84/8/20,Sul,Rio Grande do Sul,555,47,94/9/20,Sul,Rio Grande do Sul,618,63,124/10/20,Sul,Rio Grande do Sul,636,18,144/11/20,Sul,Rio Grande do Sul,640,4,154/12/20,Sul,Rio Grande do Sul,653,13,164/13/20,Sul,Rio Grande do Sul,664,11,164/14/20,Sul,Rio Grande do Sul,700,36,184/15/20,Sul,Rio Grande do Sul,747,47,194/16/20,Sul,Rio Grande do Sul,780,33,194/17/20,Sul,Rio Grande do Sul,802,22,224/18/20,Sul,Rio Grande do Sul,831,29,244/19/20,Sul,Rio Grande do Sul,854,23,244/20/20,Sul,Rio Grande do Sul,889,35,274/21/20,Sul,Rio Grande do Sul,904,15,274/22/20,Sul,Rio Grande do Sul,923,19,274/23/20,Sul,Rio Grande do Sul,994,71,294/24/20,Sul,Rio Grande do Sul,1061,67,314/25/20,Sul,Rio Grande do Sul,1096,35,344/26/20,Sul,Rio Grande do Sul,1166,70,354/27/20,Sul,Rio Grande do Sul,1228,62,424/28/20,Sul,Rio Grande do Sul,1286,58,454/29/20,Sul,Rio Grande do Sul,1368,82,504/30/20,Sul,Rio Grande do Sul,1466,98,515/1/20,Sul,Rio Grande do Sul,1529,63,585/2/20,Sul,Rio Grande do Sul,1619,90,625/3/20,Sul,Rio Grande do Sul,1666,47,655/4/20,Sul,Rio Grande do Sul,1711,45,745/5/20,Sul,Rio Grande do Sul,1815,104,795/6/20,Sul,Rio Grande do Sul,2050,235,875/7/20,Sul,Rio Grande do Sul,2129,79,905/8/20,Sul,Rio Grande do Sul,2447,318,915/9/20,Sul,Rio Grande do Sul,2493,46,955/10/20,Sul,Rio Grande do Sul,2542,49,975/11/20,Sul,Rio Grande do Sul,2576,34,1055/12/20,Sul,Rio Grande do Sul,2917,341,1115/13/20,Sul,Rio Grande do Sul,2917,0,1115/14/20,Sul,Rio Grande do Sul,2997,80,1203/13/20,Sul,Santa Catarina,2,2,03/14/20,Sul,Santa Catarina,4,2,03/15/20,Sul,Santa Catarina,6,2,03/16/20,Sul,Santa Catarina,7,1,03/17/20,Sul,Santa Catarina,7,0,03/18/20,Sul,Santa Catarina,10,3,03/19/20,Sul,Santa Catarina,20,10,03/20/20,Sul,Santa Catarina,21,1,03/21/20,Sul,Santa Catarina,51,30,03/22/20,Sul,Santa Catarina,57,6,03/23/20,Sul,Santa Catarina,68,11,03/24/20,Sul,Santa Catarina,107,39,03/25/20,Sul,Santa Catarina,109,2,03/26/20,Sul,Santa Catarina,122,13,13/27/20,Sul,Santa Catarina,149,27,13/28/20,Sul,Santa Catarina,184,35,13/29/20,Sul,Santa Catarina,194,10,13/30/20,Sul,Santa Catarina,197,3,13/31/20,Sul,Santa Catarina,219,22,24/1/20,Sul,Santa Catarina,235,16,24/2/20,Sul,Santa Catarina,247,12,24/3/20,Sul,Santa Catarina,281,34,54/4/20,Sul,Santa Catarina,334,53,54/5/20,Sul,Santa Catarina,357,23,104/6/20,Sul,Santa Catarina,379,22,104/7/20,Sul,Santa Catarina,417,38,114/8/20,Sul,Santa Catarina,457,40,154/9/20,Sul,Santa Catarina,501,44,174/10/20,Sul,Santa Catarina,693,192,184/11/20,Sul,Santa Catarina,732,39,214/12/20,Sul,Santa Catarina,768,36,244/13/20,Sul,Santa Catarina,777,9,244/14/20,Sul,Santa Catarina,826,49,264/15/20,Sul,Santa Catarina,853,27,284/16/20,Sul,Santa Catarina,884,31,294/17/20,Sul,Santa Catarina,926,42,304/18/20,Sul,Santa Catarina,962,36,314/19/20,Sul,Santa Catarina,975,13,324/20/20,Sul,Santa Catarina,1025,50,354/21/20,Sul,Santa Catarina,1063,38,354/22/20,Sul,Santa Catarina,1091,28,374/23/20,Sul,Santa Catarina,1115,24,394/24/20,Sul,Santa Catarina,1170,55,424/25/20,Sul,Santa Catarina,1209,39,424/26/20,Sul,Santa Catarina,1235,26,424/27/20,Sul,Santa Catarina,1337,102,434/28/20,Sul,Santa Catarina,1476,139,444/29/20,Sul,Santa Catarina,1995,519,444/30/20,Sul,Santa Catarina,2085,90,465/1/20,Sul,Santa Catarina,2104,19,485/2/20,Sul,Santa Catarina,2346,242,525/3/20,Sul,Santa Catarina,2346,0,525/4/20,Sul,Santa Catarina,2519,173,525/5/20,Sul,Santa Catarina,2623,104,555/6/20,Sul,Santa Catarina,2917,294,595/7/20,Sul,Santa Catarina,3082,165,635/8/20,Sul,Santa Catarina,3205,123,635/9/20,Sul,Santa Catarina,3372,167,645/10/20,Sul,Santa Catarina,3429,57,655/11/20,Sul,Santa Catarina,3529,100,695/12/20,Sul,Santa Catarina,3733,204,735/13/20,Sul,Santa Catarina,3828,95,735/14/20,Sul,Santa Catarina,4332,504,78
+date,region,state,cases,newCases,deaths
+03/07/20,Centro-Oeste,Distrito Federal,1,1,0
+03/08/20,Centro-Oeste,Distrito Federal,1,0,0
+03/09/20,Centro-Oeste,Distrito Federal,1,0,0
+03/10/20,Centro-Oeste,Distrito Federal,1,0,0
+03/11/20,Centro-Oeste,Distrito Federal,2,1,0
+03/12/20,Centro-Oeste,Distrito Federal,2,0,0
+03/13/20,Centro-Oeste,Distrito Federal,2,0,0
+03/14/20,Centro-Oeste,Distrito Federal,6,4,0
+03/15/20,Centro-Oeste,Distrito Federal,8,2,0
+03/16/20,Centro-Oeste,Distrito Federal,13,5,0
+03/17/20,Centro-Oeste,Distrito Federal,22,9,0
+03/18/20,Centro-Oeste,Distrito Federal,26,4,0
+03/19/20,Centro-Oeste,Distrito Federal,42,16,0
+03/20/20,Centro-Oeste,Distrito Federal,87,45,0
+03/21/20,Centro-Oeste,Distrito Federal,100,13,0
+03/22/20,Centro-Oeste,Distrito Federal,117,17,0
+03/23/20,Centro-Oeste,Distrito Federal,133,16,0
+03/24/20,Centro-Oeste,Distrito Federal,160,27,0
+03/25/20,Centro-Oeste,Distrito Federal,160,0,0
+03/26/20,Centro-Oeste,Distrito Federal,200,40,0
+03/27/20,Centro-Oeste,Distrito Federal,230,30,0
+03/28/20,Centro-Oeste,Distrito Federal,260,30,0
+03/29/20,Centro-Oeste,Distrito Federal,289,29,1
+03/30/20,Centro-Oeste,Distrito Federal,312,23,1
+03/31/20,Centro-Oeste,Distrito Federal,332,20,3
+04/01/20,Centro-Oeste,Distrito Federal,355,23,3
+04/02/20,Centro-Oeste,Distrito Federal,370,15,4
+04/03/20,Centro-Oeste,Distrito Federal,402,32,5
+04/04/20,Centro-Oeste,Distrito Federal,454,52,7
+04/05/20,Centro-Oeste,Distrito Federal,468,14,7
+04/06/20,Centro-Oeste,Distrito Federal,473,5,10
+04/07/20,Centro-Oeste,Distrito Federal,492,19,12
+04/08/20,Centro-Oeste,Distrito Federal,509,17,12
+04/09/20,Centro-Oeste,Distrito Federal,527,18,13
+04/10/20,Centro-Oeste,Distrito Federal,555,28,14
+04/11/20,Centro-Oeste,Distrito Federal,579,24,14
+04/12/20,Centro-Oeste,Distrito Federal,614,35,14
+04/13/20,Centro-Oeste,Distrito Federal,638,24,15
+04/14/20,Centro-Oeste,Distrito Federal,651,13,17
+04/15/20,Centro-Oeste,Distrito Federal,682,31,17
+04/16/20,Centro-Oeste,Distrito Federal,716,34,20
+04/17/20,Centro-Oeste,Distrito Federal,746,30,20
+04/18/20,Centro-Oeste,Distrito Federal,762,16,24
+04/19/20,Centro-Oeste,Distrito Federal,827,65,24
+04/20/20,Centro-Oeste,Distrito Federal,872,45,24
+04/21/20,Centro-Oeste,Distrito Federal,881,9,24
+04/22/20,Centro-Oeste,Distrito Federal,946,65,25
+04/23/20,Centro-Oeste,Distrito Federal,963,17,25
+04/24/20,Centro-Oeste,Distrito Federal,989,26,26
+04/25/20,Centro-Oeste,Distrito Federal,1013,24,26
+04/26/20,Centro-Oeste,Distrito Federal,1066,53,27
+04/27/20,Centro-Oeste,Distrito Federal,1146,80,27
+04/28/20,Centro-Oeste,Distrito Federal,1213,67,28
+04/29/20,Centro-Oeste,Distrito Federal,1275,62,28
+04/30/20,Centro-Oeste,Distrito Federal,1356,81,30
+05/01/20,Centro-Oeste,Distrito Federal,1466,110,30
+05/02/20,Centro-Oeste,Distrito Federal,1566,100,31
+05/03/20,Centro-Oeste,Distrito Federal,1649,83,33
+05/04/20,Centro-Oeste,Distrito Federal,1768,119,33
+05/05/20,Centro-Oeste,Distrito Federal,1818,50,33
+05/06/20,Centro-Oeste,Distrito Federal,1906,88,34
+05/07/20,Centro-Oeste,Distrito Federal,2258,352,35
+05/08/20,Centro-Oeste,Distrito Federal,2442,184,37
+05/09/20,Centro-Oeste,Distrito Federal,2576,134,39
+05/10/20,Centro-Oeste,Distrito Federal,2682,106,42
+05/11/20,Centro-Oeste,Distrito Federal,2783,101,44
+05/12/20,Centro-Oeste,Distrito Federal,2979,196,46
+05/13/20,Centro-Oeste,Distrito Federal,3192,213,48
+05/14/20,Centro-Oeste,Distrito Federal,3416,224,51
+03/13/20,Centro-Oeste,Goiíçs,3,3,0
+03/14/20,Centro-Oeste,Goiíçs,3,0,0
+03/15/20,Centro-Oeste,Goiíçs,3,0,0
+03/16/20,Centro-Oeste,Goiíçs,3,0,0
+03/17/20,Centro-Oeste,Goiíçs,6,3,0
+03/18/20,Centro-Oeste,Goiíçs,8,2,0
+03/19/20,Centro-Oeste,Goiíçs,12,4,0
+03/20/20,Centro-Oeste,Goiíçs,15,3,0
+03/21/20,Centro-Oeste,Goiíçs,20,5,0
+03/22/20,Centro-Oeste,Goiíçs,21,1,0
+03/23/20,Centro-Oeste,Goiíçs,23,2,0
+03/24/20,Centro-Oeste,Goiíçs,27,4,0
+03/25/20,Centro-Oeste,Goiíçs,29,2,0
+03/26/20,Centro-Oeste,Goiíçs,39,10,1
+03/27/20,Centro-Oeste,Goiíçs,49,10,1
+03/28/20,Centro-Oeste,Goiíçs,56,7,1
+03/29/20,Centro-Oeste,Goiíçs,58,2,1
+03/30/20,Centro-Oeste,Goiíçs,61,3,1
+03/31/20,Centro-Oeste,Goiíçs,65,4,1
+04/01/20,Centro-Oeste,Goiíçs,71,6,1
+04/02/20,Centro-Oeste,Goiíçs,73,2,1
+04/03/20,Centro-Oeste,Goiíçs,88,15,2
+04/04/20,Centro-Oeste,Goiíçs,103,15,2
+04/05/20,Centro-Oeste,Goiíçs,115,12,3
+04/06/20,Centro-Oeste,Goiíçs,119,4,5
+04/07/20,Centro-Oeste,Goiíçs,133,14,5
+04/08/20,Centro-Oeste,Goiíçs,158,25,7
+04/09/20,Centro-Oeste,Goiíçs,179,21,7
+04/10/20,Centro-Oeste,Goiíçs,191,12,8
+04/11/20,Centro-Oeste,Goiíçs,209,18,10
+04/12/20,Centro-Oeste,Goiíçs,229,20,14
+04/13/20,Centro-Oeste,Goiíçs,233,4,15
+04/14/20,Centro-Oeste,Goiíçs,284,51,15
+04/15/20,Centro-Oeste,Goiíçs,304,20,15
+04/16/20,Centro-Oeste,Goiíçs,318,14,16
+04/17/20,Centro-Oeste,Goiíçs,335,17,16
+04/18/20,Centro-Oeste,Goiíçs,378,43,18
+04/19/20,Centro-Oeste,Goiíçs,393,15,18
+04/20/20,Centro-Oeste,Goiíçs,403,10,19
+04/21/20,Centro-Oeste,Goiíçs,421,18,19
+04/22/20,Centro-Oeste,Goiíçs,438,17,21
+04/23/20,Centro-Oeste,Goiíçs,453,15,23
+04/24/20,Centro-Oeste,Goiíçs,486,33,24
+04/25/20,Centro-Oeste,Goiíçs,506,20,25
+04/26/20,Centro-Oeste,Goiíçs,573,67,25
+04/27/20,Centro-Oeste,Goiíçs,616,43,26
+04/28/20,Centro-Oeste,Goiíçs,661,45,27
+04/29/20,Centro-Oeste,Goiíçs,705,44,27
+04/30/20,Centro-Oeste,Goiíçs,781,76,29
+05/01/20,Centro-Oeste,Goiíçs,808,27,29
+05/02/20,Centro-Oeste,Goiíçs,825,17,30
+05/03/20,Centro-Oeste,Goiíçs,850,25,30
+05/04/20,Centro-Oeste,Goiíçs,861,11,30
+05/05/20,Centro-Oeste,Goiíçs,922,61,38
+05/06/20,Centro-Oeste,Goiíçs,1024,102,44
+05/07/20,Centro-Oeste,Goiíçs,1027,3,44
+05/08/20,Centro-Oeste,Goiíçs,1053,26,49
+05/09/20,Centro-Oeste,Goiíçs,1069,16,47
+05/10/20,Centro-Oeste,Goiíçs,1093,24,47
+05/11/20,Centro-Oeste,Goiíçs,1100,7,49
+05/12/20,Centro-Oeste,Goiíçs,1115,15,52
+05/13/20,Centro-Oeste,Goiíçs,1134,19,61
+05/14/20,Centro-Oeste,Goiíçs,1423,289,64
+03/20/20,Centro-Oeste,Mato Grosso,1,1,0
+03/21/20,Centro-Oeste,Mato Grosso,2,1,0
+03/22/20,Centro-Oeste,Mato Grosso,2,0,0
+03/23/20,Centro-Oeste,Mato Grosso,2,0,0
+03/24/20,Centro-Oeste,Mato Grosso,7,5,0
+03/25/20,Centro-Oeste,Mato Grosso,8,1,0
+03/26/20,Centro-Oeste,Mato Grosso,11,3,0
+03/27/20,Centro-Oeste,Mato Grosso,11,0,0
+03/28/20,Centro-Oeste,Mato Grosso,13,2,0
+03/29/20,Centro-Oeste,Mato Grosso,16,3,0
+03/30/20,Centro-Oeste,Mato Grosso,18,2,0
+03/31/20,Centro-Oeste,Mato Grosso,25,7,0
+04/01/20,Centro-Oeste,Mato Grosso,27,2,0
+04/02/20,Centro-Oeste,Mato Grosso,36,9,0
+04/03/20,Centro-Oeste,Mato Grosso,44,8,1
+04/04/20,Centro-Oeste,Mato Grosso,56,12,1
+04/05/20,Centro-Oeste,Mato Grosso,60,4,1
+04/06/20,Centro-Oeste,Mato Grosso,76,16,1
+04/07/20,Centro-Oeste,Mato Grosso,78,2,1
+04/08/20,Centro-Oeste,Mato Grosso,90,12,1
+04/09/20,Centro-Oeste,Mato Grosso,108,18,2
+04/10/20,Centro-Oeste,Mato Grosso,112,4,2
+04/11/20,Centro-Oeste,Mato Grosso,121,9,3
+04/12/20,Centro-Oeste,Mato Grosso,123,2,3
+04/13/20,Centro-Oeste,Mato Grosso,134,11,4
+04/14/20,Centro-Oeste,Mato Grosso,138,4,4
+04/15/20,Centro-Oeste,Mato Grosso,151,13,4
+04/16/20,Centro-Oeste,Mato Grosso,156,5,5
+04/17/20,Centro-Oeste,Mato Grosso,162,6,5
+04/18/20,Centro-Oeste,Mato Grosso,171,9,5
+04/19/20,Centro-Oeste,Mato Grosso,174,3,5
+04/20/20,Centro-Oeste,Mato Grosso,181,7,6
+04/21/20,Centro-Oeste,Mato Grosso,181,0,6
+04/22/20,Centro-Oeste,Mato Grosso,183,2,6
+04/23/20,Centro-Oeste,Mato Grosso,221,38,7
+04/24/20,Centro-Oeste,Mato Grosso,240,19,8
+04/25/20,Centro-Oeste,Mato Grosso,247,7,9
+04/26/20,Centro-Oeste,Mato Grosso,250,3,9
+04/27/20,Centro-Oeste,Mato Grosso,257,7,10
+04/28/20,Centro-Oeste,Mato Grosso,261,4,11
+04/29/20,Centro-Oeste,Mato Grosso,292,31,11
+04/30/20,Centro-Oeste,Mato Grosso,297,5,11
+05/01/20,Centro-Oeste,Mato Grosso,320,23,11
+05/02/20,Centro-Oeste,Mato Grosso,331,11,12
+05/03/20,Centro-Oeste,Mato Grosso,337,6,12
+05/04/20,Centro-Oeste,Mato Grosso,344,7,13
+05/05/20,Centro-Oeste,Mato Grosso,365,21,13
+05/06/20,Centro-Oeste,Mato Grosso,379,14,13
+05/07/20,Centro-Oeste,Mato Grosso,417,38,13
+05/08/20,Centro-Oeste,Mato Grosso,457,40,14
+05/09/20,Centro-Oeste,Mato Grosso,502,45,16
+05/10/20,Centro-Oeste,Mato Grosso,519,17,18
+05/11/20,Centro-Oeste,Mato Grosso,541,22,19
+05/12/20,Centro-Oeste,Mato Grosso,591,50,19
+05/13/20,Centro-Oeste,Mato Grosso,661,70,20
+05/14/20,Centro-Oeste,Mato Grosso,719,58,23
+03/16/20,Centro-Oeste,Mato Grosso do Sul,2,2,0
+03/17/20,Centro-Oeste,Mato Grosso do Sul,4,2,0
+03/18/20,Centro-Oeste,Mato Grosso do Sul,7,3,0
+03/19/20,Centro-Oeste,Mato Grosso do Sul,7,0,0
+03/20/20,Centro-Oeste,Mato Grosso do Sul,9,2,0
+03/21/20,Centro-Oeste,Mato Grosso do Sul,16,7,0
+03/22/20,Centro-Oeste,Mato Grosso do Sul,21,5,0
+03/23/20,Centro-Oeste,Mato Grosso do Sul,21,0,0
+03/24/20,Centro-Oeste,Mato Grosso do Sul,23,2,0
+03/25/20,Centro-Oeste,Mato Grosso do Sul,24,1,0
+03/26/20,Centro-Oeste,Mato Grosso do Sul,25,1,0
+03/27/20,Centro-Oeste,Mato Grosso do Sul,28,3,0
+03/28/20,Centro-Oeste,Mato Grosso do Sul,31,3,0
+03/29/20,Centro-Oeste,Mato Grosso do Sul,36,5,0
+03/30/20,Centro-Oeste,Mato Grosso do Sul,44,8,0
+03/31/20,Centro-Oeste,Mato Grosso do Sul,48,4,1
+04/01/20,Centro-Oeste,Mato Grosso do Sul,51,3,1
+04/02/20,Centro-Oeste,Mato Grosso do Sul,53,2,1
+04/03/20,Centro-Oeste,Mato Grosso do Sul,60,7,1
+04/04/20,Centro-Oeste,Mato Grosso do Sul,62,2,1
+04/05/20,Centro-Oeste,Mato Grosso do Sul,65,3,1
+04/06/20,Centro-Oeste,Mato Grosso do Sul,66,1,1
+04/07/20,Centro-Oeste,Mato Grosso do Sul,80,14,2
+04/08/20,Centro-Oeste,Mato Grosso do Sul,85,5,2
+04/09/20,Centro-Oeste,Mato Grosso do Sul,89,4,2
+04/10/20,Centro-Oeste,Mato Grosso do Sul,97,8,2
+04/11/20,Centro-Oeste,Mato Grosso do Sul,100,3,2
+04/12/20,Centro-Oeste,Mato Grosso do Sul,101,1,2
+04/13/20,Centro-Oeste,Mato Grosso do Sul,113,12,4
+04/14/20,Centro-Oeste,Mato Grosso do Sul,115,2,4
+04/15/20,Centro-Oeste,Mato Grosso do Sul,121,6,4
+04/16/20,Centro-Oeste,Mato Grosso do Sul,131,10,5
+04/17/20,Centro-Oeste,Mato Grosso do Sul,143,12,5
+04/18/20,Centro-Oeste,Mato Grosso do Sul,161,18,5
+04/19/20,Centro-Oeste,Mato Grosso do Sul,168,7,5
+04/20/20,Centro-Oeste,Mato Grosso do Sul,171,3,5
+04/21/20,Centro-Oeste,Mato Grosso do Sul,173,2,6
+04/22/20,Centro-Oeste,Mato Grosso do Sul,175,2,6
+04/23/20,Centro-Oeste,Mato Grosso do Sul,186,11,7
+04/24/20,Centro-Oeste,Mato Grosso do Sul,213,27,7
+04/25/20,Centro-Oeste,Mato Grosso do Sul,217,4,7
+04/26/20,Centro-Oeste,Mato Grosso do Sul,234,17,7
+04/27/20,Centro-Oeste,Mato Grosso do Sul,238,4,9
+04/28/20,Centro-Oeste,Mato Grosso do Sul,240,2,9
+04/29/20,Centro-Oeste,Mato Grosso do Sul,249,9,9
+04/30/20,Centro-Oeste,Mato Grosso do Sul,255,6,9
+05/01/20,Centro-Oeste,Mato Grosso do Sul,261,6,9
+05/02/20,Centro-Oeste,Mato Grosso do Sul,266,5,9
+05/03/20,Centro-Oeste,Mato Grosso do Sul,272,6,10
+05/04/20,Centro-Oeste,Mato Grosso do Sul,274,2,10
+05/05/20,Centro-Oeste,Mato Grosso do Sul,283,9,10
+05/06/20,Centro-Oeste,Mato Grosso do Sul,288,5,10
+05/07/20,Centro-Oeste,Mato Grosso do Sul,311,23,10
+05/08/20,Centro-Oeste,Mato Grosso do Sul,326,15,11
+05/09/20,Centro-Oeste,Mato Grosso do Sul,346,20,11
+05/10/20,Centro-Oeste,Mato Grosso do Sul,362,16,11
+05/11/20,Centro-Oeste,Mato Grosso do Sul,385,23,11
+05/12/20,Centro-Oeste,Mato Grosso do Sul,405,20,12
+05/13/20,Centro-Oeste,Mato Grosso do Sul,430,25,13
+05/14/20,Centro-Oeste,Mato Grosso do Sul,452,22,14
+03/08/20,Nordeste,Alagoas,1,1,0
+03/09/20,Nordeste,Alagoas,1,0,0
+03/10/20,Nordeste,Alagoas,1,0,0
+03/11/20,Nordeste,Alagoas,1,0,0
+03/12/20,Nordeste,Alagoas,1,0,0
+03/13/20,Nordeste,Alagoas,1,0,0
+03/14/20,Nordeste,Alagoas,1,0,0
+03/15/20,Nordeste,Alagoas,1,0,0
+03/16/20,Nordeste,Alagoas,1,0,0
+03/17/20,Nordeste,Alagoas,1,0,0
+03/18/20,Nordeste,Alagoas,1,0,0
+03/19/20,Nordeste,Alagoas,4,3,0
+03/20/20,Nordeste,Alagoas,5,1,0
+03/21/20,Nordeste,Alagoas,7,2,0
+03/22/20,Nordeste,Alagoas,7,0,0
+03/23/20,Nordeste,Alagoas,7,0,0
+03/24/20,Nordeste,Alagoas,9,2,0
+03/25/20,Nordeste,Alagoas,11,2,0
+03/26/20,Nordeste,Alagoas,11,0,0
+03/27/20,Nordeste,Alagoas,11,0,0
+03/28/20,Nordeste,Alagoas,14,3,0
+03/29/20,Nordeste,Alagoas,17,3,0
+03/30/20,Nordeste,Alagoas,17,0,0
+03/31/20,Nordeste,Alagoas,18,1,1
+04/01/20,Nordeste,Alagoas,18,0,1
+04/02/20,Nordeste,Alagoas,18,0,1
+04/03/20,Nordeste,Alagoas,22,4,2
+04/04/20,Nordeste,Alagoas,23,1,2
+04/05/20,Nordeste,Alagoas,28,5,2
+04/06/20,Nordeste,Alagoas,31,3,2
+04/07/20,Nordeste,Alagoas,32,1,2
+04/08/20,Nordeste,Alagoas,37,5,2
+04/09/20,Nordeste,Alagoas,37,0,3
+04/10/20,Nordeste,Alagoas,45,8,3
+04/11/20,Nordeste,Alagoas,48,3,3
+04/12/20,Nordeste,Alagoas,48,0,3
+04/13/20,Nordeste,Alagoas,50,2,3
+04/14/20,Nordeste,Alagoas,72,22,4
+04/15/20,Nordeste,Alagoas,82,10,5
+04/16/20,Nordeste,Alagoas,89,7,5
+04/17/20,Nordeste,Alagoas,110,21,7
+04/18/20,Nordeste,Alagoas,132,22,7
+04/19/20,Nordeste,Alagoas,159,27,15
+04/20/20,Nordeste,Alagoas,171,12,18
+04/21/20,Nordeste,Alagoas,210,39,19
+04/22/20,Nordeste,Alagoas,243,33,20
+04/23/20,Nordeste,Alagoas,324,81,22
+04/24/20,Nordeste,Alagoas,413,89,27
+04/25/20,Nordeste,Alagoas,501,88,29
+04/26/20,Nordeste,Alagoas,554,53,32
+04/27/20,Nordeste,Alagoas,643,89,34
+04/28/20,Nordeste,Alagoas,777,134,36
+04/29/20,Nordeste,Alagoas,957,180,41
+04/30/20,Nordeste,Alagoas,1044,87,47
+05/01/20,Nordeste,Alagoas,1226,182,53
+05/02/20,Nordeste,Alagoas,1372,146,58
+05/03/20,Nordeste,Alagoas,1441,69,64
+05/04/20,Nordeste,Alagoas,1538,97,72
+05/05/20,Nordeste,Alagoas,1606,68,80
+05/06/20,Nordeste,Alagoas,1703,97,89
+05/07/20,Nordeste,Alagoas,1867,164,98
+05/08/20,Nordeste,Alagoas,2033,166,108
+05/09/20,Nordeste,Alagoas,2172,139,114
+05/10/20,Nordeste,Alagoas,2258,86,126
+05/11/20,Nordeste,Alagoas,2343,85,138
+05/12/20,Nordeste,Alagoas,2580,237,150
+05/13/20,Nordeste,Alagoas,2761,181,164
+05/14/20,Nordeste,Alagoas,2972,211,177
+03/06/20,Nordeste,Bahia,1,1,0
+03/07/20,Nordeste,Bahia,2,1,0
+03/08/20,Nordeste,Bahia,2,0,0
+03/09/20,Nordeste,Bahia,2,0,0
+03/10/20,Nordeste,Bahia,2,0,0
+03/11/20,Nordeste,Bahia,2,0,0
+03/12/20,Nordeste,Bahia,2,0,0
+03/13/20,Nordeste,Bahia,2,0,0
+03/14/20,Nordeste,Bahia,2,0,0
+03/15/20,Nordeste,Bahia,2,0,0
+03/16/20,Nordeste,Bahia,2,0,0
+03/17/20,Nordeste,Bahia,3,1,0
+03/18/20,Nordeste,Bahia,3,0,0
+03/19/20,Nordeste,Bahia,30,27,0
+03/20/20,Nordeste,Bahia,33,3,0
+03/21/20,Nordeste,Bahia,41,8,0
+03/22/20,Nordeste,Bahia,49,8,0
+03/23/20,Nordeste,Bahia,63,14,0
+03/24/20,Nordeste,Bahia,76,13,0
+03/25/20,Nordeste,Bahia,84,8,0
+03/26/20,Nordeste,Bahia,104,20,0
+03/27/20,Nordeste,Bahia,115,11,0
+03/28/20,Nordeste,Bahia,127,12,0
+03/29/20,Nordeste,Bahia,154,27,1
+03/30/20,Nordeste,Bahia,176,22,1
+03/31/20,Nordeste,Bahia,213,37,2
+04/01/20,Nordeste,Bahia,246,33,2
+04/02/20,Nordeste,Bahia,267,21,3
+04/03/20,Nordeste,Bahia,282,15,5
+04/04/20,Nordeste,Bahia,332,50,7
+04/05/20,Nordeste,Bahia,401,69,9
+04/06/20,Nordeste,Bahia,431,30,10
+04/07/20,Nordeste,Bahia,456,25,12
+04/08/20,Nordeste,Bahia,497,41,15
+04/09/20,Nordeste,Bahia,559,62,19
+04/10/20,Nordeste,Bahia,604,45,19
+04/11/20,Nordeste,Bahia,635,31,21
+04/12/20,Nordeste,Bahia,673,38,21
+04/13/20,Nordeste,Bahia,723,50,22
+04/14/20,Nordeste,Bahia,759,36,22
+04/15/20,Nordeste,Bahia,807,48,27
+04/16/20,Nordeste,Bahia,951,144,30
+04/17/20,Nordeste,Bahia,1059,108,36
+04/18/20,Nordeste,Bahia,1193,134,37
+04/19/20,Nordeste,Bahia,1230,37,45
+04/20/20,Nordeste,Bahia,1341,111,46
+04/21/20,Nordeste,Bahia,1489,148,47
+04/22/20,Nordeste,Bahia,1644,155,50
+04/23/20,Nordeste,Bahia,1789,145,59
+04/24/20,Nordeste,Bahia,1962,173,64
+04/25/20,Nordeste,Bahia,2081,119,70
+04/26/20,Nordeste,Bahia,2209,128,73
+04/27/20,Nordeste,Bahia,2354,145,76
+04/28/20,Nordeste,Bahia,2540,186,86
+04/29/20,Nordeste,Bahia,2646,106,96
+04/30/20,Nordeste,Bahia,2851,205,104
+05/01/20,Nordeste,Bahia,3085,234,117
+05/02/20,Nordeste,Bahia,3267,182,123
+05/03/20,Nordeste,Bahia,3495,228,123
+05/04/20,Nordeste,Bahia,3734,239,141
+05/05/20,Nordeste,Bahia,4040,306,146
+05/06/20,Nordeste,Bahia,4301,261,160
+05/07/20,Nordeste,Bahia,4528,227,165
+05/08/20,Nordeste,Bahia,4818,290,183
+05/09/20,Nordeste,Bahia,5174,356,196
+05/10/20,Nordeste,Bahia,5558,384,202
+05/11/20,Nordeste,Bahia,5808,250,211
+05/12/20,Nordeste,Bahia,6204,396,225
+05/13/20,Nordeste,Bahia,6547,343,236
+05/14/20,Nordeste,Bahia,6955,408,262
+03/17/20,Nordeste,Cearíç,5,5,0
+03/18/20,Nordeste,Cearíç,9,4,0
+03/19/20,Nordeste,Cearíç,20,11,0
+03/20/20,Nordeste,Cearíç,55,35,0
+03/21/20,Nordeste,Cearíç,68,13,0
+03/22/20,Nordeste,Cearíç,112,44,0
+03/23/20,Nordeste,Cearíç,163,51,0
+03/24/20,Nordeste,Cearíç,182,19,0
+03/25/20,Nordeste,Cearíç,200,18,0
+03/26/20,Nordeste,Cearíç,235,35,3
+03/27/20,Nordeste,Cearíç,282,47,3
+03/28/20,Nordeste,Cearíç,314,32,4
+03/29/20,Nordeste,Cearíç,348,34,5
+03/30/20,Nordeste,Cearíç,372,24,5
+03/31/20,Nordeste,Cearíç,390,18,7
+04/01/20,Nordeste,Cearíç,444,54,8
+04/02/20,Nordeste,Cearíç,550,106,20
+04/03/20,Nordeste,Cearíç,627,77,22
+04/04/20,Nordeste,Cearíç,730,103,22
+04/05/20,Nordeste,Cearíç,823,93,26
+04/06/20,Nordeste,Cearíç,1013,190,29
+04/07/20,Nordeste,Cearíç,1051,38,31
+04/08/20,Nordeste,Cearíç,1291,240,43
+04/09/20,Nordeste,Cearíç,1425,134,55
+04/10/20,Nordeste,Cearíç,1478,53,58
+04/11/20,Nordeste,Cearíç,1582,104,67
+04/12/20,Nordeste,Cearíç,1676,94,74
+04/13/20,Nordeste,Cearíç,1800,124,91
+04/14/20,Nordeste,Cearíç,2005,205,107
+04/15/20,Nordeste,Cearíç,2157,152,116
+04/16/20,Nordeste,Cearíç,2386,229,124
+04/17/20,Nordeste,Cearíç,2684,298,149
+04/18/20,Nordeste,Cearíç,3034,350,176
+04/19/20,Nordeste,Cearíç,3252,218,186
+04/20/20,Nordeste,Cearíç,3482,230,198
+04/21/20,Nordeste,Cearíç,3716,234,215
+04/22/20,Nordeste,Cearíç,3910,194,233
+04/23/20,Nordeste,Cearíç,4598,688,266
+04/24/20,Nordeste,Cearíç,4800,202,284
+04/25/20,Nordeste,Cearíç,5421,621,310
+04/26/20,Nordeste,Cearíç,5833,412,327
+04/27/20,Nordeste,Cearíç,6726,893,390
+04/28/20,Nordeste,Cearíç,6918,192,403
+04/29/20,Nordeste,Cearíç,7267,349,441
+04/30/20,Nordeste,Cearíç,7606,339,482
+05/01/20,Nordeste,Cearíç,7879,273,505
+05/02/20,Nordeste,Cearíç,8231,352,614
+05/03/20,Nordeste,Cearíç,8370,139,663
+05/04/20,Nordeste,Cearíç,11040,2670,712
+05/05/20,Nordeste,Cearíç,11470,430,795
+05/06/20,Nordeste,Cearíç,12304,834,848
+05/07/20,Nordeste,Cearíç,13888,1584,903
+05/08/20,Nordeste,Cearíç,14956,1068,966
+05/09/20,Nordeste,Cearíç,15879,923,1062
+05/10/20,Nordeste,Cearíç,16692,813,1114
+05/11/20,Nordeste,Cearíç,17599,907,1189
+05/12/20,Nordeste,Cearíç,18412,813,1280
+05/13/20,Nordeste,Cearíç,19156,744,1389
+05/14/20,Nordeste,Cearíç,21077,1921,1413
+03/21/20,Nordeste,Maranhí£o,1,1,0
+03/22/20,Nordeste,Maranhí£o,2,1,0
+03/23/20,Nordeste,Maranhí£o,2,0,0
+03/24/20,Nordeste,Maranhí£o,8,6,0
+03/25/20,Nordeste,Maranhí£o,8,0,0
+03/26/20,Nordeste,Maranhí£o,10,2,0
+03/27/20,Nordeste,Maranhí£o,13,3,0
+03/28/20,Nordeste,Maranhí£o,14,1,0
+03/29/20,Nordeste,Maranhí£o,16,2,0
+03/30/20,Nordeste,Maranhí£o,23,7,1
+03/31/20,Nordeste,Maranhí£o,31,8,1
+04/01/20,Nordeste,Maranhí£o,52,21,1
+04/02/20,Nordeste,Maranhí£o,71,19,1
+04/03/20,Nordeste,Maranhí£o,81,10,1
+04/04/20,Nordeste,Maranhí£o,88,7,1
+04/05/20,Nordeste,Maranhí£o,96,8,2
+04/06/20,Nordeste,Maranhí£o,133,37,2
+04/07/20,Nordeste,Maranhí£o,172,39,4
+04/08/20,Nordeste,Maranhí£o,230,58,11
+04/09/20,Nordeste,Maranhí£o,273,43,12
+04/10/20,Nordeste,Maranhí£o,293,20,16
+04/11/20,Nordeste,Maranhí£o,344,51,21
+04/12/20,Nordeste,Maranhí£o,398,54,24
+04/13/20,Nordeste,Maranhí£o,445,47,27
+04/14/20,Nordeste,Maranhí£o,478,33,32
+04/15/20,Nordeste,Maranhí£o,630,152,34
+04/16/20,Nordeste,Maranhí£o,695,65,37
+04/17/20,Nordeste,Maranhí£o,797,102,40
+04/18/20,Nordeste,Maranhí£o,1040,243,44
+04/19/20,Nordeste,Maranhí£o,1205,165,48
+04/20/20,Nordeste,Maranhí£o,1320,115,54
+04/21/20,Nordeste,Maranhí£o,1396,76,60
+04/22/20,Nordeste,Maranhí£o,1604,208,66
+04/23/20,Nordeste,Maranhí£o,1757,153,76
+04/24/20,Nordeste,Maranhí£o,1951,194,88
+04/25/20,Nordeste,Maranhí£o,2105,154,100
+04/26/20,Nordeste,Maranhí£o,2223,118,112
+04/27/20,Nordeste,Maranhí£o,2410,187,125
+04/28/20,Nordeste,Maranhí£o,2528,118,145
+04/29/20,Nordeste,Maranhí£o,2804,276,166
+04/30/20,Nordeste,Maranhí£o,3190,386,184
+05/01/20,Nordeste,Maranhí£o,3506,316,204
+05/02/20,Nordeste,Maranhí£o,3805,299,224
+05/03/20,Nordeste,Maranhí£o,4040,235,237
+05/04/20,Nordeste,Maranhí£o,4227,187,249
+05/05/20,Nordeste,Maranhí£o,4530,303,271
+05/06/20,Nordeste,Maranhí£o,5028,498,291
+05/07/20,Nordeste,Maranhí£o,5389,361,305
+05/08/20,Nordeste,Maranhí£o,5909,520,330
+05/09/20,Nordeste,Maranhí£o,6765,856,355
+05/10/20,Nordeste,Maranhí£o,7599,834,379
+05/11/20,Nordeste,Maranhí£o,8144,545,399
+05/12/20,Nordeste,Maranhí£o,8526,382,423
+05/13/20,Nordeste,Maranhí£o,9112,586,444
+05/14/20,Nordeste,Maranhí£o,9801,689,470
+03/19/20,Nordeste,Paraí_ba,1,1,0
+03/20/20,Nordeste,Paraí_ba,1,0,0
+03/21/20,Nordeste,Paraí_ba,1,0,0
+03/22/20,Nordeste,Paraí_ba,1,0,0
+03/23/20,Nordeste,Paraí_ba,2,1,0
+03/24/20,Nordeste,Paraí_ba,3,1,0
+03/25/20,Nordeste,Paraí_ba,3,0,0
+03/26/20,Nordeste,Paraí_ba,5,2,0
+03/27/20,Nordeste,Paraí_ba,9,4,0
+03/28/20,Nordeste,Paraí_ba,14,5,0
+03/29/20,Nordeste,Paraí_ba,14,0,0
+03/30/20,Nordeste,Paraí_ba,15,1,0
+03/31/20,Nordeste,Paraí_ba,17,2,0
+04/01/20,Nordeste,Paraí_ba,20,3,1
+04/02/20,Nordeste,Paraí_ba,21,1,1
+04/03/20,Nordeste,Paraí_ba,29,8,1
+04/04/20,Nordeste,Paraí_ba,32,3,2
+04/05/20,Nordeste,Paraí_ba,34,2,4
+04/06/20,Nordeste,Paraí_ba,35,1,4
+04/07/20,Nordeste,Paraí_ba,36,1,4
+04/08/20,Nordeste,Paraí_ba,41,5,4
+04/09/20,Nordeste,Paraí_ba,55,14,7
+04/10/20,Nordeste,Paraí_ba,79,24,11
+04/11/20,Nordeste,Paraí_ba,85,6,11
+04/12/20,Nordeste,Paraí_ba,101,16,13
+04/13/20,Nordeste,Paraí_ba,111,10,13
+04/14/20,Nordeste,Paraí_ba,136,25,16
+04/15/20,Nordeste,Paraí_ba,151,15,21
+04/16/20,Nordeste,Paraí_ba,165,14,24
+04/17/20,Nordeste,Paraí_ba,195,30,26
+04/18/20,Nordeste,Paraí_ba,205,10,26
+04/19/20,Nordeste,Paraí_ba,236,31,29
+04/20/20,Nordeste,Paraí_ba,245,9,32
+04/21/20,Nordeste,Paraí_ba,263,18,33
+04/22/20,Nordeste,Paraí_ba,301,38,39
+04/23/20,Nordeste,Paraí_ba,345,44,40
+04/24/20,Nordeste,Paraí_ba,386,41,44
+04/25/20,Nordeste,Paraí_ba,447,61,46
+04/26/20,Nordeste,Paraí_ba,499,52,49
+04/27/20,Nordeste,Paraí_ba,543,44,50
+04/28/20,Nordeste,Paraí_ba,633,90,53
+04/29/20,Nordeste,Paraí_ba,699,66,58
+04/30/20,Nordeste,Paraí_ba,814,115,62
+05/01/20,Nordeste,Paraí_ba,926,112,67
+05/02/20,Nordeste,Paraí_ba,1034,108,74
+05/03/20,Nordeste,Paraí_ba,1169,135,76
+05/04/20,Nordeste,Paraí_ba,1219,50,79
+05/05/20,Nordeste,Paraí_ba,1361,142,85
+05/06/20,Nordeste,Paraí_ba,1493,132,92
+05/07/20,Nordeste,Paraí_ba,1657,164,101
+05/08/20,Nordeste,Paraí_ba,2031,374,114
+05/09/20,Nordeste,Paraí_ba,2156,125,124
+05/10/20,Nordeste,Paraí_ba,2341,185,135
+05/11/20,Nordeste,Paraí_ba,2525,184,139
+05/12/20,Nordeste,Paraí_ba,2777,252,154
+05/13/20,Nordeste,Paraí_ba,3045,268,157
+05/14/20,Nordeste,Paraí_ba,3361,316,160
+03/12/20,Nordeste,Pernambuco,2,2,0
+03/13/20,Nordeste,Pernambuco,2,0,0
+03/14/20,Nordeste,Pernambuco,2,0,0
+03/15/20,Nordeste,Pernambuco,2,0,0
+03/16/20,Nordeste,Pernambuco,2,0,0
+03/17/20,Nordeste,Pernambuco,16,14,0
+03/18/20,Nordeste,Pernambuco,16,0,0
+03/19/20,Nordeste,Pernambuco,28,12,0
+03/20/20,Nordeste,Pernambuco,30,2,0
+03/21/20,Nordeste,Pernambuco,30,0,0
+03/22/20,Nordeste,Pernambuco,37,7,0
+03/23/20,Nordeste,Pernambuco,42,5,0
+03/24/20,Nordeste,Pernambuco,42,0,0
+03/25/20,Nordeste,Pernambuco,46,4,1
+03/26/20,Nordeste,Pernambuco,48,2,3
+03/27/20,Nordeste,Pernambuco,56,8,4
+03/28/20,Nordeste,Pernambuco,68,12,5
+03/29/20,Nordeste,Pernambuco,73,5,5
+03/30/20,Nordeste,Pernambuco,78,5,6
+03/31/20,Nordeste,Pernambuco,87,9,6
+04/01/20,Nordeste,Pernambuco,95,8,8
+04/02/20,Nordeste,Pernambuco,106,11,9
+04/03/20,Nordeste,Pernambuco,136,30,10
+04/04/20,Nordeste,Pernambuco,176,40,14
+04/05/20,Nordeste,Pernambuco,201,25,21
+04/06/20,Nordeste,Pernambuco,223,22,30
+04/07/20,Nordeste,Pernambuco,352,129,34
+04/08/20,Nordeste,Pernambuco,401,49,46
+04/09/20,Nordeste,Pernambuco,555,154,56
+04/10/20,Nordeste,Pernambuco,684,129,65
+04/11/20,Nordeste,Pernambuco,816,132,72
+04/12/20,Nordeste,Pernambuco,960,144,85
+04/13/20,Nordeste,Pernambuco,1154,194,102
+04/14/20,Nordeste,Pernambuco,1284,130,115
+04/15/20,Nordeste,Pernambuco,1484,200,143
+04/16/20,Nordeste,Pernambuco,1683,199,160
+04/17/20,Nordeste,Pernambuco,2006,323,186
+04/18/20,Nordeste,Pernambuco,2193,187,205
+04/19/20,Nordeste,Pernambuco,2459,266,216
+04/20/20,Nordeste,Pernambuco,2690,231,234
+04/21/20,Nordeste,Pernambuco,2908,218,260
+04/22/20,Nordeste,Pernambuco,3298,390,282
+04/23/20,Nordeste,Pernambuco,3519,221,312
+04/24/20,Nordeste,Pernambuco,3999,480,352
+04/25/20,Nordeste,Pernambuco,4507,508,381
+04/26/20,Nordeste,Pernambuco,4898,391,415
+04/27/20,Nordeste,Pernambuco,5358,460,450
+04/28/20,Nordeste,Pernambuco,5724,366,508
+04/29/20,Nordeste,Pernambuco,6194,470,538
+04/30/20,Nordeste,Pernambuco,6876,682,565
+05/01/20,Nordeste,Pernambuco,7334,458,603
+05/02/20,Nordeste,Pernambuco,8145,811,628
+05/03/20,Nordeste,Pernambuco,8643,498,652
+05/04/20,Nordeste,Pernambuco,8863,220,691
+05/05/20,Nordeste,Pernambuco,9325,462,749
+05/06/20,Nordeste,Pernambuco,9881,556,803
+05/07/20,Nordeste,Pernambuco,10824,943,845
+05/08/20,Nordeste,Pernambuco,11587,763,927
+05/09/20,Nordeste,Pernambuco,12470,883,972
+05/10/20,Nordeste,Pernambuco,13275,805,1047
+05/11/20,Nordeste,Pernambuco,13768,493,1087
+05/12/20,Nordeste,Pernambuco,14309,541,1157
+05/13/20,Nordeste,Pernambuco,14901,592,1224
+05/14/20,Nordeste,Pernambuco,15588,687,1298
+03/20/20,Nordeste,Piauí_,3,3,0
+03/21/20,Nordeste,Piauí_,4,1,0
+03/22/20,Nordeste,Piauí_,4,0,0
+03/23/20,Nordeste,Piauí_,6,2,0
+03/24/20,Nordeste,Piauí_,6,0,0
+03/25/20,Nordeste,Piauí_,8,2,0
+03/26/20,Nordeste,Piauí_,9,1,0
+03/27/20,Nordeste,Piauí_,9,0,0
+03/28/20,Nordeste,Piauí_,11,2,1
+03/29/20,Nordeste,Piauí_,14,3,1
+03/30/20,Nordeste,Piauí_,16,2,3
+03/31/20,Nordeste,Piauí_,18,2,4
+04/01/20,Nordeste,Piauí_,18,0,4
+04/02/20,Nordeste,Piauí_,19,1,4
+04/03/20,Nordeste,Piauí_,21,2,4
+04/04/20,Nordeste,Piauí_,22,1,4
+04/05/20,Nordeste,Piauí_,23,1,4
+04/06/20,Nordeste,Piauí_,23,0,4
+04/07/20,Nordeste,Piauí_,28,5,4
+04/08/20,Nordeste,Piauí_,31,3,5
+04/09/20,Nordeste,Piauí_,38,7,6
+04/10/20,Nordeste,Piauí_,40,2,7
+04/11/20,Nordeste,Piauí_,41,1,7
+04/12/20,Nordeste,Piauí_,44,3,7
+04/13/20,Nordeste,Piauí_,50,6,8
+04/14/20,Nordeste,Piauí_,58,8,8
+04/15/20,Nordeste,Piauí_,75,17,8
+04/16/20,Nordeste,Piauí_,91,16,8
+04/17/20,Nordeste,Piauí_,102,11,8
+04/18/20,Nordeste,Piauí_,123,21,9
+04/19/20,Nordeste,Piauí_,145,22,10
+04/20/20,Nordeste,Piauí_,158,13,12
+04/21/20,Nordeste,Piauí_,186,28,14
+04/22/20,Nordeste,Piauí_,206,20,15
+04/23/20,Nordeste,Piauí_,217,11,15
+04/24/20,Nordeste,Piauí_,256,39,16
+04/25/20,Nordeste,Piauí_,297,41,17
+04/26/20,Nordeste,Piauí_,331,34,18
+04/27/20,Nordeste,Piauí_,364,33,20
+04/28/20,Nordeste,Piauí_,408,44,21
+04/29/20,Nordeste,Piauí_,454,46,24
+04/30/20,Nordeste,Piauí_,513,59,24
+05/01/20,Nordeste,Piauí_,600,87,24
+05/02/20,Nordeste,Piauí_,665,65,26
+05/03/20,Nordeste,Piauí_,742,77,28
+05/04/20,Nordeste,Piauí_,784,42,28
+05/05/20,Nordeste,Piauí_,875,91,29
+05/06/20,Nordeste,Piauí_,949,74,30
+05/07/20,Nordeste,Piauí_,1051,102,35
+05/08/20,Nordeste,Piauí_,1131,80,37
+05/09/20,Nordeste,Piauí_,1233,102,38
+05/10/20,Nordeste,Piauí_,1278,45,42
+05/11/20,Nordeste,Piauí_,1332,54,45
+05/12/20,Nordeste,Piauí_,1443,111,49
+05/13/20,Nordeste,Piauí_,1612,169,57
+05/14/20,Nordeste,Piauí_,1784,172,60
+03/13/20,Nordeste,Rio Grande do Norte,1,1,0
+03/14/20,Nordeste,Rio Grande do Norte,1,0,0
+03/15/20,Nordeste,Rio Grande do Norte,1,0,0
+03/16/20,Nordeste,Rio Grande do Norte,1,0,0
+03/17/20,Nordeste,Rio Grande do Norte,1,0,0
+03/18/20,Nordeste,Rio Grande do Norte,1,0,0
+03/19/20,Nordeste,Rio Grande do Norte,1,0,0
+03/20/20,Nordeste,Rio Grande do Norte,1,0,0
+03/21/20,Nordeste,Rio Grande do Norte,6,5,0
+03/22/20,Nordeste,Rio Grande do Norte,9,3,0
+03/23/20,Nordeste,Rio Grande do Norte,13,4,0
+03/24/20,Nordeste,Rio Grande do Norte,13,0,0
+03/25/20,Nordeste,Rio Grande do Norte,14,1,0
+03/26/20,Nordeste,Rio Grande do Norte,19,5,0
+03/27/20,Nordeste,Rio Grande do Norte,28,9,0
+03/28/20,Nordeste,Rio Grande do Norte,45,17,0
+03/29/20,Nordeste,Rio Grande do Norte,68,23,1
+03/30/20,Nordeste,Rio Grande do Norte,77,9,1
+03/31/20,Nordeste,Rio Grande do Norte,82,5,1
+04/01/20,Nordeste,Rio Grande do Norte,92,10,2
+04/02/20,Nordeste,Rio Grande do Norte,105,13,2
+04/03/20,Nordeste,Rio Grande do Norte,176,71,4
+04/04/20,Nordeste,Rio Grande do Norte,212,36,5
+04/05/20,Nordeste,Rio Grande do Norte,242,30,7
+04/06/20,Nordeste,Rio Grande do Norte,246,4,7
+04/07/20,Nordeste,Rio Grande do Norte,254,8,8
+04/08/20,Nordeste,Rio Grande do Norte,261,7,11
+04/09/20,Nordeste,Rio Grande do Norte,261,0,11
+04/10/20,Nordeste,Rio Grande do Norte,263,2,11
+04/11/20,Nordeste,Rio Grande do Norte,289,26,13
+04/12/20,Nordeste,Rio Grande do Norte,302,13,15
+04/13/20,Nordeste,Rio Grande do Norte,339,37,17
+04/14/20,Nordeste,Rio Grande do Norte,376,37,18
+04/15/20,Nordeste,Rio Grande do Norte,399,23,19
+04/16/20,Nordeste,Rio Grande do Norte,400,1,20
+04/17/20,Nordeste,Rio Grande do Norte,463,63,23
+04/18/20,Nordeste,Rio Grande do Norte,516,53,24
+04/19/20,Nordeste,Rio Grande do Norte,531,15,25
+04/20/20,Nordeste,Rio Grande do Norte,595,64,27
+04/21/20,Nordeste,Rio Grande do Norte,608,13,28
+04/22/20,Nordeste,Rio Grande do Norte,646,38,29
+04/23/20,Nordeste,Rio Grande do Norte,708,62,34
+04/24/20,Nordeste,Rio Grande do Norte,754,46,38
+04/25/20,Nordeste,Rio Grande do Norte,781,27,40
+04/26/20,Nordeste,Rio Grande do Norte,825,44,44
+04/27/20,Nordeste,Rio Grande do Norte,832,7,45
+04/28/20,Nordeste,Rio Grande do Norte,857,25,48
+04/29/20,Nordeste,Rio Grande do Norte,1086,229,53
+04/30/20,Nordeste,Rio Grande do Norte,1177,91,56
+05/01/20,Nordeste,Rio Grande do Norte,1297,120,56
+05/02/20,Nordeste,Rio Grande do Norte,1366,69,59
+05/03/20,Nordeste,Rio Grande do Norte,1392,26,61
+05/04/20,Nordeste,Rio Grande do Norte,1421,29,62
+05/05/20,Nordeste,Rio Grande do Norte,1536,115,68
+05/06/20,Nordeste,Rio Grande do Norte,1574,38,72
+05/07/20,Nordeste,Rio Grande do Norte,1739,165,76
+05/08/20,Nordeste,Rio Grande do Norte,1821,82,81
+05/09/20,Nordeste,Rio Grande do Norte,1919,98,87
+05/10/20,Nordeste,Rio Grande do Norte,1928,9,88
+05/11/20,Nordeste,Rio Grande do Norte,1989,61,92
+05/12/20,Nordeste,Rio Grande do Norte,2033,44,93
+05/13/20,Nordeste,Rio Grande do Norte,2367,334,105
+05/14/20,Nordeste,Rio Grande do Norte,2537,170,117
+03/15/20,Nordeste,Sergipe,1,1,0
+03/16/20,Nordeste,Sergipe,1,0,0
+03/17/20,Nordeste,Sergipe,4,3,0
+03/18/20,Nordeste,Sergipe,5,1,0
+03/19/20,Nordeste,Sergipe,6,1,0
+03/20/20,Nordeste,Sergipe,6,0,0
+03/21/20,Nordeste,Sergipe,10,4,0
+03/22/20,Nordeste,Sergipe,10,0,0
+03/23/20,Nordeste,Sergipe,10,0,0
+03/24/20,Nordeste,Sergipe,15,5,0
+03/25/20,Nordeste,Sergipe,16,1,0
+03/26/20,Nordeste,Sergipe,16,0,0
+03/27/20,Nordeste,Sergipe,16,0,0
+03/28/20,Nordeste,Sergipe,16,0,0
+03/29/20,Nordeste,Sergipe,16,0,0
+03/30/20,Nordeste,Sergipe,16,0,0
+03/31/20,Nordeste,Sergipe,19,3,0
+04/01/20,Nordeste,Sergipe,20,1,0
+04/02/20,Nordeste,Sergipe,23,3,2
+04/03/20,Nordeste,Sergipe,25,2,2
+04/04/20,Nordeste,Sergipe,27,2,2
+04/05/20,Nordeste,Sergipe,32,5,3
+04/06/20,Nordeste,Sergipe,32,0,4
+04/07/20,Nordeste,Sergipe,36,4,4
+04/08/20,Nordeste,Sergipe,36,0,4
+04/09/20,Nordeste,Sergipe,39,3,4
+04/10/20,Nordeste,Sergipe,42,3,4
+04/11/20,Nordeste,Sergipe,42,0,4
+04/12/20,Nordeste,Sergipe,44,2,4
+04/13/20,Nordeste,Sergipe,44,0,4
+04/14/20,Nordeste,Sergipe,45,1,4
+04/15/20,Nordeste,Sergipe,46,1,4
+04/16/20,Nordeste,Sergipe,48,2,4
+04/17/20,Nordeste,Sergipe,53,5,4
+04/18/20,Nordeste,Sergipe,71,18,5
+04/19/20,Nordeste,Sergipe,83,12,5
+04/20/20,Nordeste,Sergipe,86,3,5
+04/21/20,Nordeste,Sergipe,92,6,5
+04/22/20,Nordeste,Sergipe,117,25,7
+04/23/20,Nordeste,Sergipe,124,7,8
+04/24/20,Nordeste,Sergipe,144,20,8
+04/25/20,Nordeste,Sergipe,153,9,9
+04/26/20,Nordeste,Sergipe,159,6,9
+04/27/20,Nordeste,Sergipe,197,38,10
+04/28/20,Nordeste,Sergipe,280,83,11
+04/29/20,Nordeste,Sergipe,337,57,12
+04/30/20,Nordeste,Sergipe,447,110,12
+05/01/20,Nordeste,Sergipe,517,70,14
+05/02/20,Nordeste,Sergipe,601,84,14
+05/03/20,Nordeste,Sergipe,730,129,14
+05/04/20,Nordeste,Sergipe,772,42,17
+05/05/20,Nordeste,Sergipe,898,126,21
+05/06/20,Nordeste,Sergipe,998,100,23
+05/07/20,Nordeste,Sergipe,1214,216,25
+05/08/20,Nordeste,Sergipe,1438,224,28
+05/09/20,Nordeste,Sergipe,1588,150,33
+05/10/20,Nordeste,Sergipe,1771,183,34
+05/11/20,Nordeste,Sergipe,1800,29,37
+05/12/20,Nordeste,Sergipe,2032,232,37
+05/13/20,Nordeste,Sergipe,2268,236,42
+05/14/20,Nordeste,Sergipe,2494,226,47
+03/19/20,Norte,Acre,3,3,0
+03/20/20,Norte,Acre,7,4,0
+03/21/20,Norte,Acre,9,2,0
+03/22/20,Norte,Acre,11,2,0
+03/23/20,Norte,Acre,11,0,0
+03/24/20,Norte,Acre,17,6,0
+03/25/20,Norte,Acre,23,6,0
+03/26/20,Norte,Acre,24,1,0
+03/27/20,Norte,Acre,25,1,0
+03/28/20,Norte,Acre,25,0,0
+03/29/20,Norte,Acre,34,9,0
+03/30/20,Norte,Acre,42,8,0
+03/31/20,Norte,Acre,42,0,0
+04/01/20,Norte,Acre,43,1,0
+04/02/20,Norte,Acre,43,0,0
+04/03/20,Norte,Acre,46,3,0
+04/04/20,Norte,Acre,46,0,0
+04/05/20,Norte,Acre,48,2,0
+04/06/20,Norte,Acre,50,2,0
+04/07/20,Norte,Acre,50,0,1
+04/08/20,Norte,Acre,54,4,2
+04/09/20,Norte,Acre,62,8,2
+04/10/20,Norte,Acre,70,8,2
+04/11/20,Norte,Acre,72,2,2
+04/12/20,Norte,Acre,77,5,2
+04/13/20,Norte,Acre,90,13,3
+04/14/20,Norte,Acre,99,9,3
+04/15/20,Norte,Acre,101,2,3
+04/16/20,Norte,Acre,110,9,5
+04/17/20,Norte,Acre,135,25,5
+04/18/20,Norte,Acre,142,7,5
+04/19/20,Norte,Acre,163,21,6
+04/20/20,Norte,Acre,176,13,8
+04/21/20,Norte,Acre,195,19,8
+04/22/20,Norte,Acre,214,19,8
+04/23/20,Norte,Acre,227,13,10
+04/24/20,Norte,Acre,234,7,11
+04/25/20,Norte,Acre,258,24,11
+04/26/20,Norte,Acre,279,21,11
+04/27/20,Norte,Acre,279,0,14
+04/28/20,Norte,Acre,311,32,16
+04/29/20,Norte,Acre,354,43,17
+04/30/20,Norte,Acre,404,50,19
+05/01/20,Norte,Acre,486,82,19
+05/02/20,Norte,Acre,553,67,21
+05/03/20,Norte,Acre,657,104,24
+05/04/20,Norte,Acre,733,76,28
+05/05/20,Norte,Acre,817,84,29
+05/06/20,Norte,Acre,943,126,33
+05/07/20,Norte,Acre,1014,71,36
+05/08/20,Norte,Acre,1177,163,38
+05/09/20,Norte,Acre,1335,158,39
+05/10/20,Norte,Acre,1447,112,41
+05/11/20,Norte,Acre,1460,13,45
+05/12/20,Norte,Acre,1590,130,51
+05/13/20,Norte,Acre,1694,104,52
+05/14/20,Norte,Acre,1740,46,55
+03/20/20,Norte,Amapíç,1,1,0
+03/21/20,Norte,Amapíç,1,0,0
+03/22/20,Norte,Amapíç,1,0,0
+03/23/20,Norte,Amapíç,1,0,0
+03/24/20,Norte,Amapíç,1,0,0
+03/25/20,Norte,Amapíç,1,0,0
+03/26/20,Norte,Amapíç,2,1,0
+03/27/20,Norte,Amapíç,2,0,0
+03/28/20,Norte,Amapíç,4,2,0
+03/29/20,Norte,Amapíç,4,0,0
+03/30/20,Norte,Amapíç,8,4,0
+03/31/20,Norte,Amapíç,10,2,0
+04/01/20,Norte,Amapíç,11,1,0
+04/02/20,Norte,Amapíç,11,0,0
+04/03/20,Norte,Amapíç,19,8,0
+04/04/20,Norte,Amapíç,28,9,1
+04/05/20,Norte,Amapíç,29,1,2
+04/06/20,Norte,Amapíç,34,5,2
+04/07/20,Norte,Amapíç,48,14,2
+04/08/20,Norte,Amapíç,107,59,2
+04/09/20,Norte,Amapíç,128,21,2
+04/10/20,Norte,Amapíç,166,38,2
+04/11/20,Norte,Amapíç,193,27,3
+04/12/20,Norte,Amapíç,230,37,5
+04/13/20,Norte,Amapíç,242,12,5
+04/14/20,Norte,Amapíç,307,65,6
+04/15/20,Norte,Amapíç,334,27,7
+04/16/20,Norte,Amapíç,362,28,9
+04/17/20,Norte,Amapíç,370,8,10
+04/18/20,Norte,Amapíç,393,23,10
+04/19/20,Norte,Amapíç,416,23,11
+04/20/20,Norte,Amapíç,433,17,13
+04/21/20,Norte,Amapíç,457,24,13
+04/22/20,Norte,Amapíç,479,22,14
+04/23/20,Norte,Amapíç,548,69,16
+04/24/20,Norte,Amapíç,633,85,18
+04/25/20,Norte,Amapíç,685,52,19
+04/26/20,Norte,Amapíç,798,113,21
+04/27/20,Norte,Amapíç,842,44,26
+04/28/20,Norte,Amapíç,918,76,28
+04/29/20,Norte,Amapíç,1016,98,31
+04/30/20,Norte,Amapíç,1080,64,34
+05/01/20,Norte,Amapíç,1121,41,37
+05/02/20,Norte,Amapíç,1187,66,40
+05/03/20,Norte,Amapíç,1482,295,43
+05/04/20,Norte,Amapíç,1733,251,49
+05/05/20,Norte,Amapíç,1931,198,55
+05/06/20,Norte,Amapíç,2046,115,56
+05/07/20,Norte,Amapíç,2199,153,61
+05/08/20,Norte,Amapíç,2322,123,66
+05/09/20,Norte,Amapíç,2493,171,69
+05/10/20,Norte,Amapíç,2613,120,72
+05/11/20,Norte,Amapíç,2671,58,73
+05/12/20,Norte,Amapíç,2910,239,86
+05/13/20,Norte,Amapíç,3005,95,94
+05/14/20,Norte,Amapíç,3428,423,101
+03/15/20,Norte,Amazonas,1,1,0
+03/16/20,Norte,Amazonas,1,0,0
+03/17/20,Norte,Amazonas,1,0,0
+03/18/20,Norte,Amazonas,1,0,0
+03/19/20,Norte,Amazonas,3,2,0
+03/20/20,Norte,Amazonas,3,0,0
+03/21/20,Norte,Amazonas,11,8,0
+03/22/20,Norte,Amazonas,26,15,0
+03/23/20,Norte,Amazonas,32,6,0
+03/24/20,Norte,Amazonas,47,15,0
+03/25/20,Norte,Amazonas,54,7,1
+03/26/20,Norte,Amazonas,67,13,1
+03/27/20,Norte,Amazonas,81,14,1
+03/28/20,Norte,Amazonas,111,30,1
+03/29/20,Norte,Amazonas,140,29,1
+03/30/20,Norte,Amazonas,151,11,1
+03/31/20,Norte,Amazonas,175,24,3
+04/01/20,Norte,Amazonas,200,25,3
+04/02/20,Norte,Amazonas,229,29,3
+04/03/20,Norte,Amazonas,260,31,7
+04/04/20,Norte,Amazonas,311,51,12
+04/05/20,Norte,Amazonas,417,106,14
+04/06/20,Norte,Amazonas,532,115,19
+04/07/20,Norte,Amazonas,636,104,23
+04/08/20,Norte,Amazonas,804,168,30
+04/09/20,Norte,Amazonas,899,95,40
+04/10/20,Norte,Amazonas,981,82,50
+04/11/20,Norte,Amazonas,1050,69,53
+04/12/20,Norte,Amazonas,1206,156,62
+04/13/20,Norte,Amazonas,1275,69,71
+04/14/20,Norte,Amazonas,1484,209,90
+04/15/20,Norte,Amazonas,1554,70,106
+04/16/20,Norte,Amazonas,1719,165,124
+04/17/20,Norte,Amazonas,1809,90,145
+04/18/20,Norte,Amazonas,1897,88,161
+04/19/20,Norte,Amazonas,2044,147,182
+04/20/20,Norte,Amazonas,2160,116,185
+04/21/20,Norte,Amazonas,2270,110,193
+04/22/20,Norte,Amazonas,2479,209,207
+04/23/20,Norte,Amazonas,2888,409,234
+04/24/20,Norte,Amazonas,3194,306,255
+04/25/20,Norte,Amazonas,3635,441,287
+04/26/20,Norte,Amazonas,3833,198,304
+04/27/20,Norte,Amazonas,3928,95,320
+04/28/20,Norte,Amazonas,4337,409,351
+04/29/20,Norte,Amazonas,4801,464,380
+04/30/20,Norte,Amazonas,5254,453,425
+05/01/20,Norte,Amazonas,5723,469,476
+05/02/20,Norte,Amazonas,6062,339,501
+05/03/20,Norte,Amazonas,6683,621,548
+05/04/20,Norte,Amazonas,7242,559,584
+05/05/20,Norte,Amazonas,8109,867,649
+05/06/20,Norte,Amazonas,9243,1134,751
+05/07/20,Norte,Amazonas,10099,856,806
+05/08/20,Norte,Amazonas,10727,628,874
+05/09/20,Norte,Amazonas,11925,1198,962
+05/10/20,Norte,Amazonas,12599,674,1004
+05/11/20,Norte,Amazonas,12919,320,1035
+05/12/20,Norte,Amazonas,14168,1249,1098
+05/13/20,Norte,Amazonas,15816,1648,1160
+05/14/20,Norte,Amazonas,17181,1365,1235
+03/19/20,Norte,Paríç,1,1,0
+03/20/20,Norte,Paríç,2,1,0
+03/21/20,Norte,Paríç,2,0,0
+03/22/20,Norte,Paríç,4,2,0
+03/23/20,Norte,Paríç,5,1,0
+03/24/20,Norte,Paríç,5,0,0
+03/25/20,Norte,Paríç,7,2,0
+03/26/20,Norte,Paríç,13,6,0
+03/27/20,Norte,Paríç,13,0,0
+03/28/20,Norte,Paríç,17,4,0
+03/29/20,Norte,Paríç,18,1,0
+03/30/20,Norte,Paríç,21,3,0
+03/31/20,Norte,Paríç,32,11,0
+04/01/20,Norte,Paríç,40,8,1
+04/02/20,Norte,Paríç,46,6,1
+04/03/20,Norte,Paríç,50,4,1
+04/04/20,Norte,Paríç,80,30,1
+04/05/20,Norte,Paríç,86,6,1
+04/06/20,Norte,Paríç,102,16,3
+04/07/20,Norte,Paríç,138,36,5
+04/08/20,Norte,Paríç,167,29,6
+04/09/20,Norte,Paríç,168,1,7
+04/10/20,Norte,Paríç,170,2,9
+04/11/20,Norte,Paríç,217,47,10
+04/12/20,Norte,Paríç,246,29,13
+04/13/20,Norte,Paríç,270,24,15
+04/14/20,Norte,Paríç,323,53,19
+04/15/20,Norte,Paríç,384,61,21
+04/16/20,Norte,Paríç,438,54,24
+04/17/20,Norte,Paríç,557,119,26
+04/18/20,Norte,Paríç,640,83,33
+04/19/20,Norte,Paríç,685,45,34
+04/20/20,Norte,Paríç,902,217,35
+04/21/20,Norte,Paríç,1026,124,38
+04/22/20,Norte,Paríç,1195,169,43
+04/23/20,Norte,Paríç,1267,72,53
+04/24/20,Norte,Paríç,1446,179,75
+04/25/20,Norte,Paríç,1579,133,86
+04/26/20,Norte,Paríç,1867,288,100
+04/27/20,Norte,Paríç,2128,261,114
+04/28/20,Norte,Paríç,2262,134,129
+04/29/20,Norte,Paríç,2422,160,137
+04/30/20,Norte,Paríç,2876,454,208
+05/01/20,Norte,Paríç,3176,300,235
+05/02/20,Norte,Paríç,3460,284,273
+05/03/20,Norte,Paríç,3863,403,309
+05/04/20,Norte,Paríç,4125,262,330
+05/05/20,Norte,Paríç,4472,347,369
+05/06/20,Norte,Paríç,5017,545,392
+05/07/20,Norte,Paríç,5524,507,410
+05/08/20,Norte,Paríç,6141,617,515
+05/09/20,Norte,Paríç,6775,634,578
+05/10/20,Norte,Paríç,7256,481,652
+05/11/20,Norte,Paríç,7563,307,708
+05/12/20,Norte,Paríç,8616,1053,864
+05/13/20,Norte,Paríç,9618,1002,946
+05/14/20,Norte,Paríç,10867,1249,1063
+03/20/20,Norte,RondíÇnia,1,1,0
+03/21/20,Norte,RondíÇnia,1,0,0
+03/22/20,Norte,RondíÇnia,3,2,0
+03/23/20,Norte,RondíÇnia,3,0,0
+03/24/20,Norte,RondíÇnia,3,0,0
+03/25/20,Norte,RondíÇnia,5,2,0
+03/26/20,Norte,RondíÇnia,5,0,0
+03/27/20,Norte,RondíÇnia,6,1,0
+03/28/20,Norte,RondíÇnia,6,0,0
+03/29/20,Norte,RondíÇnia,6,0,0
+03/30/20,Norte,RondíÇnia,6,0,0
+03/31/20,Norte,RondíÇnia,8,2,1
+04/01/20,Norte,RondíÇnia,9,1,1
+04/02/20,Norte,RondíÇnia,10,1,1
+04/03/20,Norte,RondíÇnia,10,0,1
+04/04/20,Norte,RondíÇnia,11,1,1
+04/05/20,Norte,RondíÇnia,12,1,1
+04/06/20,Norte,RondíÇnia,14,2,1
+04/07/20,Norte,RondíÇnia,18,4,1
+04/08/20,Norte,RondíÇnia,18,0,1
+04/09/20,Norte,RondíÇnia,28,10,2
+04/10/20,Norte,RondíÇnia,32,4,2
+04/11/20,Norte,RondíÇnia,33,1,2
+04/12/20,Norte,RondíÇnia,35,2,2
+04/13/20,Norte,RondíÇnia,42,7,2
+04/14/20,Norte,RondíÇnia,64,22,2
+04/15/20,Norte,RondíÇnia,69,5,2
+04/16/20,Norte,RondíÇnia,76,7,3
+04/17/20,Norte,RondíÇnia,92,16,3
+04/18/20,Norte,RondíÇnia,110,18,3
+04/19/20,Norte,RondíÇnia,128,18,4
+04/20/20,Norte,RondíÇnia,160,32,4
+04/21/20,Norte,RondíÇnia,199,39,4
+04/22/20,Norte,RondíÇnia,223,24,5
+04/23/20,Norte,RondíÇnia,250,27,5
+04/24/20,Norte,RondíÇnia,290,40,5
+04/25/20,Norte,RondíÇnia,328,38,7
+04/26/20,Norte,RondíÇnia,364,36,10
+04/27/20,Norte,RondíÇnia,393,29,10
+04/28/20,Norte,RondíÇnia,413,20,11
+04/29/20,Norte,RondíÇnia,433,20,15
+04/30/20,Norte,RondíÇnia,502,69,16
+05/01/20,Norte,RondíÇnia,585,83,18
+05/02/20,Norte,RondíÇnia,653,68,23
+05/03/20,Norte,RondíÇnia,705,52,24
+05/04/20,Norte,RondíÇnia,756,51,25
+05/05/20,Norte,RondíÇnia,861,105,29
+05/06/20,Norte,RondíÇnia,943,82,33
+05/07/20,Norte,RondíÇnia,1098,155,37
+05/08/20,Norte,RondíÇnia,1222,124,39
+05/09/20,Norte,RondíÇnia,1263,41,41
+05/10/20,Norte,RondíÇnia,1302,39,43
+05/11/20,Norte,RondíÇnia,1396,94,47
+05/12/20,Norte,RondíÇnia,1460,64,50
+05/13/20,Norte,RondíÇnia,1612,152,50
+05/14/20,Norte,RondíÇnia,1686,74,56
+03/22/20,Norte,Roraima,2,2,0
+03/23/20,Norte,Roraima,2,0,0
+03/24/20,Norte,Roraima,2,0,0
+03/25/20,Norte,Roraima,8,6,0
+03/26/20,Norte,Roraima,8,0,0
+03/27/20,Norte,Roraima,10,2,0
+03/28/20,Norte,Roraima,12,2,0
+03/29/20,Norte,Roraima,16,4,0
+03/30/20,Norte,Roraima,16,0,0
+03/31/20,Norte,Roraima,16,0,0
+04/01/20,Norte,Roraima,22,6,0
+04/02/20,Norte,Roraima,26,4,0
+04/03/20,Norte,Roraima,30,4,0
+04/04/20,Norte,Roraima,37,7,1
+04/05/20,Norte,Roraima,42,5,1
+04/06/20,Norte,Roraima,42,0,1
+04/07/20,Norte,Roraima,42,0,1
+04/08/20,Norte,Roraima,49,7,1
+04/09/20,Norte,Roraima,52,3,1
+04/10/20,Norte,Roraima,63,11,3
+04/11/20,Norte,Roraima,75,12,3
+04/12/20,Norte,Roraima,79,4,3
+04/13/20,Norte,Roraima,83,4,3
+04/14/20,Norte,Roraima,113,30,3
+04/15/20,Norte,Roraima,114,1,3
+04/16/20,Norte,Roraima,142,28,3
+04/17/20,Norte,Roraima,164,22,3
+04/18/20,Norte,Roraima,201,37,3
+04/19/20,Norte,Roraima,222,21,3
+04/20/20,Norte,Roraima,244,22,3
+04/21/20,Norte,Roraima,247,3,3
+04/22/20,Norte,Roraima,280,33,3
+04/23/20,Norte,Roraima,297,17,3
+04/24/20,Norte,Roraima,304,7,3
+04/25/20,Norte,Roraima,345,41,3
+04/26/20,Norte,Roraima,401,56,4
+04/27/20,Norte,Roraima,407,6,4
+04/28/20,Norte,Roraima,425,18,6
+04/29/20,Norte,Roraima,452,27,6
+04/30/20,Norte,Roraima,519,67,7
+05/01/20,Norte,Roraima,602,83,8
+05/02/20,Norte,Roraima,668,66,9
+05/03/20,Norte,Roraima,740,72,11
+05/04/20,Norte,Roraima,806,66,11
+05/05/20,Norte,Roraima,869,63,11
+05/06/20,Norte,Roraima,932,63,13
+05/07/20,Norte,Roraima,1020,88,14
+05/08/20,Norte,Roraima,1124,104,16
+05/09/20,Norte,Roraima,1202,78,18
+05/10/20,Norte,Roraima,1290,88,21
+05/11/20,Norte,Roraima,1295,5,24
+05/12/20,Norte,Roraima,1328,33,27
+05/13/20,Norte,Roraima,1411,83,29
+05/14/20,Norte,Roraima,1500,89,37
+03/19/20,Norte,Tocantins,1,1,0
+03/20/20,Norte,Tocantins,1,0,0
+03/21/20,Norte,Tocantins,2,1,0
+03/22/20,Norte,Tocantins,2,0,0
+03/23/20,Norte,Tocantins,5,3,0
+03/24/20,Norte,Tocantins,7,2,0
+03/25/20,Norte,Tocantins,7,0,0
+03/26/20,Norte,Tocantins,7,0,0
+03/27/20,Norte,Tocantins,8,1,0
+03/28/20,Norte,Tocantins,9,1,0
+03/29/20,Norte,Tocantins,9,0,0
+03/30/20,Norte,Tocantins,10,1,0
+03/31/20,Norte,Tocantins,11,1,0
+04/01/20,Norte,Tocantins,12,1,0
+04/02/20,Norte,Tocantins,12,0,0
+04/03/20,Norte,Tocantins,12,0,0
+04/04/20,Norte,Tocantins,14,2,0
+04/05/20,Norte,Tocantins,17,3,0
+04/06/20,Norte,Tocantins,17,0,0
+04/07/20,Norte,Tocantins,19,2,0
+04/08/20,Norte,Tocantins,23,4,0
+04/09/20,Norte,Tocantins,23,0,0
+04/10/20,Norte,Tocantins,23,0,0
+04/11/20,Norte,Tocantins,23,0,0
+04/12/20,Norte,Tocantins,25,2,0
+04/13/20,Norte,Tocantins,26,1,0
+04/14/20,Norte,Tocantins,26,0,0
+04/15/20,Norte,Tocantins,26,0,1
+04/16/20,Norte,Tocantins,29,3,1
+04/17/20,Norte,Tocantins,31,2,1
+04/18/20,Norte,Tocantins,33,2,1
+04/19/20,Norte,Tocantins,33,0,1
+04/20/20,Norte,Tocantins,34,1,1
+04/21/20,Norte,Tocantins,37,3,1
+04/22/20,Norte,Tocantins,37,0,1
+04/23/20,Norte,Tocantins,37,0,2
+04/24/20,Norte,Tocantins,43,6,2
+04/25/20,Norte,Tocantins,50,7,2
+04/26/20,Norte,Tocantins,58,8,2
+04/27/20,Norte,Tocantins,67,9,2
+04/28/20,Norte,Tocantins,79,12,2
+04/29/20,Norte,Tocantins,116,37,3
+04/30/20,Norte,Tocantins,137,21,3
+05/01/20,Norte,Tocantins,164,27,3
+05/02/20,Norte,Tocantins,191,27,4
+05/03/20,Norte,Tocantins,246,55,4
+05/04/20,Norte,Tocantins,267,21,6
+05/05/20,Norte,Tocantins,303,36,7
+05/06/20,Norte,Tocantins,351,48,9
+05/07/20,Norte,Tocantins,423,72,9
+05/08/20,Norte,Tocantins,494,71,9
+05/09/20,Norte,Tocantins,572,78,9
+05/10/20,Norte,Tocantins,688,116,11
+05/11/20,Norte,Tocantins,747,59,12
+05/12/20,Norte,Tocantins,828,81,14
+05/13/20,Norte,Tocantins,932,104,21
+05/14/20,Norte,Tocantins,1029,97,23
+03/06/20,Sudeste,Espí_rito Santo,1,1,0
+03/07/20,Sudeste,Espí_rito Santo,1,0,0
+03/08/20,Sudeste,Espí_rito Santo,1,0,0
+03/09/20,Sudeste,Espí_rito Santo,1,0,0
+03/10/20,Sudeste,Espí_rito Santo,1,0,0
+03/11/20,Sudeste,Espí_rito Santo,1,0,0
+03/12/20,Sudeste,Espí_rito Santo,1,0,0
+03/13/20,Sudeste,Espí_rito Santo,1,0,0
+03/14/20,Sudeste,Espí_rito Santo,1,0,0
+03/15/20,Sudeste,Espí_rito Santo,1,0,0
+03/16/20,Sudeste,Espí_rito Santo,1,0,0
+03/17/20,Sudeste,Espí_rito Santo,1,0,0
+03/18/20,Sudeste,Espí_rito Santo,9,8,0
+03/19/20,Sudeste,Espí_rito Santo,11,2,0
+03/20/20,Sudeste,Espí_rito Santo,13,2,0
+03/21/20,Sudeste,Espí_rito Santo,26,13,0
+03/22/20,Sudeste,Espí_rito Santo,26,0,0
+03/23/20,Sudeste,Espí_rito Santo,29,3,0
+03/24/20,Sudeste,Espí_rito Santo,33,4,0
+03/25/20,Sudeste,Espí_rito Santo,39,6,0
+03/26/20,Sudeste,Espí_rito Santo,39,0,0
+03/27/20,Sudeste,Espí_rito Santo,47,8,0
+03/28/20,Sudeste,Espí_rito Santo,53,6,0
+03/29/20,Sudeste,Espí_rito Santo,60,7,0
+03/30/20,Sudeste,Espí_rito Santo,72,12,0
+03/31/20,Sudeste,Espí_rito Santo,84,12,0
+04/01/20,Sudeste,Espí_rito Santo,96,12,0
+04/02/20,Sudeste,Espí_rito Santo,120,24,1
+04/03/20,Sudeste,Espí_rito Santo,139,19,4
+04/04/20,Sudeste,Espí_rito Santo,153,14,5
+04/05/20,Sudeste,Espí_rito Santo,166,13,6
+04/06/20,Sudeste,Espí_rito Santo,194,28,6
+04/07/20,Sudeste,Espí_rito Santo,209,15,6
+04/08/20,Sudeste,Espí_rito Santo,227,18,6
+04/09/20,Sudeste,Espí_rito Santo,273,46,6
+04/10/20,Sudeste,Espí_rito Santo,300,27,7
+04/11/20,Sudeste,Espí_rito Santo,349,49,9
+04/12/20,Sudeste,Espí_rito Santo,383,34,9
+04/13/20,Sudeste,Espí_rito Santo,430,47,14
+04/14/20,Sudeste,Espí_rito Santo,463,33,17
+04/15/20,Sudeste,Espí_rito Santo,557,94,18
+04/16/20,Sudeste,Espí_rito Santo,754,197,22
+04/17/20,Sudeste,Espí_rito Santo,856,102,25
+04/18/20,Sudeste,Espí_rito Santo,952,96,28
+04/19/20,Sudeste,Espí_rito Santo,1099,147,30
+04/20/20,Sudeste,Espí_rito Santo,1168,69,33
+04/21/20,Sudeste,Espí_rito Santo,1212,44,34
+04/22/20,Sudeste,Espí_rito Santo,1313,101,34
+04/23/20,Sudeste,Espí_rito Santo,1363,50,42
+04/24/20,Sudeste,Espí_rito Santo,1381,18,42
+04/25/20,Sudeste,Espí_rito Santo,1595,214,47
+04/26/20,Sudeste,Espí_rito Santo,1703,108,51
+04/27/20,Sudeste,Espí_rito Santo,1796,93,57
+04/28/20,Sudeste,Espí_rito Santo,1874,78,64
+04/29/20,Sudeste,Espí_rito Santo,2107,233,76
+04/30/20,Sudeste,Espí_rito Santo,2465,358,83
+05/01/20,Sudeste,Espí_rito Santo,2662,197,96
+05/02/20,Sudeste,Espí_rito Santo,2948,286,102
+05/03/20,Sudeste,Espí_rito Santo,3086,138,114
+05/04/20,Sudeste,Espí_rito Santo,3226,140,122
+05/05/20,Sudeste,Espí_rito Santo,3402,176,133
+05/06/20,Sudeste,Espí_rito Santo,3568,166,145
+05/07/20,Sudeste,Espí_rito Santo,3838,270,155
+05/08/20,Sudeste,Espí_rito Santo,4242,404,165
+05/09/20,Sudeste,Espí_rito Santo,4412,170,172
+05/10/20,Sudeste,Espí_rito Santo,4599,187,181
+05/11/20,Sudeste,Espí_rito Santo,4819,220,196
+05/12/20,Sudeste,Espí_rito Santo,5087,268,212
+05/13/20,Sudeste,Espí_rito Santo,5401,314,233
+05/14/20,Sudeste,Espí_rito Santo,5813,412,249
+03/08/20,Sudeste,Minas Gerais,1,1,0
+03/09/20,Sudeste,Minas Gerais,1,0,0
+03/10/20,Sudeste,Minas Gerais,1,0,0
+03/11/20,Sudeste,Minas Gerais,1,0,0
+03/12/20,Sudeste,Minas Gerais,1,0,0
+03/13/20,Sudeste,Minas Gerais,2,1,0
+03/14/20,Sudeste,Minas Gerais,2,0,0
+03/15/20,Sudeste,Minas Gerais,2,0,0
+03/16/20,Sudeste,Minas Gerais,5,3,0
+03/17/20,Sudeste,Minas Gerais,7,2,0
+03/18/20,Sudeste,Minas Gerais,15,8,0
+03/19/20,Sudeste,Minas Gerais,29,14,0
+03/20/20,Sudeste,Minas Gerais,35,6,0
+03/21/20,Sudeste,Minas Gerais,38,3,0
+03/22/20,Sudeste,Minas Gerais,83,45,0
+03/23/20,Sudeste,Minas Gerais,128,45,0
+03/24/20,Sudeste,Minas Gerais,130,2,0
+03/25/20,Sudeste,Minas Gerais,133,3,0
+03/26/20,Sudeste,Minas Gerais,153,20,0
+03/27/20,Sudeste,Minas Gerais,189,36,0
+03/28/20,Sudeste,Minas Gerais,205,16,0
+03/29/20,Sudeste,Minas Gerais,231,26,0
+03/30/20,Sudeste,Minas Gerais,261,30,1
+03/31/20,Sudeste,Minas Gerais,275,14,2
+04/01/20,Sudeste,Minas Gerais,314,39,3
+04/02/20,Sudeste,Minas Gerais,370,56,4
+04/03/20,Sudeste,Minas Gerais,397,27,6
+04/04/20,Sudeste,Minas Gerais,430,33,6
+04/05/20,Sudeste,Minas Gerais,498,68,6
+04/06/20,Sudeste,Minas Gerais,525,27,9
+04/07/20,Sudeste,Minas Gerais,559,34,11
+04/08/20,Sudeste,Minas Gerais,614,55,14
+04/09/20,Sudeste,Minas Gerais,655,41,15
+04/10/20,Sudeste,Minas Gerais,698,43,17
+04/11/20,Sudeste,Minas Gerais,750,52,17
+04/12/20,Sudeste,Minas Gerais,806,56,20
+04/13/20,Sudeste,Minas Gerais,815,9,23
+04/14/20,Sudeste,Minas Gerais,884,69,27
+04/15/20,Sudeste,Minas Gerais,903,19,30
+04/16/20,Sudeste,Minas Gerais,958,55,33
+04/17/20,Sudeste,Minas Gerais,1021,63,35
+04/18/20,Sudeste,Minas Gerais,1077,56,39
+04/19/20,Sudeste,Minas Gerais,1154,77,39
+04/20/20,Sudeste,Minas Gerais,1189,35,41
+04/21/20,Sudeste,Minas Gerais,1230,41,44
+04/22/20,Sudeste,Minas Gerais,1283,53,47
+04/23/20,Sudeste,Minas Gerais,1308,25,51
+04/24/20,Sudeste,Minas Gerais,1419,111,54
+04/25/20,Sudeste,Minas Gerais,1481,62,58
+04/26/20,Sudeste,Minas Gerais,1548,67,61
+04/27/20,Sudeste,Minas Gerais,1586,38,62
+04/28/20,Sudeste,Minas Gerais,1649,63,71
+04/29/20,Sudeste,Minas Gerais,1758,109,80
+04/30/20,Sudeste,Minas Gerais,1827,69,82
+05/01/20,Sudeste,Minas Gerais,1935,108,88
+05/02/20,Sudeste,Minas Gerais,2023,88,88
+05/03/20,Sudeste,Minas Gerais,2118,95,89
+05/04/20,Sudeste,Minas Gerais,2347,229,90
+05/05/20,Sudeste,Minas Gerais,2452,105,94
+05/06/20,Sudeste,Minas Gerais,2605,153,97
+05/07/20,Sudeste,Minas Gerais,2770,165,106
+05/08/20,Sudeste,Minas Gerais,2943,173,111
+05/09/20,Sudeste,Minas Gerais,3123,180,118
+05/10/20,Sudeste,Minas Gerais,3237,114,119
+05/11/20,Sudeste,Minas Gerais,3320,83,121
+05/12/20,Sudeste,Minas Gerais,3435,115,127
+05/13/20,Sudeste,Minas Gerais,3733,298,135
+05/14/20,Sudeste,Minas Gerais,3950,217,139
+03/05/20,Sudeste,Rio de Janeiro,1,1,0
+03/06/20,Sudeste,Rio de Janeiro,1,0,0
+03/07/20,Sudeste,Rio de Janeiro,2,1,0
+03/08/20,Sudeste,Rio de Janeiro,3,1,0
+03/09/20,Sudeste,Rio de Janeiro,3,0,0
+03/10/20,Sudeste,Rio de Janeiro,8,5,0
+03/11/20,Sudeste,Rio de Janeiro,13,5,0
+03/12/20,Sudeste,Rio de Janeiro,16,3,0
+03/13/20,Sudeste,Rio de Janeiro,16,0,0
+03/14/20,Sudeste,Rio de Janeiro,22,6,0
+03/15/20,Sudeste,Rio de Janeiro,24,2,0
+03/16/20,Sudeste,Rio de Janeiro,31,7,0
+03/17/20,Sudeste,Rio de Janeiro,33,2,0
+03/18/20,Sudeste,Rio de Janeiro,45,12,0
+03/19/20,Sudeste,Rio de Janeiro,65,20,2
+03/20/20,Sudeste,Rio de Janeiro,109,44,2
+03/21/20,Sudeste,Rio de Janeiro,119,10,3
+03/22/20,Sudeste,Rio de Janeiro,186,67,3
+03/23/20,Sudeste,Rio de Janeiro,233,47,4
+03/24/20,Sudeste,Rio de Janeiro,305,72,6
+03/25/20,Sudeste,Rio de Janeiro,370,65,6
+03/26/20,Sudeste,Rio de Janeiro,421,51,9
+03/27/20,Sudeste,Rio de Janeiro,493,72,10
+03/28/20,Sudeste,Rio de Janeiro,558,65,13
+03/29/20,Sudeste,Rio de Janeiro,600,42,17
+03/30/20,Sudeste,Rio de Janeiro,657,57,18
+03/31/20,Sudeste,Rio de Janeiro,708,51,23
+04/01/20,Sudeste,Rio de Janeiro,832,124,28
+04/02/20,Sudeste,Rio de Janeiro,992,160,41
+04/03/20,Sudeste,Rio de Janeiro,1074,82,47
+04/04/20,Sudeste,Rio de Janeiro,1246,172,58
+04/05/20,Sudeste,Rio de Janeiro,1394,148,64
+04/06/20,Sudeste,Rio de Janeiro,1461,67,71
+04/07/20,Sudeste,Rio de Janeiro,1688,227,89
+04/08/20,Sudeste,Rio de Janeiro,1938,250,106
+04/09/20,Sudeste,Rio de Janeiro,2216,278,122
+04/10/20,Sudeste,Rio de Janeiro,2464,248,147
+04/11/20,Sudeste,Rio de Janeiro,2607,143,155
+04/12/20,Sudeste,Rio de Janeiro,2855,248,170
+04/13/20,Sudeste,Rio de Janeiro,3231,376,188
+04/14/20,Sudeste,Rio de Janeiro,3410,179,224
+04/15/20,Sudeste,Rio de Janeiro,3743,333,265
+04/16/20,Sudeste,Rio de Janeiro,3944,201,300
+04/17/20,Sudeste,Rio de Janeiro,4349,405,341
+04/18/20,Sudeste,Rio de Janeiro,4543,194,387
+04/19/20,Sudeste,Rio de Janeiro,4765,222,402
+04/20/20,Sudeste,Rio de Janeiro,4899,134,422
+04/21/20,Sudeste,Rio de Janeiro,5306,407,461
+04/22/20,Sudeste,Rio de Janeiro,5552,246,490
+04/23/20,Sudeste,Rio de Janeiro,6172,620,530
+04/24/20,Sudeste,Rio de Janeiro,6282,110,570
+04/25/20,Sudeste,Rio de Janeiro,6828,546,615
+04/26/20,Sudeste,Rio de Janeiro,7111,283,645
+04/27/20,Sudeste,Rio de Janeiro,7944,833,677
+04/28/20,Sudeste,Rio de Janeiro,8504,560,738
+04/29/20,Sudeste,Rio de Janeiro,8869,365,794
+04/30/20,Sudeste,Rio de Janeiro,9453,584,854
+05/01/20,Sudeste,Rio de Janeiro,10166,713,921
+05/02/20,Sudeste,Rio de Janeiro,10546,380,971
+05/03/20,Sudeste,Rio de Janeiro,11139,593,1019
+05/04/20,Sudeste,Rio de Janeiro,11721,582,1065
+05/05/20,Sudeste,Rio de Janeiro,12391,670,1123
+05/06/20,Sudeste,Rio de Janeiro,13295,904,1205
+05/07/20,Sudeste,Rio de Janeiro,14156,861,1394
+05/08/20,Sudeste,Rio de Janeiro,15741,1585,1503
+05/09/20,Sudeste,Rio de Janeiro,16929,1188,1653
+05/10/20,Sudeste,Rio de Janeiro,17062,133,1714
+05/11/20,Sudeste,Rio de Janeiro,17939,877,1770
+05/12/20,Sudeste,Rio de Janeiro,18486,547,1928
+05/13/20,Sudeste,Rio de Janeiro,18728,242,2050
+05/14/20,Sudeste,Rio de Janeiro,19467,739,2247
+02/26/20,Sudeste,Sí£o Paulo,1,1,0
+02/27/20,Sudeste,Sí£o Paulo,1,0,0
+02/28/20,Sudeste,Sí£o Paulo,1,0,0
+02/29/20,Sudeste,Sí£o Paulo,2,1,0
+03/01/20,Sudeste,Sí£o Paulo,2,0,0
+03/02/20,Sudeste,Sí£o Paulo,2,0,0
+03/03/20,Sudeste,Sí£o Paulo,2,0,0
+03/04/20,Sudeste,Sí£o Paulo,3,1,0
+03/05/20,Sudeste,Sí£o Paulo,6,3,0
+03/06/20,Sudeste,Sí£o Paulo,10,4,0
+03/07/20,Sudeste,Sí£o Paulo,13,3,0
+03/08/20,Sudeste,Sí£o Paulo,16,3,0
+03/09/20,Sudeste,Sí£o Paulo,16,0,0
+03/10/20,Sudeste,Sí£o Paulo,19,3,0
+03/11/20,Sudeste,Sí£o Paulo,30,11,0
+03/12/20,Sudeste,Sí£o Paulo,42,12,0
+03/13/20,Sudeste,Sí£o Paulo,56,14,0
+03/14/20,Sudeste,Sí£o Paulo,65,9,0
+03/15/20,Sudeste,Sí£o Paulo,136,71,0
+03/16/20,Sudeste,Sí£o Paulo,152,16,0
+03/17/20,Sudeste,Sí£o Paulo,164,12,1
+03/18/20,Sudeste,Sí£o Paulo,240,76,4
+03/19/20,Sudeste,Sí£o Paulo,286,46,4
+03/20/20,Sudeste,Sí£o Paulo,396,110,9
+03/21/20,Sudeste,Sí£o Paulo,459,63,15
+03/22/20,Sudeste,Sí£o Paulo,631,172,22
+03/23/20,Sudeste,Sí£o Paulo,745,114,30
+03/24/20,Sudeste,Sí£o Paulo,810,65,40
+03/25/20,Sudeste,Sí£o Paulo,862,52,48
+03/26/20,Sudeste,Sí£o Paulo,1052,190,58
+03/27/20,Sudeste,Sí£o Paulo,1223,171,68
+03/28/20,Sudeste,Sí£o Paulo,1406,183,84
+03/29/20,Sudeste,Sí£o Paulo,1451,45,98
+03/30/20,Sudeste,Sí£o Paulo,1517,66,113
+03/31/20,Sudeste,Sí£o Paulo,2339,822,136
+04/01/20,Sudeste,Sí£o Paulo,2981,642,164
+04/02/20,Sudeste,Sí£o Paulo,3506,525,188
+04/03/20,Sudeste,Sí£o Paulo,4048,542,219
+04/04/20,Sudeste,Sí£o Paulo,4466,418,260
+04/05/20,Sudeste,Sí£o Paulo,4620,154,275
+04/06/20,Sudeste,Sí£o Paulo,4866,246,304
+04/07/20,Sudeste,Sí£o Paulo,5682,816,371
+04/08/20,Sudeste,Sí£o Paulo,6708,1026,428
+04/09/20,Sudeste,Sí£o Paulo,7480,772,496
+04/10/20,Sudeste,Sí£o Paulo,8216,736,540
+04/11/20,Sudeste,Sí£o Paulo,8419,203,560
+04/12/20,Sudeste,Sí£o Paulo,8755,336,588
+04/13/20,Sudeste,Sí£o Paulo,8895,140,608
+04/14/20,Sudeste,Sí£o Paulo,9371,476,695
+04/15/20,Sudeste,Sí£o Paulo,11043,1672,778
+04/16/20,Sudeste,Sí£o Paulo,11568,525,853
+04/17/20,Sudeste,Sí£o Paulo,12841,1273,928
+04/18/20,Sudeste,Sí£o Paulo,13894,1053,991
+04/19/20,Sudeste,Sí£o Paulo,14267,373,1015
+04/20/20,Sudeste,Sí£o Paulo,14580,313,1037
+04/21/20,Sudeste,Sí£o Paulo,15385,805,1093
+04/22/20,Sudeste,Sí£o Paulo,15914,529,1134
+04/23/20,Sudeste,Sí£o Paulo,16740,826,1345
+04/24/20,Sudeste,Sí£o Paulo,17826,1086,1512
+04/25/20,Sudeste,Sí£o Paulo,20004,2178,1667
+04/26/20,Sudeste,Sí£o Paulo,20715,711,1700
+04/27/20,Sudeste,Sí£o Paulo,21696,981,1825
+04/28/20,Sudeste,Sí£o Paulo,24041,2345,2049
+04/29/20,Sudeste,Sí£o Paulo,26158,2117,2247
+04/30/20,Sudeste,Sí£o Paulo,28698,2540,2375
+05/01/20,Sudeste,Sí£o Paulo,30374,1676,2511
+05/02/20,Sudeste,Sí£o Paulo,31174,800,2586
+05/03/20,Sudeste,Sí£o Paulo,31772,598,2627
+05/04/20,Sudeste,Sí£o Paulo,32187,415,2654
+05/05/20,Sudeste,Sí£o Paulo,34053,1866,2851
+05/06/20,Sudeste,Sí£o Paulo,37853,3800,3045
+05/07/20,Sudeste,Sí£o Paulo,39928,2075,3206
+05/08/20,Sudeste,Sí£o Paulo,41830,1902,3416
+05/09/20,Sudeste,Sí£o Paulo,44411,2581,3608
+05/10/20,Sudeste,Sí£o Paulo,45444,1033,3709
+05/11/20,Sudeste,Sí£o Paulo,46131,687,3743
+05/12/20,Sudeste,Sí£o Paulo,47719,1588,3949
+05/13/20,Sudeste,Sí£o Paulo,51097,3378,4118
+05/14/20,Sudeste,Sí£o Paulo,54286,3189,4315
+03/12/20,Sul,Paraníç,6,6,0
+03/13/20,Sul,Paraníç,6,0,0
+03/14/20,Sul,Paraníç,6,0,0
+03/15/20,Sul,Paraníç,6,0,0
+03/16/20,Sul,Paraníç,6,0,0
+03/17/20,Sul,Paraníç,6,0,0
+03/18/20,Sul,Paraníç,13,7,0
+03/19/20,Sul,Paraníç,23,10,0
+03/20/20,Sul,Paraníç,32,9,0
+03/21/20,Sul,Paraníç,43,11,0
+03/22/20,Sul,Paraníç,50,7,0
+03/23/20,Sul,Paraníç,56,6,0
+03/24/20,Sul,Paraníç,65,9,0
+03/25/20,Sul,Paraníç,81,16,0
+03/26/20,Sul,Paraníç,102,21,0
+03/27/20,Sul,Paraníç,119,17,2
+03/28/20,Sul,Paraníç,133,14,2
+03/29/20,Sul,Paraníç,148,15,2
+03/30/20,Sul,Paraníç,155,7,3
+03/31/20,Sul,Paraníç,179,24,3
+04/01/20,Sul,Paraníç,224,45,3
+04/02/20,Sul,Paraníç,252,28,4
+04/03/20,Sul,Paraníç,301,49,4
+04/04/20,Sul,Paraníç,395,94,6
+04/05/20,Sul,Paraníç,438,43,9
+04/06/20,Sul,Paraníç,458,20,11
+04/07/20,Sul,Paraníç,503,45,15
+04/08/20,Sul,Paraníç,539,36,17
+04/09/20,Sul,Paraníç,609,70,22
+04/10/20,Sul,Paraníç,643,34,25
+04/11/20,Sul,Paraníç,676,33,26
+04/12/20,Sul,Paraníç,738,62,30
+04/13/20,Sul,Paraníç,756,18,31
+04/14/20,Sul,Paraníç,791,35,36
+04/15/20,Sul,Paraníç,803,12,38
+04/16/20,Sul,Paraníç,832,29,41
+04/17/20,Sul,Paraníç,874,42,42
+04/18/20,Sul,Paraníç,945,71,46
+04/19/20,Sul,Paraníç,987,42,48
+04/20/20,Sul,Paraníç,1007,20,51
+04/21/20,Sul,Paraníç,1024,17,51
+04/22/20,Sul,Paraníç,1063,39,57
+04/23/20,Sul,Paraníç,1082,19,60
+04/24/20,Sul,Paraníç,1119,37,64
+04/25/20,Sul,Paraníç,1140,21,69
+04/26/20,Sul,Paraníç,1156,16,72
+04/27/20,Sul,Paraníç,1186,30,75
+04/28/20,Sul,Paraníç,1271,85,77
+04/29/20,Sul,Paraníç,1348,77,82
+04/30/20,Sul,Paraníç,1407,59,83
+05/01/20,Sul,Paraníç,1447,40,89
+05/02/20,Sul,Paraníç,1492,45,90
+05/03/20,Sul,Paraníç,1514,22,93
+05/04/20,Sul,Paraníç,1562,48,94
+05/05/20,Sul,Paraníç,1588,26,99
+05/06/20,Sul,Paraníç,1627,39,101
+05/07/20,Sul,Paraníç,1656,29,104
+05/08/20,Sul,Paraníç,1711,55,106
+05/09/20,Sul,Paraníç,1785,74,107
+05/10/20,Sul,Paraníç,1835,50,109
+05/11/20,Sul,Paraníç,1849,14,111
+05/12/20,Sul,Paraníç,1906,57,113
+05/13/20,Sul,Paraníç,1996,90,117
+05/14/20,Sul,Paraníç,2063,67,119
+03/10/20,Sul,Rio Grande do Sul,1,1,0
+03/11/20,Sul,Rio Grande do Sul,2,1,0
+03/12/20,Sul,Rio Grande do Sul,4,2,0
+03/13/20,Sul,Rio Grande do Sul,4,0,0
+03/14/20,Sul,Rio Grande do Sul,6,2,0
+03/15/20,Sul,Rio Grande do Sul,6,0,0
+03/16/20,Sul,Rio Grande do Sul,6,0,0
+03/17/20,Sul,Rio Grande do Sul,10,4,0
+03/18/20,Sul,Rio Grande do Sul,19,9,0
+03/19/20,Sul,Rio Grande do Sul,28,9,0
+03/20/20,Sul,Rio Grande do Sul,37,9,0
+03/21/20,Sul,Rio Grande do Sul,60,23,0
+03/22/20,Sul,Rio Grande do Sul,72,12,0
+03/23/20,Sul,Rio Grande do Sul,86,14,0
+03/24/20,Sul,Rio Grande do Sul,98,12,0
+03/25/20,Sul,Rio Grande do Sul,123,25,1
+03/26/20,Sul,Rio Grande do Sul,168,45,1
+03/27/20,Sul,Rio Grande do Sul,195,27,2
+03/28/20,Sul,Rio Grande do Sul,197,2,2
+03/29/20,Sul,Rio Grande do Sul,226,29,2
+03/30/20,Sul,Rio Grande do Sul,241,15,3
+03/31/20,Sul,Rio Grande do Sul,274,33,4
+04/01/20,Sul,Rio Grande do Sul,306,32,4
+04/02/20,Sul,Rio Grande do Sul,334,28,5
+04/03/20,Sul,Rio Grande do Sul,396,62,5
+04/04/20,Sul,Rio Grande do Sul,410,14,6
+04/05/20,Sul,Rio Grande do Sul,418,8,7
+04/06/20,Sul,Rio Grande do Sul,481,63,7
+04/07/20,Sul,Rio Grande do Sul,508,27,8
+04/08/20,Sul,Rio Grande do Sul,555,47,9
+04/09/20,Sul,Rio Grande do Sul,618,63,12
+04/10/20,Sul,Rio Grande do Sul,636,18,14
+04/11/20,Sul,Rio Grande do Sul,640,4,15
+04/12/20,Sul,Rio Grande do Sul,653,13,16
+04/13/20,Sul,Rio Grande do Sul,664,11,16
+04/14/20,Sul,Rio Grande do Sul,700,36,18
+04/15/20,Sul,Rio Grande do Sul,747,47,19
+04/16/20,Sul,Rio Grande do Sul,780,33,19
+04/17/20,Sul,Rio Grande do Sul,802,22,22
+04/18/20,Sul,Rio Grande do Sul,831,29,24
+04/19/20,Sul,Rio Grande do Sul,854,23,24
+04/20/20,Sul,Rio Grande do Sul,889,35,27
+04/21/20,Sul,Rio Grande do Sul,904,15,27
+04/22/20,Sul,Rio Grande do Sul,923,19,27
+04/23/20,Sul,Rio Grande do Sul,994,71,29
+04/24/20,Sul,Rio Grande do Sul,1061,67,31
+04/25/20,Sul,Rio Grande do Sul,1096,35,34
+04/26/20,Sul,Rio Grande do Sul,1166,70,35
+04/27/20,Sul,Rio Grande do Sul,1228,62,42
+04/28/20,Sul,Rio Grande do Sul,1286,58,45
+04/29/20,Sul,Rio Grande do Sul,1368,82,50
+04/30/20,Sul,Rio Grande do Sul,1466,98,51
+05/01/20,Sul,Rio Grande do Sul,1529,63,58
+05/02/20,Sul,Rio Grande do Sul,1619,90,62
+05/03/20,Sul,Rio Grande do Sul,1666,47,65
+05/04/20,Sul,Rio Grande do Sul,1711,45,74
+05/05/20,Sul,Rio Grande do Sul,1815,104,79
+05/06/20,Sul,Rio Grande do Sul,2050,235,87
+05/07/20,Sul,Rio Grande do Sul,2129,79,90
+05/08/20,Sul,Rio Grande do Sul,2447,318,91
+05/09/20,Sul,Rio Grande do Sul,2493,46,95
+05/10/20,Sul,Rio Grande do Sul,2542,49,97
+05/11/20,Sul,Rio Grande do Sul,2576,34,105
+05/12/20,Sul,Rio Grande do Sul,2917,341,111
+05/13/20,Sul,Rio Grande do Sul,2917,0,111
+05/14/20,Sul,Rio Grande do Sul,2997,80,120
+03/13/20,Sul,Santa Catarina,2,2,0
+03/14/20,Sul,Santa Catarina,4,2,0
+03/15/20,Sul,Santa Catarina,6,2,0
+03/16/20,Sul,Santa Catarina,7,1,0
+03/17/20,Sul,Santa Catarina,7,0,0
+03/18/20,Sul,Santa Catarina,10,3,0
+03/19/20,Sul,Santa Catarina,20,10,0
+03/20/20,Sul,Santa Catarina,21,1,0
+03/21/20,Sul,Santa Catarina,51,30,0
+03/22/20,Sul,Santa Catarina,57,6,0
+03/23/20,Sul,Santa Catarina,68,11,0
+03/24/20,Sul,Santa Catarina,107,39,0
+03/25/20,Sul,Santa Catarina,109,2,0
+03/26/20,Sul,Santa Catarina,122,13,1
+03/27/20,Sul,Santa Catarina,149,27,1
+03/28/20,Sul,Santa Catarina,184,35,1
+03/29/20,Sul,Santa Catarina,194,10,1
+03/30/20,Sul,Santa Catarina,197,3,1
+03/31/20,Sul,Santa Catarina,219,22,2
+04/01/20,Sul,Santa Catarina,235,16,2
+04/02/20,Sul,Santa Catarina,247,12,2
+04/03/20,Sul,Santa Catarina,281,34,5
+04/04/20,Sul,Santa Catarina,334,53,5
+04/05/20,Sul,Santa Catarina,357,23,10
+04/06/20,Sul,Santa Catarina,379,22,10
+04/07/20,Sul,Santa Catarina,417,38,11
+04/08/20,Sul,Santa Catarina,457,40,15
+04/09/20,Sul,Santa Catarina,501,44,17
+04/10/20,Sul,Santa Catarina,693,192,18
+04/11/20,Sul,Santa Catarina,732,39,21
+04/12/20,Sul,Santa Catarina,768,36,24
+04/13/20,Sul,Santa Catarina,777,9,24
+04/14/20,Sul,Santa Catarina,826,49,26
+04/15/20,Sul,Santa Catarina,853,27,28
+04/16/20,Sul,Santa Catarina,884,31,29
+04/17/20,Sul,Santa Catarina,926,42,30
+04/18/20,Sul,Santa Catarina,962,36,31
+04/19/20,Sul,Santa Catarina,975,13,32
+04/20/20,Sul,Santa Catarina,1025,50,35
+04/21/20,Sul,Santa Catarina,1063,38,35
+04/22/20,Sul,Santa Catarina,1091,28,37
+04/23/20,Sul,Santa Catarina,1115,24,39
+04/24/20,Sul,Santa Catarina,1170,55,42
+04/25/20,Sul,Santa Catarina,1209,39,42
+04/26/20,Sul,Santa Catarina,1235,26,42
+04/27/20,Sul,Santa Catarina,1337,102,43
+04/28/20,Sul,Santa Catarina,1476,139,44
+04/29/20,Sul,Santa Catarina,1995,519,44
+04/30/20,Sul,Santa Catarina,2085,90,46
+05/01/20,Sul,Santa Catarina,2104,19,48
+05/02/20,Sul,Santa Catarina,2346,242,52
+05/03/20,Sul,Santa Catarina,2346,0,52
+05/04/20,Sul,Santa Catarina,2519,173,52
+05/05/20,Sul,Santa Catarina,2623,104,55
+05/06/20,Sul,Santa Catarina,2917,294,59
+05/07/20,Sul,Santa Catarina,3082,165,63
+05/08/20,Sul,Santa Catarina,3205,123,63
+05/09/20,Sul,Santa Catarina,3372,167,64
+05/10/20,Sul,Santa Catarina,3429,57,65
+05/11/20,Sul,Santa Catarina,3529,100,69
+05/12/20,Sul,Santa Catarina,3733,204,73
+05/13/20,Sul,Santa Catarina,3828,95,73
+05/14/20,Sul,Santa Catarina,4332,504,78
