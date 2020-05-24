@@ -1,0 +1,6 @@
+80/20 rule to split data into train/test batches
+prediction with original data (no transformation) is pretty good: clean up code into easily manipulable function
+prediction with log transformed data to correct stationarity - reverse the log trasnformation after the corrections
+intro to neural networks: data inputted and processed through "neuron-like"node structures with weights and then final result 
+is your predicted value which gets compared to the observed and self-corrects the weights and neurons to get final predicted
+value as close to observed as possible (as close to 0% error as possible)
