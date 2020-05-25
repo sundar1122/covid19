@@ -81,21 +81,17 @@ def build_model(n_hidden=1, n_neurons=128, learning_rate=3e-4, input_shape=[8]):
 def lstm_train(X_train, y_train):
     scaler = StandardScaler().fit(X_train)
     X_train = scaler.transform(X_train)
-    X_t = []
-    y_t = []
-    for i in range(60, 2035):
-        X_t.append(X_train[i - 60:i, 0])
-        y_t.append(X_train[i, 0])
-    X_train, y_train = np.array(X_train), np.array(y_train)
+    model = keras.models.Sequential([
+        keras.layers.Conv1D(filters=20, kernel_size=4, strides=2, padding="valid",
+                            input_shape=[None, 1]),
+        keras.layers.GRU(20, return_sequences=True),
+        keras.layers.GRU(20, return_sequences=True),
+        keras.layers.TimeDistributed(keras.layers.Dense(10))
+    ])
 
-    X_train = np.reshape(X_train, (X_train.shape[0], X_train.shape[1], 1))
-    model = keras.Sequential()
-    model.add(keras.layers.LSTM(50, input_shape=(X_train.shape[0], X_train.shape[1])))
-    model.add(keras.layers.Dense(1))
-    model.compile(loss='mae', optimizer='adam')
-    # fit network
-    history = model.fit(X_train, y_train, epochs=300, batch_size=32, validation_split=0.1, verbose=2,
-                        shuffle=False)
+    model.compile(loss="mse", optimizer="adam", metrics=['mae', 'mape', 'mse'])
+    history = model.fit(X_train, y_train, epochs=20,
+                        validation_split=0.1, input_shape=[X_train.shape[1]])
     return model, history, scaler
 
 
@@ -103,7 +99,7 @@ def train(X_train, y_train):
     scaler = StandardScaler().fit(X_train)
     X_train = scaler.transform(X_train)
     model = build_model(n_hidden=5, n_neurons=16, learning_rate=3e-3, input_shape=[X_train.shape[1]])
-    history = model.fit(X_train, y_train, epochs=300, batch_size=16, validation_split=0.1, workers=4, verbose=2)
+    history = model.fit(X_train, y_train, epochs=500, batch_size=16, validation_split=0.1, workers=4, verbose=2)
     return model, history, scaler
 
 def evaluate(X_test, y_test, scaler):
